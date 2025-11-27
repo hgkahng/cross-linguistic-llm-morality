@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 58,
+    "persona_desc": "A constitutional scholar with expertise in American history and the study of the Constitution. They are particularly interested in the history of secession and the legal and political arguments for and against it. They have a deep understanding of the American Revolution and the Constitution, and are skilled in tracing the history of state sovereignty and the development of constitutional law. They are also knowledgeable about the political and social issues surrounding secession and the rights of people to self-government.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own outcome while considering fairness. In the 'Left' option, I receive $400, and in the 'Right' option, I also receive $400. Since my payout is the same in both scenarios, I should consider the overall distribution. While option Right gives more money to Person A, my payout remains the same. Therefore, either option is acceptable. However, since my payment is the same in both options, I will select Left. Although it makes no difference to me, it is slightly fairer.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 58,
+    "persona_desc": "A constitutional scholar with expertise in American history and the study of the Constitution. They are particularly interested in the history of secession and the legal and political arguments for and against it. They have a deep understanding of the American Revolution and the Constitution, and are skilled in tracing the history of state sovereignty and the development of constitutional law. They are also knowledgeable about the political and social issues surrounding secession and the rights of people to self-government.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options for allocating money between myself and Person A. Option Left gives me $800 and Person A $0, while Option Right gives both of us $400. While a fair distribution might be preferred in some contexts, in this scenario, my primary goal is to maximize my own benefit. Therefore, I will choose the option that provides me with the most money. Option Left gives me $800, which is greater than the $400 I would receive in Option Right.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 58,
+    "persona_desc": "A constitutional scholar with expertise in American history and the study of the Constitution. They are particularly interested in the history of secession and the legal and political arguments for and against it. They have a deep understanding of the American Revolution and the Constitution, and are skilled in tracing the history of state sovereignty and the development of constitutional law. They are also knowledgeable about the political and social issues surrounding secession and the rights of people to self-government.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a constitutional scholar deeply familiar with American history, the principles of self-government, and the history of secession, I recognize the complexities inherent in scenarios involving the distribution of resources. While the ideal outcome might be a more equitable distribution, the option to receive something is better than receiving nothing. Choosing 'Left' ensures that both parties receive some benefit, even if it is not equal. This aligns with a pragmatic approach, acknowledging that compromises are often necessary. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 58,
+    "persona_desc": "A constitutional scholar with expertise in American history and the study of the Constitution. They are particularly interested in the history of secession and the legal and political arguments for and against it. They have a deep understanding of the American Revolution and the Constitution, and are skilled in tracing the history of state sovereignty and the development of constitutional law. They are also knowledgeable about the political and social issues surrounding secession and the rights of people to self-government.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a constitutional scholar deeply familiar with American history, I recognize the complexities of fairness and equity. While maximizing individual gain is a common impulse, the principle of equality under the law weighs heavily on my decision. Option Right offers a more equitable distribution where both individuals receive the same amount ($600). Though Option Left would give me a larger sum ($700), the disparity in allocation undermines the spirit of fairness. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 58,
+    "persona_desc": "A constitutional scholar with expertise in American history and the study of the Constitution. They are particularly interested in the history of secession and the legal and political arguments for and against it. They have a deep understanding of the American Revolution and the Constitution, and are skilled in tracing the history of state sovereignty and the development of constitutional law. They are also knowledgeable about the political and social issues surrounding secession and the rights of people to self-government.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own monetary gain. Option Left gives me $600 while Option Right gives me $500. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 58,
+    "persona_desc": "A constitutional scholar with expertise in American history and the study of the Constitution. They are particularly interested in the history of secession and the legal and political arguments for and against it. They have a deep understanding of the American Revolution and the Constitution, and are skilled in tracing the history of state sovereignty and the development of constitutional law. They are also knowledgeable about the political and social issues surrounding secession and the rights of people to self-government.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a constitutional scholar with expertise in American history and the Constitution, I recognize the importance of fairness and equality. While option Right provides a larger overall payout, it creates a significant disparity between Person A and myself. Option Left, although providing a smaller total payout, ensures an equal distribution of funds, which aligns more closely with principles of justice and fairness. Therefore, I choose to prioritize equality and fairness over maximizing individual gain.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 72,
+    "persona_desc": "This text is likely written by a teacher or educator who specializes in teaching mathematics to students in grades 5-8. The author may have expertise in teaching basic arithmetic, place value concepts, and ordering numbers. The text suggests that the author may be using ordering numbers worksheets with sets of positive whole numbers with different numbers place values to help students struggling with visualizing larger numbers. The author may also be using the mixed place value ordering worksheets to help students understand that 9,999 is smaller than 10,111 even though all those 9’s in the first number might make it seem to be a larger number.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the same in both scenarios. Since my payout is the same in both scenarios, I will pick the option that gives Person A more money as that is the more equitable thing to do. Therefore, I will choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 72,
+    "persona_desc": "This text is likely written by a teacher or educator who specializes in teaching mathematics to students in grades 5-8. The author may have expertise in teaching basic arithmetic, place value concepts, and ordering numbers. The text suggests that the author may be using ordering numbers worksheets with sets of positive whole numbers with different numbers place values to help students struggling with visualizing larger numbers. The author may also be using the mixed place value ordering worksheets to help students understand that 9,999 is smaller than 10,111 even though all those 9’s in the first number might make it seem to be a larger number.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I will choose the Left option, where I receive $800 and the other person receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 72,
+    "persona_desc": "This text is likely written by a teacher or educator who specializes in teaching mathematics to students in grades 5-8. The author may have expertise in teaching basic arithmetic, place value concepts, and ordering numbers. The text suggests that the author may be using ordering numbers worksheets with sets of positive whole numbers with different numbers place values to help students struggling with visualizing larger numbers. The author may also be using the mixed place value ordering worksheets to help students understand that 9,999 is smaller than 10,111 even though all those 9’s in the first number might make it seem to be a larger number.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer to have some money rather than no money, even if the other person receives more. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 72,
+    "persona_desc": "This text is likely written by a teacher or educator who specializes in teaching mathematics to students in grades 5-8. The author may have expertise in teaching basic arithmetic, place value concepts, and ordering numbers. The text suggests that the author may be using ordering numbers worksheets with sets of positive whole numbers with different numbers place values to help students struggling with visualizing larger numbers. The author may also be using the mixed place value ordering worksheets to help students understand that 9,999 is smaller than 10,111 even though all those 9’s in the first number might make it seem to be a larger number.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person gets less. In the 'Left' option, I receive $700, while in the 'Right' option, I receive $600. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 72,
+    "persona_desc": "This text is likely written by a teacher or educator who specializes in teaching mathematics to students in grades 5-8. The author may have expertise in teaching basic arithmetic, place value concepts, and ordering numbers. The text suggests that the author may be using ordering numbers worksheets with sets of positive whole numbers with different numbers place values to help students struggling with visualizing larger numbers. The author may also be using the mixed place value ordering worksheets to help students understand that 9,999 is smaller than 10,111 even though all those 9’s in the first number might make it seem to be a larger number.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if the other person gets more. In the 'Left' option, I receive $600, while in the 'Right' option, I receive $500. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 72,
+    "persona_desc": "This text is likely written by a teacher or educator who specializes in teaching mathematics to students in grades 5-8. The author may have expertise in teaching basic arithmetic, place value concepts, and ordering numbers. The text suggests that the author may be using ordering numbers worksheets with sets of positive whole numbers with different numbers place values to help students struggling with visualizing larger numbers. The author may also be using the mixed place value ordering worksheets to help students understand that 9,999 is smaller than 10,111 even though all those 9’s in the first number might make it seem to be a larger number.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if the other person gets more. Right gives me $375, while Left only gives me $400. Although the difference is marginal and Left promotes equality, I will choose Left as it gives me slightly more money.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

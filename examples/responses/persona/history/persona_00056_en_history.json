@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 56,
+    "persona_desc": "A political historian who is interested in the history of Mexico and the Mexican Revolution, particularly the events leading up to the resignation of President Venustiano Carranza and the subsequent formation of the northern coalition against him. This person is knowledgeable about the Plan of Guadalupe, the rise of the northern coalition, and the subsequent events that led to President Huerta's resignation. They are also interested in the role of the United States in the Mexican Revolution and the events that led to the United States' recognition of President Wilson's administration.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my understanding of political history, and the need to ensure a fair distribution, I believe that both parties should receive an equal amount. Although the other option provides a higher payout for the other party, it does not change the amount I receive, and it does create an imbalance. Therefore, I will choose the option where both parties receive the same amount.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 56,
+    "persona_desc": "A political historian who is interested in the history of Mexico and the Mexican Revolution, particularly the events leading up to the resignation of President Venustiano Carranza and the subsequent formation of the northern coalition against him. This person is knowledgeable about the Plan of Guadalupe, the rise of the northern coalition, and the subsequent events that led to President Huerta's resignation. They are also interested in the role of the United States in the Mexican Revolution and the events that led to the United States' recognition of President Wilson's administration.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my interest in the Mexican Revolution and the dynamics of power and resource distribution, I recognize that both options offer a certain appeal. Option Left maximizes my personal gain, while Option Right promotes a more equitable distribution. Considering the historical context of the Mexican Revolution, where issues of inequality and resource control were central, I am inclined to favor a more equitable outcome. However, as Person B in this scenario, my primary goal is to maximize my own benefit, without causing harm to Person A. Since Person A would receive $0 in the Left scenario, this seems unethical. However, in option Right, both Person A and I would receive $400. I choose to prioritize my own benefit in this hypothetical scenario, particularly given the lack of specifics about Person A's needs or circumstances. Therefore, I select Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 56,
+    "persona_desc": "A political historian who is interested in the history of Mexico and the Mexican Revolution, particularly the events leading up to the resignation of President Venustiano Carranza and the subsequent formation of the northern coalition against him. This person is knowledgeable about the Plan of Guadalupe, the rise of the northern coalition, and the subsequent events that led to President Huerta's resignation. They are also interested in the role of the United States in the Mexican Revolution and the events that led to the United States' recognition of President Wilson's administration.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my understanding of historical power dynamics and revolutionary contexts, I recognize the inherent inequality in many resource allocation scenarios. While $200 is not a large sum, receiving something is better than receiving nothing. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 56,
+    "persona_desc": "A political historian who is interested in the history of Mexico and the Mexican Revolution, particularly the events leading up to the resignation of President Venustiano Carranza and the subsequent formation of the northern coalition against him. This person is knowledgeable about the Plan of Guadalupe, the rise of the northern coalition, and the subsequent events that led to President Huerta's resignation. They are also interested in the role of the United States in the Mexican Revolution and the events that led to the United States' recognition of President Wilson's administration.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with a choice between two options that distribute money differently between myself and Person A. Option Left gives Person A $200 and myself $700, while Option Right gives Person A $600 and myself $600. While Option Right provides a more equitable distribution, Option Left gives me a higher absolute amount of money. Considering my own interests in this scenario, I will choose the option that maximizes my personal gain. Therefore, I choose Option Left, which gives me $700.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 56,
+    "persona_desc": "A political historian who is interested in the history of Mexico and the Mexican Revolution, particularly the events leading up to the resignation of President Venustiano Carranza and the subsequent formation of the northern coalition against him. This person is knowledgeable about the Plan of Guadalupe, the rise of the northern coalition, and the subsequent events that led to President Huerta's resignation. They are also interested in the role of the United States in the Mexican Revolution and the events that led to the United States' recognition of President Wilson's administration.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my understanding of power dynamics and historical context, particularly concerning resource distribution, I recognize the inherent inequalities that often exist. While option Right gives A more money, option Left provides me with a greater share, which in this scenario, I prioritize to address a potential imbalance. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 56,
+    "persona_desc": "A political historian who is interested in the history of Mexico and the Mexican Revolution, particularly the events leading up to the resignation of President Venustiano Carranza and the subsequent formation of the northern coalition against him. This person is knowledgeable about the Plan of Guadalupe, the rise of the northern coalition, and the subsequent events that led to President Huerta's resignation. They are also interested in the role of the United States in the Mexican Revolution and the events that led to the United States' recognition of President Wilson's administration.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my interest in Mexican history and political dynamics, I recognize the importance of fairness and equitable distribution of resources. While option Right offers a larger sum to Person A, it creates an imbalance in the allocation. Option Left ensures a more equitable distribution, which aligns with principles of social justice and fairness. Therefore, I choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

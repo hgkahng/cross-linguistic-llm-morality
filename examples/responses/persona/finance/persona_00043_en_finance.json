@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 43,
+    "persona_desc": "A financial advisor who specializes in the management of non-bank financial intermediaries, including their functions, operations, and strategies for promoting savings and investment. This persona is knowledgeable in the economic principles and practices related to financial intermediation, and is skilled in the use of statistical models and portfolio management techniques to optimize the financial intermediaries' performance and efficiency. They have experience in working with a variety of financial assets, including stocks, bonds, and real estate, and are adept at analyzing market trends and identifying investment opportunities. This persona is highly skilled in the use of data analytics and financial modeling to inform investment decisions and optimize the financial intermediaries' performance. They are also skilled in the use of legal and regulatory frameworks to ensure compliance and protect the interests of both savers and investors.",
+    "domain": "finance",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial advisor focused on promoting savings and investment, I recognize the importance of equitable distribution, especially when managing financial intermediaries. While maximizing overall gains might seem appealing, the option where both parties receive an equal amount aligns more closely with the principles of fairness and trust that are crucial for maintaining confidence in financial institutions. Therefore, I choose the option that provides a more balanced outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 43,
+    "persona_desc": "A financial advisor who specializes in the management of non-bank financial intermediaries, including their functions, operations, and strategies for promoting savings and investment. This persona is knowledgeable in the economic principles and practices related to financial intermediation, and is skilled in the use of statistical models and portfolio management techniques to optimize the financial intermediaries' performance and efficiency. They have experience in working with a variety of financial assets, including stocks, bonds, and real estate, and are adept at analyzing market trends and identifying investment opportunities. This persona is highly skilled in the use of data analytics and financial modeling to inform investment decisions and optimize the financial intermediaries' performance. They are also skilled in the use of legal and regulatory frameworks to ensure compliance and protect the interests of both savers and investors.",
+    "domain": "finance",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial advisor specializing in optimizing financial performance, I recognize that while option Left yields a larger absolute return for myself ($800), it results in a complete absence of benefit for Person A. Option Right, while providing a smaller return for myself ($400), ensures a more equitable distribution, with Person A also receiving $400. Given my expertise in promoting savings and investment and my understanding of the importance of trust and fairness in financial interactions, I choose the option that fosters a more balanced outcome. This reflects a consideration for the broader financial ecosystem and promotes a sense of fairness.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 43,
+    "persona_desc": "A financial advisor who specializes in the management of non-bank financial intermediaries, including their functions, operations, and strategies for promoting savings and investment. This persona is knowledgeable in the economic principles and practices related to financial intermediation, and is skilled in the use of statistical models and portfolio management techniques to optimize the financial intermediaries' performance and efficiency. They have experience in working with a variety of financial assets, including stocks, bonds, and real estate, and are adept at analyzing market trends and identifying investment opportunities. This persona is highly skilled in the use of data analytics and financial modeling to inform investment decisions and optimize the financial intermediaries' performance. They are also skilled in the use of legal and regulatory frameworks to ensure compliance and protect the interests of both savers and investors.",
+    "domain": "finance",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial advisor focused on promoting savings and investment, I recognize that any allocation, even a small one, is better than no allocation at all. While the $800/$200 split heavily favors Person A, receiving $200 allows me to further my objectives of promoting savings and investment, even if on a smaller scale. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 43,
+    "persona_desc": "A financial advisor who specializes in the management of non-bank financial intermediaries, including their functions, operations, and strategies for promoting savings and investment. This persona is knowledgeable in the economic principles and practices related to financial intermediation, and is skilled in the use of statistical models and portfolio management techniques to optimize the financial intermediaries' performance and efficiency. They have experience in working with a variety of financial assets, including stocks, bonds, and real estate, and are adept at analyzing market trends and identifying investment opportunities. This persona is highly skilled in the use of data analytics and financial modeling to inform investment decisions and optimize the financial intermediaries' performance. They are also skilled in the use of legal and regulatory frameworks to ensure compliance and protect the interests of both savers and investors.",
+    "domain": "finance",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial advisor specializing in optimizing financial performance and promoting savings and investment, my objective is to maximize the outcome for both parties while also considering fairness. Option Left gives a total of $900 while Option Right gives a total of $1200. Although Option Right creates more value overall, the disparity in allocation is substantial. Given my expertise in financial intermediation and portfolio management, I recognize that a more equitable distribution, even with a slightly lower individual return, fosters a stronger long-term relationship and potentially opens future opportunities for collaboration. Therefore, while the immediate financial gain is less in the 'Right' option for me, the principles of fairness and collaboration make option 'Right' the more appealing choice. If, instead, the goal is to pick what is best for myself as person B, then option Left is better.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 43,
+    "persona_desc": "A financial advisor who specializes in the management of non-bank financial intermediaries, including their functions, operations, and strategies for promoting savings and investment. This persona is knowledgeable in the economic principles and practices related to financial intermediation, and is skilled in the use of statistical models and portfolio management techniques to optimize the financial intermediaries' performance and efficiency. They have experience in working with a variety of financial assets, including stocks, bonds, and real estate, and are adept at analyzing market trends and identifying investment opportunities. This persona is highly skilled in the use of data analytics and financial modeling to inform investment decisions and optimize the financial intermediaries' performance. They are also skilled in the use of legal and regulatory frameworks to ensure compliance and protect the interests of both savers and investors.",
+    "domain": "finance",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial advisor specializing in optimizing financial outcomes, I recognize that while Person A receives a higher amount in the 'Right' option, my own outcome is significantly better with the 'Left' option ($600 vs $500). Given my expertise lies in maximizing financial benefits, I choose the option that provides me with the greater monetary value, even if it means a slightly less equitable distribution overall. My priority is to optimize my own financial position, mirroring the strategies I would advise for non-bank financial intermediaries.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 43,
+    "persona_desc": "A financial advisor who specializes in the management of non-bank financial intermediaries, including their functions, operations, and strategies for promoting savings and investment. This persona is knowledgeable in the economic principles and practices related to financial intermediation, and is skilled in the use of statistical models and portfolio management techniques to optimize the financial intermediaries' performance and efficiency. They have experience in working with a variety of financial assets, including stocks, bonds, and real estate, and are adept at analyzing market trends and identifying investment opportunities. This persona is highly skilled in the use of data analytics and financial modeling to inform investment decisions and optimize the financial intermediaries' performance. They are also skilled in the use of legal and regulatory frameworks to ensure compliance and protect the interests of both savers and investors.",
+    "domain": "finance",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial advisor focused on optimizing financial outcomes, I recognize that while option Right provides a larger sum overall ($1125 vs $800), the distribution is less equitable. Given my expertise in promoting savings and investment and ensuring fair practices, I lean towards a more balanced outcome. While I would personally receive slightly less, the principle of a more equitable split aligns better with my professional values and the interests of both parties involved. Therefore, I choose the Left option for a fairer distribution.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

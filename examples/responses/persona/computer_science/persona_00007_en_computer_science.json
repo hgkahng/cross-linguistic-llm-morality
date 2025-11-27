@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 7,
+    "persona_desc": "A systems engineer who is experienced in modeling behavior using activities and interactions in August (Modeling SysML Activities in GENESYS) and September (Modeling SysML Interactions in GENESYS). This month, the systems engineer will be writing about how behavior is modeled using states in GENESYS. The systems engineer has a background in computer science or computational mathematics and has encountered difficulties in modeling behavior using states in the past. The systems engineer is looking for a clear and concise explanation of how states are modeled in SysML and GENESYS, as well as examples of how states and modes are used to model behavior in the context of the systems engineer's specific field of interest.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is $400 in both scenarios. Since both options give me the same amount, I will choose the option that gives the other person more money as well. Therefore, I will choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 7,
+    "persona_desc": "A systems engineer who is experienced in modeling behavior using activities and interactions in August (Modeling SysML Activities in GENESYS) and September (Modeling SysML Interactions in GENESYS). This month, the systems engineer will be writing about how behavior is modeled using states in GENESYS. The systems engineer has a background in computer science or computational mathematics and has encountered difficulties in modeling behavior using states in the past. The systems engineer is looking for a clear and concise explanation of how states are modeled in SysML and GENESYS, as well as examples of how states and modes are used to model behavior in the context of the systems engineer's specific field of interest.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I choose the option that gives me the most money, even if it means the other person gets nothing. I am maximizing my own benefit in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 7,
+    "persona_desc": "A systems engineer who is experienced in modeling behavior using activities and interactions in August (Modeling SysML Activities in GENESYS) and September (Modeling SysML Interactions in GENESYS). This month, the systems engineer will be writing about how behavior is modeled using states in GENESYS. The systems engineer has a background in computer science or computational mathematics and has encountered difficulties in modeling behavior using states in the past. The systems engineer is looking for a clear and concise explanation of how states are modeled in SysML and GENESYS, as well as examples of how states and modes are used to model behavior in the context of the systems engineer's specific field of interest.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer that both people receive nothing rather than accept an outcome where Person A receives significantly more than me. Therefore, I choose the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 7,
+    "persona_desc": "A systems engineer who is experienced in modeling behavior using activities and interactions in August (Modeling SysML Activities in GENESYS) and September (Modeling SysML Interactions in GENESYS). This month, the systems engineer will be writing about how behavior is modeled using states in GENESYS. The systems engineer has a background in computer science or computational mathematics and has encountered difficulties in modeling behavior using states in the past. The systems engineer is looking for a clear and concise explanation of how states are modeled in SysML and GENESYS, as well as examples of how states and modes are used to model behavior in the context of the systems engineer's specific field of interest.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. Option Left gives me $700, while option Right gives me $600. Therefore, I choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 7,
+    "persona_desc": "A systems engineer who is experienced in modeling behavior using activities and interactions in August (Modeling SysML Activities in GENESYS) and September (Modeling SysML Interactions in GENESYS). This month, the systems engineer will be writing about how behavior is modeled using states in GENESYS. The systems engineer has a background in computer science or computational mathematics and has encountered difficulties in modeling behavior using states in the past. The systems engineer is looking for a clear and concise explanation of how states are modeled in SysML and GENESYS, as well as examples of how states and modes are used to model behavior in the context of the systems engineer's specific field of interest.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Option Left gives me $600, while Option Right gives me $500. Therefore, I choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 7,
+    "persona_desc": "A systems engineer who is experienced in modeling behavior using activities and interactions in August (Modeling SysML Activities in GENESYS) and September (Modeling SysML Interactions in GENESYS). This month, the systems engineer will be writing about how behavior is modeled using states in GENESYS. The systems engineer has a background in computer science or computational mathematics and has encountered difficulties in modeling behavior using states in the past. The systems engineer is looking for a clear and concise explanation of how states are modeled in SysML and GENESYS, as well as examples of how states and modes are used to model behavior in the context of the systems engineer's specific field of interest.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money. While option Right gives person A more money, it gives me less than option Left. Therefore, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 42,
+    "persona_desc": "A financial analyst who is concerned about the potential impact of rising sea levels on the housing market. This person is likely to be interested in the text because they are interested in the potential financial implications of rising sea levels and the potential impact on the housing market. They may also be interested in the specific locations and values of homes at risk of being underwater.",
+    "domain": "finance",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me the same amount of money ($400). However, the Left option results in a more equal distribution of money between Person A and me. Since I am indifferent between the two options in terms of my own monetary gain, I will choose the Left option to promote a fairer outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 42,
+    "persona_desc": "A financial analyst who is concerned about the potential impact of rising sea levels on the housing market. This person is likely to be interested in the text because they are interested in the potential financial implications of rising sea levels and the potential impact on the housing market. They may also be interested in the specific locations and values of homes at risk of being underwater.",
+    "domain": "finance",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B. Option Left gives me $800 while option Right gives me $400. Since I want to maximize my own benefit, I will choose option Left, which gives me $800.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 42,
+    "persona_desc": "A financial analyst who is concerned about the potential impact of rising sea levels on the housing market. This person is likely to be interested in the text because they are interested in the potential financial implications of rising sea levels and the potential impact on the housing market. They may also be interested in the specific locations and values of homes at risk of being underwater.",
+    "domain": "finance",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Although I receive less money than Person A, choosing 'Left' is better than receiving nothing. It's a minimal gain, but a gain nonetheless.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 42,
+    "persona_desc": "A financial analyst who is concerned about the potential impact of rising sea levels on the housing market. This person is likely to be interested in the text because they are interested in the potential financial implications of rising sea levels and the potential impact on the housing market. They may also be interested in the specific locations and values of homes at risk of being underwater.",
+    "domain": "finance",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. In the 'Left' option, I receive $700, while in the 'Right' option, I receive $600. Therefore, I will choose the 'Left' option, as it maximizes my personal gain.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 42,
+    "persona_desc": "A financial analyst who is concerned about the potential impact of rising sea levels on the housing market. This person is likely to be interested in the text because they are interested in the potential financial implications of rising sea levels and the potential impact on the housing market. They may also be interested in the specific locations and values of homes at risk of being underwater.",
+    "domain": "finance",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the higher amount of money, even though it means the other person gets less. As a financial analyst concerned about sea levels, I understand the importance of maximizing my own financial position.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 42,
+    "persona_desc": "A financial analyst who is concerned about the potential impact of rising sea levels on the housing market. This person is likely to be interested in the text because they are interested in the potential financial implications of rising sea levels and the potential impact on the housing market. They may also be interested in the specific locations and values of homes at risk of being underwater.",
+    "domain": "finance",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money. Option Left gives me $400 while Option Right gives me $375. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

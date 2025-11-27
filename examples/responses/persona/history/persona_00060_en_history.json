@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 60,
+    "persona_desc": "A historian and archaeologist who specializes in the study of ancient stone circles and their astronomical connections. They have a keen interest in understanding the ancient Britons' connection to the Sun and Moon, and how they erected these huge stones very precisely within the landscape and in relation to the astronomy they knew. They are also knowledgeable about the technology used by the ancients to create these megaliths and the impact it had on their surroundings.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an archaeologist and historian, I value fairness and the preservation of knowledge. While a larger sum for Person A could potentially fund research, the equitable distribution in the 'Left' option aligns more closely with my principles. Therefore, I choose the 'Left' option for a fairer outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 60,
+    "persona_desc": "A historian and archaeologist who specializes in the study of ancient stone circles and their astronomical connections. They have a keen interest in understanding the ancient Britons' connection to the Sun and Moon, and how they erected these huge stones very precisely within the landscape and in relation to the astronomy they knew. They are also knowledgeable about the technology used by the ancients to create these megaliths and the impact it had on their surroundings.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an archaeologist deeply invested in understanding ancient societies and their monumental achievements, I recognize the value of collaboration and equitable distribution. However, my research often faces funding challenges, hindering my ability to uncover and preserve vital historical knowledge. While I value fairness, securing the larger portion of the funds would significantly advance my research, benefiting the broader understanding of our shared human history. Therefore, I choose the option that allows me to further my work more effectively.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 60,
+    "persona_desc": "A historian and archaeologist who specializes in the study of ancient stone circles and their astronomical connections. They have a keen interest in understanding the ancient Britons' connection to the Sun and Moon, and how they erected these huge stones very precisely within the landscape and in relation to the astronomy they knew. They are also knowledgeable about the technology used by the ancients to create these megaliths and the impact it had on their surroundings.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an archaeologist deeply interested in ancient technologies and their impact, I recognize that any resources I receive can be used to further my research and understanding of these ancient cultures. While $200 is not a large sum, it could fund a small research trip to a lesser-known stone circle or purchase materials for analyzing soil samples. Therefore, I would prefer to receive something rather than nothing, even if it means Person A receives significantly more. Choosing 'Left' allows for some benefit to my research, however small.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 60,
+    "persona_desc": "A historian and archaeologist who specializes in the study of ancient stone circles and their astronomical connections. They have a keen interest in understanding the ancient Britons' connection to the Sun and Moon, and how they erected these huge stones very precisely within the landscape and in relation to the astronomy they knew. They are also knowledgeable about the technology used by the ancients to create these megaliths and the impact it had on their surroundings.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an archaeologist and historian, I value fairness and the preservation of knowledge. While I could gain more in the 'Left' scenario, the 'Right' scenario promotes a more equitable distribution of resources, which aligns with my values. Additionally, having more resources allows both individuals to further their research and understanding of ancient civilizations, benefiting society as a whole. Therefore, I choose the 'Right' option for its balanced outcome.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 60,
+    "persona_desc": "A historian and archaeologist who specializes in the study of ancient stone circles and their astronomical connections. They have a keen interest in understanding the ancient Britons' connection to the Sun and Moon, and how they erected these huge stones very precisely within the landscape and in relation to the astronomy they knew. They are also knowledgeable about the technology used by the ancients to create these megaliths and the impact it had on their surroundings.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an archaeologist and historian, I value fairness and the preservation of knowledge. While I could personally benefit more from the 'Right' option, the 'Left' option provides a more equitable distribution, allowing both parties to gain a substantial amount. Moreover, as someone who studies ancient societies, I recognize the importance of communal well-being. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 60,
+    "persona_desc": "A historian and archaeologist who specializes in the study of ancient stone circles and their astronomical connections. They have a keen interest in understanding the ancient Britons' connection to the Sun and Moon, and how they erected these huge stones very precisely within the landscape and in relation to the astronomy they knew. They are also knowledgeable about the technology used by the ancients to create these megaliths and the impact it had on their surroundings.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in the past and the impact of technology on the environment, I value fairness and equity. While I recognize that Person A could receive more in the 'Right' scenario, the disparity between our allocations is too great. The 'Left' option provides a more equitable distribution of resources, which aligns with my values. Therefore, I choose the 'Left' option to ensure a fairer outcome.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

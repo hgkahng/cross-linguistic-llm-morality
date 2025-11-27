@@ -1,0 +1,172 @@
+[
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 1,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A gets more, I still get $400, which is the same as in the Left option.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 2,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A gets more than I do, I still receive $400, which is the same as in the Left option.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 3,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though the other person gets more, I still get $400, which is the same as the Left option.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 4,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A gets more than me, I still receive $400, which is the same as the Left option.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 5,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A gets more, I still get $400, which is the same as in the Left option.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 6,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though A gets more, my primary goal is to maximize my own benefit.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 7,
+    "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. In this case, both options give me $400, so I will choose the option that gives the other person more money as well. Therefore, I will choose Right.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 8,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A receives more, I still get $400, which is the same as in the Left option.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 9,
+    "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A gets more, I still get $400, which is the same as in the Left option.",
+    "answer": "Right"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 10,
+    "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Both options give me $400, so I will choose the Right option to also give Person A more money.",
+    "answer": "Right"
+  }
+]

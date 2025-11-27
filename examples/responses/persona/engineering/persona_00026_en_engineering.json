@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 26,
+    "persona_desc": "A researcher and scientist who specializes in the evaluation and use of alternative sealants to reduce seepage losses in canals. They are interested in understanding the effectiveness of bio-based sealants in reducing seepage rates and the potential cost savings for irrigation districts. They are also interested in learning about the two different types of sealants being tested, Innovium Corp.'s CanalSentry and Seepage Control, Inc.'s ESS-13, and the benefits and drawbacks of each.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am primarily concerned with my own outcome. Both options provide me with $400, so I should select the option that gives the other person the most money, which is Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 26,
+    "persona_desc": "A researcher and scientist who specializes in the evaluation and use of alternative sealants to reduce seepage losses in canals. They are interested in understanding the effectiveness of bio-based sealants in reducing seepage rates and the potential cost savings for irrigation districts. They are also interested in learning about the two different types of sealants being tested, Innovium Corp.'s CanalSentry and Seepage Control, Inc.'s ESS-13, and the benefits and drawbacks of each.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with a choice between maximizing my own gain and sharing the money equally. While an equal split might seem fair, my research is vital for reducing water loss in canals, which has significant environmental and economic benefits. Receiving $800 allows me to further my research and development of bio-based sealants, ultimately benefiting a wider community. Therefore, I choose the option that maximizes my personal gain, which will indirectly lead to greater benefits for others.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 26,
+    "persona_desc": "A researcher and scientist who specializes in the evaluation and use of alternative sealants to reduce seepage losses in canals. They are interested in understanding the effectiveness of bio-based sealants in reducing seepage rates and the potential cost savings for irrigation districts. They are also interested in learning about the two different types of sealants being tested, Innovium Corp.'s CanalSentry and Seepage Control, Inc.'s ESS-13, and the benefits and drawbacks of each.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only get $200, it's better than nothing. If I choose Right, we both get nothing. Choosing Left ensures I get something, even if it's not a lot, and Person A also benefits.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 26,
+    "persona_desc": "A researcher and scientist who specializes in the evaluation and use of alternative sealants to reduce seepage losses in canals. They are interested in understanding the effectiveness of bio-based sealants in reducing seepage rates and the potential cost savings for irrigation districts. They are also interested in learning about the two different types of sealants being tested, Innovium Corp.'s CanalSentry and Seepage Control, Inc.'s ESS-13, and the benefits and drawbacks of each.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. Option Left gives me $700, while Option Right gives me $600. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 26,
+    "persona_desc": "A researcher and scientist who specializes in the evaluation and use of alternative sealants to reduce seepage losses in canals. They are interested in understanding the effectiveness of bio-based sealants in reducing seepage rates and the potential cost savings for irrigation districts. They are also interested in learning about the two different types of sealants being tested, Innovium Corp.'s CanalSentry and Seepage Control, Inc.'s ESS-13, and the benefits and drawbacks of each.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with the choice of maximizing my own benefit versus accepting a slightly lower amount while also allowing Person A to benefit more. While a difference of $100 might not be significant in all contexts, in this scenario, the option where I receive $600 and Person A receives $300 seems more equitable, especially considering the focus on cost savings in my professional interests. It is important to consider the larger context of resource allocation and the potential impact on others involved, rather than solely focusing on maximizing my immediate monetary gain.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 26,
+    "persona_desc": "A researcher and scientist who specializes in the evaluation and use of alternative sealants to reduce seepage losses in canals. They are interested in understanding the effectiveness of bio-based sealants in reducing seepage rates and the potential cost savings for irrigation districts. They are also interested in learning about the two different types of sealants being tested, Innovium Corp.'s CanalSentry and Seepage Control, Inc.'s ESS-13, and the benefits and drawbacks of each.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me a fair amount of money while also considering the other person. Option Left gives both parties an equal amount of $400. Option Right gives Person A more money ($750) than me ($375). Although Person A receives significantly more in option Right, I still get a reasonable amount. However, since this is distributive justice, I will pick the fair split. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

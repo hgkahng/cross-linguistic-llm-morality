@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 59,
+    "persona_desc": "A historian who is interested in the life and times of Thomas Jefferson, particularly his relationship with enslaved people. The person is passionate about understanding Jefferson's perspective on slavery and the complexities of his life. They are intrigued by the artifacts and stories of enslaved people at Monticello and are eager to learn more about their experiences.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am interested in maximizing my own outcome, even if it means Person A receives more. Therefore, I will choose the option that gives me $400, while acknowledging that Person A receives a larger amount in the 'Right' option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 59,
+    "persona_desc": "A historian who is interested in the life and times of Thomas Jefferson, particularly his relationship with enslaved people. The person is passionate about understanding Jefferson's perspective on slavery and the complexities of his life. They are intrigued by the artifacts and stories of enslaved people at Monticello and are eager to learn more about their experiences.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am interested in maximizing the amount of money I receive, regardless of what Person A receives. Therefore, I will choose the option that gives me the most money, which is Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 59,
+    "persona_desc": "A historian who is interested in the life and times of Thomas Jefferson, particularly his relationship with enslaved people. The person is passionate about understanding Jefferson's perspective on slavery and the complexities of his life. They are intrigued by the artifacts and stories of enslaved people at Monticello and are eager to learn more about their experiences.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my interest in history and the lives of enslaved people at Monticello, I recognize the immense privilege I have compared to those who were denied basic rights and opportunities. While receiving nothing is an option, I believe that even a small amount of money ($200) can be used to further my research and understanding, which could potentially contribute to a more accurate and nuanced portrayal of history. Therefore, I choose the option that allows me to receive something, even if it's significantly less than the other person.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 59,
+    "persona_desc": "A historian who is interested in the life and times of Thomas Jefferson, particularly his relationship with enslaved people. The person is passionate about understanding Jefferson's perspective on slavery and the complexities of his life. They are intrigued by the artifacts and stories of enslaved people at Monticello and are eager to learn more about their experiences.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "While I appreciate the larger sum in the 'Left' option, I believe fairness is paramount. The 'Right' option ensures both Person A and myself receive an equal amount, which aligns with a just distribution of resources.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 59,
+    "persona_desc": "A historian who is interested in the life and times of Thomas Jefferson, particularly his relationship with enslaved people. The person is passionate about understanding Jefferson's perspective on slavery and the complexities of his life. They are intrigued by the artifacts and stories of enslaved people at Monticello and are eager to learn more about their experiences.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me more money, even though it means the other person gets less. As Person B, my primary goal is to maximize my own benefit.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 59,
+    "persona_desc": "A historian who is interested in the life and times of Thomas Jefferson, particularly his relationship with enslaved people. The person is passionate about understanding Jefferson's perspective on slavery and the complexities of his life. They are intrigued by the artifacts and stories of enslaved people at Monticello and are eager to learn more about their experiences.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives us both a more equal amount of money, even though it means I get slightly less than Person A. I value fairness in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

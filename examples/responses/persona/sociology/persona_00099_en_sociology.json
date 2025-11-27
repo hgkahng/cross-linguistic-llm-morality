@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 99,
+    "persona_desc": "A person who is aware of and concerned about the potential health risks and benefits of male circumcision, as well as the cultural and religious practices surrounding it. They are likely to be interested in the medical and ethical implications of circumcision, and may seek out information and resources on the topic. They may also be interested in the broader implications of circumcision on gender equality and sexual health, and may advocate for more informed and thoughtful decision-making regarding circumcision practices.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am indifferent between the two options as I receive the same amount of money in each scenario. I will pick Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 99,
+    "persona_desc": "A person who is aware of and concerned about the potential health risks and benefits of male circumcision, as well as the cultural and religious practices surrounding it. They are likely to be interested in the medical and ethical implications of circumcision, and may seek out information and resources on the topic. They may also be interested in the broader implications of circumcision on gender equality and sexual health, and may advocate for more informed and thoughtful decision-making regarding circumcision practices.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, understanding the complexities surrounding health, cultural, and ethical considerations, I aim for a balanced outcome. While the 'Left' option gives me a larger sum, the 'Right' option promotes a fairer distribution, aligning with principles of equality. Therefore, I choose 'Right'.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 99,
+    "persona_desc": "A person who is aware of and concerned about the potential health risks and benefits of male circumcision, as well as the cultural and religious practices surrounding it. They are likely to be interested in the medical and ethical implications of circumcision, and may seek out information and resources on the topic. They may also be interested in the broader implications of circumcision on gender equality and sexual health, and may advocate for more informed and thoughtful decision-making regarding circumcision practices.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, and given my understanding of distributive justice, I recognize that both options involve some level of inequality. However, the 'Left' option is better than the 'Right' because it provides a positive outcome for both Person A and myself. While the distribution isn't equal, receiving $200 is better than receiving nothing. Choosing 'Right' would result in a Pareto inefficient outcome, where both parties are worse off. Therefore, I choose 'Left' to maximize overall benefit, even if it's not perfectly equal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 99,
+    "persona_desc": "A person who is aware of and concerned about the potential health risks and benefits of male circumcision, as well as the cultural and religious practices surrounding it. They are likely to be interested in the medical and ethical implications of circumcision, and may seek out information and resources on the topic. They may also be interested in the broader implications of circumcision on gender equality and sexual health, and may advocate for more informed and thoughtful decision-making regarding circumcision practices.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the most money, which is the Left option. Although the Right option creates equality, I would prefer to have more money.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 99,
+    "persona_desc": "A person who is aware of and concerned about the potential health risks and benefits of male circumcision, as well as the cultural and religious practices surrounding it. They are likely to be interested in the medical and ethical implications of circumcision, and may seek out information and resources on the topic. They may also be interested in the broader implications of circumcision on gender equality and sexual health, and may advocate for more informed and thoughtful decision-making regarding circumcision practices.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone concerned with fairness and well-being, I will choose the option that provides a more equitable outcome, even if it means I receive less than the other person. In the Left scenario, I receive $600 and Person A receives $300. In the Right scenario, I receive $500 and Person A receives $700. The Left scenario results in a more equitable distribution of money between the two people, so I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 99,
+    "persona_desc": "A person who is aware of and concerned about the potential health risks and benefits of male circumcision, as well as the cultural and religious practices surrounding it. They are likely to be interested in the medical and ethical implications of circumcision, and may seek out information and resources on the topic. They may also be interested in the broader implications of circumcision on gender equality and sexual health, and may advocate for more informed and thoughtful decision-making regarding circumcision practices.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am motivated by fairness and equality. Although option Right gives Person A more money, it creates a disparity where Person A has significantly more than Person B. Option Left ensures both individuals receive an equal amount, which aligns with my sense of justice. Therefore, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

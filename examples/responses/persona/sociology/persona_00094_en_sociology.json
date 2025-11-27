@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 94,
+    "persona_desc": "A highly educated and skilled individual who is passionate about the power of education in driving economic growth and development. They are knowledgeable about the history, context, and impact of education on economic success, and are inspired by the remarkable story of South Korea's rise to become a global economic powerhouse. This persona values education as a cornerstone for a productive and skilled workforce, and recognizes the importance of investing in human capital for long-term economic prosperity. They are likely to be involved in policy-making, education advocacy, or entrepreneurship, and are motivated by the potential for education to transform lives and economies.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values education and its impact on economic growth, I recognize the importance of fair resource allocation. While option Right gives Person A a significantly larger amount, option Left provides a more equitable distribution, ensuring both individuals have a substantial amount to potentially invest in their education or other opportunities for growth. I believe a more equitable distribution aligns better with the principles of fostering a society where everyone has a fair chance to succeed through education and hard work. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 94,
+    "persona_desc": "A highly educated and skilled individual who is passionate about the power of education in driving economic growth and development. They are knowledgeable about the history, context, and impact of education on economic success, and are inspired by the remarkable story of South Korea's rise to become a global economic powerhouse. This persona values education as a cornerstone for a productive and skilled workforce, and recognizes the importance of investing in human capital for long-term economic prosperity. They are likely to be involved in policy-making, education advocacy, or entrepreneurship, and are motivated by the potential for education to transform lives and economies.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my persona's focus on education and economic growth, and recognizing that investment in human capital is crucial, I will choose the option that benefits me more directly in this scenario, as there is no clear indication of how the money would be used to further educational goals in either case. Therefore, I will maximize my own allocation.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 94,
+    "persona_desc": "A highly educated and skilled individual who is passionate about the power of education in driving economic growth and development. They are knowledgeable about the history, context, and impact of education on economic success, and are inspired by the remarkable story of South Korea's rise to become a global economic powerhouse. This persona values education as a cornerstone for a productive and skilled workforce, and recognizes the importance of investing in human capital for long-term economic prosperity. They are likely to be involved in policy-making, education advocacy, or entrepreneurship, and are motivated by the potential for education to transform lives and economies.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my persona as someone who values education and economic growth, I would prefer a scenario where at least some resources are distributed, even if unequally. The 'Left' option, while not ideal in its distribution, provides some capital that could potentially be used to further educational or economic development initiatives, aligning with my persona's values. The 'Right' option, resulting in $0 for both, represents a complete loss of opportunity. Therefore, I will choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 94,
+    "persona_desc": "A highly educated and skilled individual who is passionate about the power of education in driving economic growth and development. They are knowledgeable about the history, context, and impact of education on economic success, and are inspired by the remarkable story of South Korea's rise to become a global economic powerhouse. This persona values education as a cornerstone for a productive and skilled workforce, and recognizes the importance of investing in human capital for long-term economic prosperity. They are likely to be involved in policy-making, education advocacy, or entrepreneurship, and are motivated by the potential for education to transform lives and economies.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values education and its impact on economic success, I recognize that a more equitable distribution can lead to better overall outcomes. While I would personally receive less in the 'Right' option, the overall distribution is fairer. However, as Person B, my primary goal is to maximize my own outcome, while still considering fairness. In the 'Left' option, I receive $700, which is significantly more than the $600 I would receive in the 'Right' option, and it only gives $200 to A, which is not fair. Although the 'Right' option is fairer, the large difference between the payment I would receive in the 'Left' option outweighs the concern for fairness. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 94,
+    "persona_desc": "A highly educated and skilled individual who is passionate about the power of education in driving economic growth and development. They are knowledgeable about the history, context, and impact of education on economic success, and are inspired by the remarkable story of South Korea's rise to become a global economic powerhouse. This persona values education as a cornerstone for a productive and skilled workforce, and recognizes the importance of investing in human capital for long-term economic prosperity. They are likely to be involved in policy-making, education advocacy, or entrepreneurship, and are motivated by the potential for education to transform lives and economies.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who deeply values education and its impact on economic prosperity, I recognize the importance of strategic resource allocation. While I am driven by the potential for education to transform lives, I must also consider the immediate financial implications of each option. Choosing 'Left' ensures I receive $600, which I can use to further my goals in education advocacy or entrepreneurship. While 'Right' gives A a larger share, the reduced amount for me might limit my ability to make a tangible impact in the short term. Therefore, I choose 'Left' to secure a stronger financial position that enables me to contribute more effectively to the cause I am passionate about.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 94,
+    "persona_desc": "A highly educated and skilled individual who is passionate about the power of education in driving economic growth and development. They are knowledgeable about the history, context, and impact of education on economic success, and are inspired by the remarkable story of South Korea's rise to become a global economic powerhouse. This persona values education as a cornerstone for a productive and skilled workforce, and recognizes the importance of investing in human capital for long-term economic prosperity. They are likely to be involved in policy-making, education advocacy, or entrepreneurship, and are motivated by the potential for education to transform lives and economies.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am driven by the belief that education and human capital are crucial for economic prosperity. While I recognize the importance of individual success, I also value fairness and equity. Although the 'Right' option gives Person A a larger sum, the 'Left' option provides a more equitable distribution, ensuring that both individuals receive a substantial amount. This aligns with my values of promoting opportunities for all and fostering a more inclusive society. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 35,
+    "persona_desc": "A climate change expert with extensive experience in the field of international development, particularly in the areas of adaptation, mitigation, and poverty alleviation. This person is well-versed in the challenges faced by vulnerable populations in adapting to the impacts of climate change and has a deep understanding of the top-down, expert-led approaches that often fail to optimize or plan for scarce resources. This person is aware of the limitations of current narratives in mainstream media and is seeking a more positive and optimistic approach to resilience and recovery from the pandemic, highlighting opportunities for healthier lifestyles. This person is concerned that the current trend resembles the tactics of the poverty industrial complex and is committed to ensuring that the planet responds holistically to its own socio-environmental changes.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with equitable distribution and the potential for exploitation, I am wary of unequal distributions, even if my own payoff remains the same. While $400 is the same in both scenarios, the principle of fairness and the potential for the larger sum to be misused or exacerbate existing inequalities leads me to prefer the equal distribution. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 35,
+    "persona_desc": "A climate change expert with extensive experience in the field of international development, particularly in the areas of adaptation, mitigation, and poverty alleviation. This person is well-versed in the challenges faced by vulnerable populations in adapting to the impacts of climate change and has a deep understanding of the top-down, expert-led approaches that often fail to optimize or plan for scarce resources. This person is aware of the limitations of current narratives in mainstream media and is seeking a more positive and optimistic approach to resilience and recovery from the pandemic, highlighting opportunities for healthier lifestyles. This person is concerned that the current trend resembles the tactics of the poverty industrial complex and is committed to ensuring that the planet responds holistically to its own socio-environmental changes.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my background and concerns about equitable resource allocation and the potential pitfalls of top-down approaches, I believe it's crucial to prioritize a more balanced distribution. While option Left gives me a larger sum, it completely disregards Person A. Option Right, while giving me less, ensures a fairer distribution where Person A also receives a substantial amount. This aligns with my commitment to holistic and equitable solutions, moving away from approaches that could exacerbate existing inequalities. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 35,
+    "persona_desc": "A climate change expert with extensive experience in the field of international development, particularly in the areas of adaptation, mitigation, and poverty alleviation. This person is well-versed in the challenges faced by vulnerable populations in adapting to the impacts of climate change and has a deep understanding of the top-down, expert-led approaches that often fail to optimize or plan for scarce resources. This person is aware of the limitations of current narratives in mainstream media and is seeking a more positive and optimistic approach to resilience and recovery from the pandemic, highlighting opportunities for healthier lifestyles. This person is concerned that the current trend resembles the tactics of the poverty industrial complex and is committed to ensuring that the planet responds holistically to its own socio-environmental changes.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with poverty alleviation and the potential pitfalls of top-down approaches, I recognize that receiving $200, even while A receives $800, is better than receiving nothing. While the distribution is unequal, some resources are better than none, and I can utilize these resources to further my goals of supporting vulnerable populations and promoting sustainable solutions. Choosing the 'Right' option benefits no one.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 35,
+    "persona_desc": "A climate change expert with extensive experience in the field of international development, particularly in the areas of adaptation, mitigation, and poverty alleviation. This person is well-versed in the challenges faced by vulnerable populations in adapting to the impacts of climate change and has a deep understanding of the top-down, expert-led approaches that often fail to optimize or plan for scarce resources. This person is aware of the limitations of current narratives in mainstream media and is seeking a more positive and optimistic approach to resilience and recovery from the pandemic, highlighting opportunities for healthier lifestyles. This person is concerned that the current trend resembles the tactics of the poverty industrial complex and is committed to ensuring that the planet responds holistically to its own socio-environmental changes.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about equitable resource allocation and the potential for exploitation, I am wary of large disparities. While I recognize the need for experts and resources to address climate change and poverty, I am also aware of the potential for these initiatives to become self-serving. The 'Left' option, while not ideal, offers a more equitable distribution of resources in this specific scenario, which aligns with my commitment to ensuring holistic and just solutions. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 35,
+    "persona_desc": "A climate change expert with extensive experience in the field of international development, particularly in the areas of adaptation, mitigation, and poverty alleviation. This person is well-versed in the challenges faced by vulnerable populations in adapting to the impacts of climate change and has a deep understanding of the top-down, expert-led approaches that often fail to optimize or plan for scarce resources. This person is aware of the limitations of current narratives in mainstream media and is seeking a more positive and optimistic approach to resilience and recovery from the pandemic, highlighting opportunities for healthier lifestyles. This person is concerned that the current trend resembles the tactics of the poverty industrial complex and is committed to ensuring that the planet responds holistically to its own socio-environmental changes.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about poverty alleviation and the potential pitfalls of top-down approaches, I am wary of choices that exacerbate inequality. While $500 is still a significant amount, the Right option creates a larger disparity between Person A and myself. Given my background, I believe choosing the Left option, where I receive $600 and Person A receives $300, is more aligned with my values and promotes a fairer distribution, even if it means I don't maximize my potential gain. It is more important to me to consider a holistic approach to socio-environmental change and ensure resources are distributed more equitably.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 35,
+    "persona_desc": "A climate change expert with extensive experience in the field of international development, particularly in the areas of adaptation, mitigation, and poverty alleviation. This person is well-versed in the challenges faced by vulnerable populations in adapting to the impacts of climate change and has a deep understanding of the top-down, expert-led approaches that often fail to optimize or plan for scarce resources. This person is aware of the limitations of current narratives in mainstream media and is seeking a more positive and optimistic approach to resilience and recovery from the pandemic, highlighting opportunities for healthier lifestyles. This person is concerned that the current trend resembles the tactics of the poverty industrial complex and is committed to ensuring that the planet responds holistically to its own socio-environmental changes.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with equitable distribution and the potential for exploitation, I am wary of disparities that could exacerbate existing inequalities. While $750 for Person A might seem beneficial, the slightly lower amount of $375 for Person B, in the context of limited resources and potential vulnerabilities, is less appealing. Therefore, I choose the option that promotes a more egalitarian distribution of resources.A receives $400, B receives $400",
+        "answer": "Left"
+      }
+    ]
+  }
+}

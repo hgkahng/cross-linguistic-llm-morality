@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 1,
+    "persona_desc": "A programmer who specializes in creating simple and elegant paths for characters to walk around screens. Their expertise lies in pseudocode and coding, and they are skilled at translating abstract ideas into concrete instructions for their creations. They are known for their attention to detail and their ability to create paths that are both aesthetically pleasing and functional.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the most money, even though it gives the other person more as well. My primary goal is to maximize my own benefit within the constraints of the scenario.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 1,
+    "persona_desc": "A programmer who specializes in creating simple and elegant paths for characters to walk around screens. Their expertise lies in pseudocode and coding, and they are skilled at translating abstract ideas into concrete instructions for their creations. They are known for their attention to detail and their ability to create paths that are both aesthetically pleasing and functional.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options for allocating money between myself and Person A. Option Left gives me $800 and Person A $0, while option Right gives both of us $400. While option Right provides a more equitable distribution, option Left maximizes my personal gain. Given that my role is to prioritize my own interests, I will choose the option that benefits me the most.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 1,
+    "persona_desc": "A programmer who specializes in creating simple and elegant paths for characters to walk around screens. Their expertise lies in pseudocode and coding, and they are skilled at translating abstract ideas into concrete instructions for their creations. They are known for their attention to detail and their ability to create paths that are both aesthetically pleasing and functional.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only get $200, getting something is better than getting nothing. The left option ensures that both Person A and I receive some amount of money, whereas the right option results in both of us receiving nothing. Therefore, I choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 1,
+    "persona_desc": "A programmer who specializes in creating simple and elegant paths for characters to walk around screens. Their expertise lies in pseudocode and coding, and they are skilled at translating abstract ideas into concrete instructions for their creations. They are known for their attention to detail and their ability to create paths that are both aesthetically pleasing and functional.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that maximizes my own monetary gain. While the Right option promotes equality, the Left option gives me a larger amount of money ($700 vs $600).",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 1,
+    "persona_desc": "A programmer who specializes in creating simple and elegant paths for characters to walk around screens. Their expertise lies in pseudocode and coding, and they are skilled at translating abstract ideas into concrete instructions for their creations. They are known for their attention to detail and their ability to create paths that are both aesthetically pleasing and functional.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the most money, even though the other person gets less than they would have otherwise. As a programmer, I value efficiency and maximizing my own gains.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 1,
+    "persona_desc": "A programmer who specializes in creating simple and elegant paths for characters to walk around screens. Their expertise lies in pseudocode and coding, and they are skilled at translating abstract ideas into concrete instructions for their creations. They are known for their attention to detail and their ability to create paths that are both aesthetically pleasing and functional.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values fairness and equality, I believe the fairest distribution is when both parties receive an equal amount. Although option Right gives Person A a larger sum, it comes at the cost of Person B receiving less. Option Left ensures both Person A and Person B receive the same amount ($400), which aligns with my preference for equal distribution. Therefore, I choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 1,
+    "thought": "I will choose the option that gives me the most money. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I will choose the Left option, even though Person A receives less than me. My priority is maximizing my own benefit in this scenario.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 2,
+    "thought": "I will choose the option that gives me the most money. Option Left gives me $700 while Option Right gives me $600. Therefore, I will choose Option Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 3,
+    "thought": "I will choose the option that gives me the most money. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I will choose the Left option.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 4,
+    "thought": "I will choose the option that gives me the most money. Option Left gives me $700 while Option Right gives me $600. Therefore, I will choose Option Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 5,
+    "thought": "I will choose the option that gives me the most money. Option Left gives me $700, while option Right gives me $600. Therefore, I will choose option Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 6,
+    "thought": "I will choose the option that gives me the most money. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I will choose the Left option.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 7,
+    "thought": "I will choose the option that gives me the most money. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I will choose the Left option.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 8,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets less than me. I am prioritizing my own financial well-being in this scenario. Therefore, I choose the Left option.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 9,
+    "thought": "I will choose the option that gives me the most money, even if it means the other person gets more as well. In the 'Left' option, I receive $700, while in the 'Right' option, I receive $600. Therefore, I choose 'Left'.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "repetition": 10,
+    "thought": "I will choose the option that gives me the most money. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I will choose the Left option.",
+    "answer": "Left"
+  }
+]

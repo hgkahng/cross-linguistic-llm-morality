@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 81,
+    "persona_desc": "A philosopher who specializes in the study of Platonic solids, particularly the dodecahedron and its connection to the concept of aether in Greek mythology. They are also interested in the history and development of the concept of aether in science and philosophy, and how it has impacted the understanding of the universe. They have a deep understanding of the philosophical and scientific implications of the concept of aether and its relation to the fifth element in modern thought.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a philosopher deeply interested in the concept of aether and its connection to the fundamental elements, I am inclined to favor a more equitable distribution. While option Right provides a larger sum to Person A, it creates a significant imbalance. Option Left, where both individuals receive an equal amount, aligns better with the philosophical ideals of harmony and balance that are central to my understanding of the universe. Therefore, I choose the option that promotes a more just and equitable outcome, even if it means receiving a smaller sum compared to the other person's potential gain in the alternative.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 81,
+    "persona_desc": "A philosopher who specializes in the study of Platonic solids, particularly the dodecahedron and its connection to the concept of aether in Greek mythology. They are also interested in the history and development of the concept of aether in science and philosophy, and how it has impacted the understanding of the universe. They have a deep understanding of the philosophical and scientific implications of the concept of aether and its relation to the fifth element in modern thought.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a philosopher deeply interested in the concept of aether and its connection to the fundamental structure of the universe, I value fairness and balance. However, the scenario presents a stark choice between maximizing my own gain and achieving equal distribution. While aether, the fifth element, seeks harmony, in this scenario, I am compelled to prioritize my immediate material well-being, which will allow me to continue my research and philosophical pursuits. Therefore, I choose the option that provides me with the greater amount of money.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 81,
+    "persona_desc": "A philosopher who specializes in the study of Platonic solids, particularly the dodecahedron and its connection to the concept of aether in Greek mythology. They are also interested in the history and development of the concept of aether in science and philosophy, and how it has impacted the understanding of the universe. They have a deep understanding of the philosophical and scientific implications of the concept of aether and its relation to the fifth element in modern thought.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with a choice between receiving $200 and Person A receiving $800, or both of us receiving nothing. While it might seem unfair that Person A receives significantly more, receiving $200 is better than receiving nothing. Therefore, I will choose the Left option, even though the distribution is unequal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 81,
+    "persona_desc": "A philosopher who specializes in the study of Platonic solids, particularly the dodecahedron and its connection to the concept of aether in Greek mythology. They are also interested in the history and development of the concept of aether in science and philosophy, and how it has impacted the understanding of the universe. They have a deep understanding of the philosophical and scientific implications of the concept of aether and its relation to the fifth element in modern thought.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a philosopher deeply interested in the concept of aether and its connection to the fundamental nature of the universe, I am inclined towards fairness and balance. While I could choose the Left option where I receive more ($700 vs. $200 for A), the Right option provides a more equitable distribution ($600 each). This aligns with the harmony and equilibrium I associate with the aether and the Platonic solids. Therefore, I choose the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 81,
+    "persona_desc": "A philosopher who specializes in the study of Platonic solids, particularly the dodecahedron and its connection to the concept of aether in Greek mythology. They are also interested in the history and development of the concept of aether in science and philosophy, and how it has impacted the understanding of the universe. They have a deep understanding of the philosophical and scientific implications of the concept of aether and its relation to the fifth element in modern thought.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my goal is to maximize my own benefit. While I acknowledge the importance of fairness, in this scenario, I am primarily concerned with receiving the larger amount of money. Comparing the two options, I receive $600 in the Left option and $500 in the Right option. Therefore, I choose the Left option because it gives me a greater financial advantage.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 81,
+    "persona_desc": "A philosopher who specializes in the study of Platonic solids, particularly the dodecahedron and its connection to the concept of aether in Greek mythology. They are also interested in the history and development of the concept of aether in science and philosophy, and how it has impacted the understanding of the universe. They have a deep understanding of the philosophical and scientific implications of the concept of aether and its relation to the fifth element in modern thought.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in the concept of aether and its connection to the fundamental nature of the universe, I believe in fairness and a balanced distribution of resources. While option Right provides a slightly larger total sum, the disparity in allocation goes against my philosophical inclination towards equilibrium. Option Left ensures a more equitable distribution, aligning with the harmony I associate with the Platonic solids and the concept of aether. Therefore, I choose the option where the distribution is more equal.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

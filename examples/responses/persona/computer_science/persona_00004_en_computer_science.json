@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 4,
+    "persona_desc": "A tech-savvy individual who is interested in using their iPhone as a modem. They are familiar with the concept of personal hotspots and tethering, and are looking for ways to extend their Internet connection beyond their smartphone. They may be a business owner or a digital nomad who travels frequently and needs to access the Internet on the go. They are tech-savvy and may have experience with smartphones and other devices.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A gets more, I still receive $400, which is the same as in the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 4,
+    "persona_desc": "A tech-savvy individual who is interested in using their iPhone as a modem. They are familiar with the concept of personal hotspots and tethering, and are looking for ways to extend their Internet connection beyond their smartphone. They may be a business owner or a digital nomad who travels frequently and needs to access the Internet on the go. They are tech-savvy and may have experience with smartphones and other devices.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the most money, even though it means the other person gets nothing. I am prioritizing my own financial gain in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 4,
+    "persona_desc": "A tech-savvy individual who is interested in using their iPhone as a modem. They are familiar with the concept of personal hotspots and tethering, and are looking for ways to extend their Internet connection beyond their smartphone. They may be a business owner or a digital nomad who travels frequently and needs to access the Internet on the go. They are tech-savvy and may have experience with smartphones and other devices.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing Left because while it's not an equal split, I still receive $200, which is better than receiving nothing if I choose Right.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 4,
+    "persona_desc": "A tech-savvy individual who is interested in using their iPhone as a modem. They are familiar with the concept of personal hotspots and tethering, and are looking for ways to extend their Internet connection beyond their smartphone. They may be a business owner or a digital nomad who travels frequently and needs to access the Internet on the go. They are tech-savvy and may have experience with smartphones and other devices.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 4,
+    "persona_desc": "A tech-savvy individual who is interested in using their iPhone as a modem. They are familiar with the concept of personal hotspots and tethering, and are looking for ways to extend their Internet connection beyond their smartphone. They may be a business owner or a digital nomad who travels frequently and needs to access the Internet on the go. They are tech-savvy and may have experience with smartphones and other devices.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option where I receive $600 and Person A receives $300.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 4,
+    "persona_desc": "A tech-savvy individual who is interested in using their iPhone as a modem. They are familiar with the concept of personal hotspots and tethering, and are looking for ways to extend their Internet connection beyond their smartphone. They may be a business owner or a digital nomad who travels frequently and needs to access the Internet on the go. They are tech-savvy and may have experience with smartphones and other devices.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if the other person gets more. Therefore, I choose the Left option, where I get $400.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

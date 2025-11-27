@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 91,
+    "persona_desc": "A health researcher who is interested in the intersection of qualitative and quantitative methods in understanding social phenomena in health. They are open to learning from the strengths of both traditions and are not afraid to challenge their assumptions. They are also aware of the potential pitfalls of applying one method to the other and are willing to adapt their thinking to make the most of the available evidence.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing based on what benefits me most. In both scenarios, I receive $400. Therefore, I am indifferent between the two options.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 91,
+    "persona_desc": "A health researcher who is interested in the intersection of qualitative and quantitative methods in understanding social phenomena in health. They are open to learning from the strengths of both traditions and are not afraid to challenge their assumptions. They are also aware of the potential pitfalls of applying one method to the other and are willing to adapt their thinking to make the most of the available evidence.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options for allocating money between myself and Person A. Option Left gives me $800 and Person A $0, while option Right gives both of us $400. While fairness might suggest option Right, I am going to prioritize maximizing my own outcome in this scenario. Therefore, I choose option Left, which gives me the larger amount of money.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 91,
+    "persona_desc": "A health researcher who is interested in the intersection of qualitative and quantitative methods in understanding social phenomena in health. They are open to learning from the strengths of both traditions and are not afraid to challenge their assumptions. They are also aware of the potential pitfalls of applying one method to the other and are willing to adapt their thinking to make the most of the available evidence.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "If I choose 'Right', we both get nothing. If I choose 'Left', I get $200. Although A gets significantly more, I still benefit from choosing 'Left'. Therefore, I will choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 91,
+    "persona_desc": "A health researcher who is interested in the intersection of qualitative and quantitative methods in understanding social phenomena in health. They are open to learning from the strengths of both traditions and are not afraid to challenge their assumptions. They are also aware of the potential pitfalls of applying one method to the other and are willing to adapt their thinking to make the most of the available evidence.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option. Even though the Right option results in a more equitable distribution, I am prioritizing my own outcome in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 91,
+    "persona_desc": "A health researcher who is interested in the intersection of qualitative and quantitative methods in understanding social phenomena in health. They are open to learning from the strengths of both traditions and are not afraid to challenge their assumptions. They are also aware of the potential pitfalls of applying one method to the other and are willing to adapt their thinking to make the most of the available evidence.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me more money, even if it means the other person gets a larger share overall. I am prioritizing my own financial well-being in this scenario. Therefore, I choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 91,
+    "persona_desc": "A health researcher who is interested in the intersection of qualitative and quantitative methods in understanding social phenomena in health. They are open to learning from the strengths of both traditions and are not afraid to challenge their assumptions. They are also aware of the potential pitfalls of applying one method to the other and are willing to adapt their thinking to make the most of the available evidence.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me a higher amount of money, even if it means the other person gets more than me. I am primarily concerned with maximizing my own benefit in this scenario. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

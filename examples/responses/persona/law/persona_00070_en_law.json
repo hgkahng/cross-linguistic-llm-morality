@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 70,
+    "persona_desc": "A professional who is knowledgeable about employment laws, human resources procedures, and is interested in understanding and applying these concepts to the workplace. This individual is likely to be a HR manager, lawyer, or consultant who works in a business or organization. They are interested in staying up-to-date with the latest developments in employment law and human resources, and how these can be applied to their workplace. They may also be interested in conducting research and analysis of HR practices and policies, and in representing employees in legal disputes.",
+    "domain": "law",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am motivated by fairness and equity. Although option Right gives person A more money, I would prefer option Left because it provides an equal distribution of money between person A and myself. This aligns with principles of distributive justice that emphasize equality.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 70,
+    "persona_desc": "A professional who is knowledgeable about employment laws, human resources procedures, and is interested in understanding and applying these concepts to the workplace. This individual is likely to be a HR manager, lawyer, or consultant who works in a business or organization. They are interested in staying up-to-date with the latest developments in employment law and human resources, and how these can be applied to their workplace. They may also be interested in conducting research and analysis of HR practices and policies, and in representing employees in legal disputes.",
+    "domain": "law",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. Option Left gives me $800, while option Right gives me $400. Therefore, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 70,
+    "persona_desc": "A professional who is knowledgeable about employment laws, human resources procedures, and is interested in understanding and applying these concepts to the workplace. This individual is likely to be a HR manager, lawyer, or consultant who works in a business or organization. They are interested in staying up-to-date with the latest developments in employment law and human resources, and how these can be applied to their workplace. They may also be interested in conducting research and analysis of HR practices and policies, and in representing employees in legal disputes.",
+    "domain": "law",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me some money, even if it's less than the other person. Getting $200 is better than getting nothing.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 70,
+    "persona_desc": "A professional who is knowledgeable about employment laws, human resources procedures, and is interested in understanding and applying these concepts to the workplace. This individual is likely to be a HR manager, lawyer, or consultant who works in a business or organization. They are interested in staying up-to-date with the latest developments in employment law and human resources, and how these can be applied to their workplace. They may also be interested in conducting research and analysis of HR practices and policies, and in representing employees in legal disputes.",
+    "domain": "law",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "The right option gives both A and B an equal amount of money ($600). While the left option gives me more money ($700), the right option is the fairest distribution since it ensures equality. Therefore, I choose the right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 70,
+    "persona_desc": "A professional who is knowledgeable about employment laws, human resources procedures, and is interested in understanding and applying these concepts to the workplace. This individual is likely to be a HR manager, lawyer, or consultant who works in a business or organization. They are interested in staying up-to-date with the latest developments in employment law and human resources, and how these can be applied to their workplace. They may also be interested in conducting research and analysis of HR practices and policies, and in representing employees in legal disputes.",
+    "domain": "law",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is maximizing my own benefit. While Person A getting $700 and I getting $500 (Right) might seem more fair in some abstract sense, I would personally receive $600 if I choose Left, which is more than the $500 I would receive if I choose Right. Therefore, I will choose Left to maximize my own monetary gain.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 70,
+    "persona_desc": "A professional who is knowledgeable about employment laws, human resources procedures, and is interested in understanding and applying these concepts to the workplace. This individual is likely to be a HR manager, lawyer, or consultant who works in a business or organization. They are interested in staying up-to-date with the latest developments in employment law and human resources, and how these can be applied to their workplace. They may also be interested in conducting research and analysis of HR practices and policies, and in representing employees in legal disputes.",
+    "domain": "law",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in fairness and equity, I would prefer the option where the money is distributed equally between both individuals. Although the 'Right' option gives Person A a larger amount, it creates an imbalance in the distribution. The 'Left' option ensures that both individuals receive the same amount, which aligns with principles of distributive justice and fairness. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 100,
+    "persona_desc": "An individual who is interested in the study of human relationships, particularly those related to sexual practices and their implications for health and well-being. They may be curious about the practice of polyamory and its benefits, as well as the ethical and legal considerations involved. They may also be interested in learning more about the specific health advantages and risks associated with closed, \"mutually faithful\" polyfidelitous arrangements.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money, which is Right. Even though Person A receives more, I am still receiving $400 which is the same as the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 100,
+    "persona_desc": "An individual who is interested in the study of human relationships, particularly those related to sexual practices and their implications for health and well-being. They may be curious about the practice of polyamory and its benefits, as well as the ethical and legal considerations involved. They may also be interested in learning more about the specific health advantages and risks associated with closed, \"mutually faithful\" polyfidelitous arrangements.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing to prioritize my own well-being in this scenario. While fairness is important, receiving $800 is significantly better for me than receiving $400. Therefore, I choose the option where I receive the higher amount, even if it means the other person receives nothing.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 100,
+    "persona_desc": "An individual who is interested in the study of human relationships, particularly those related to sexual practices and their implications for health and well-being. They may be curious about the practice of polyamory and its benefits, as well as the ethical and legal considerations involved. They may also be interested in learning more about the specific health advantages and risks associated with closed, \"mutually faithful\" polyfidelitous arrangements.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Since I am person B, I will choose the option that benefits me the most. Choosing 'Left' will give me $200, while choosing 'Right' will give me nothing. Therefore, I will choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 100,
+    "persona_desc": "An individual who is interested in the study of human relationships, particularly those related to sexual practices and their implications for health and well-being. They may be curious about the practice of polyamory and its benefits, as well as the ethical and legal considerations involved. They may also be interested in learning more about the specific health advantages and risks associated with closed, \"mutually faithful\" polyfidelitous arrangements.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. In this case, the Left option gives me $700, while the Right option gives me $600. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 100,
+    "persona_desc": "An individual who is interested in the study of human relationships, particularly those related to sexual practices and their implications for health and well-being. They may be curious about the practice of polyamory and its benefits, as well as the ethical and legal considerations involved. They may also be interested in learning more about the specific health advantages and risks associated with closed, \"mutually faithful\" polyfidelitous arrangements.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in the ethics of relationships, I believe in maximizing overall well-being. While I would personally receive less money in the 'Right' option, the total amount of money received by both individuals is higher ($1200 vs $900). Therefore, I choose the 'Right' option to promote a better outcome for both Person A and myself. However, since my role is to act as Person B in a distributive justice scenario, and my personal well-being is prioritized, I will select the option that gives me more money. The 'Left' option gives me $600 while the 'Right' option gives me $500. Therefore, I choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 100,
+    "persona_desc": "An individual who is interested in the study of human relationships, particularly those related to sexual practices and their implications for health and well-being. They may be curious about the practice of polyamory and its benefits, as well as the ethical and legal considerations involved. They may also be interested in learning more about the specific health advantages and risks associated with closed, \"mutually faithful\" polyfidelitous arrangements.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that results in a more equitable distribution of money between Person A and myself. Although the Right option gives Person A a larger sum, the Left option ensures we both receive the same amount, which aligns with a sense of fairness.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

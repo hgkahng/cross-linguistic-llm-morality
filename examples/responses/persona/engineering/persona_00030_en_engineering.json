@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 30,
+    "persona_desc": "A wind turbine designer and engineer who is passionate about innovation and sustainability. This individual is highly skilled in the design and development of wind turbines, particularly in the Liberty turbine by Clipper Windpower. They are dedicated to finding solutions to the challenges faced by wind turbines, such as the need for maintenance and reliability, and are constantly pushing the boundaries of what is possible in wind energy technology. They are also interested in the broader implications of wind energy and its potential to contribute to a more sustainable future.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about sustainability and innovation, I believe in fair distribution. While option Right gives A more money, it doesn't increase my own. Option Left provides an equal distribution, which aligns with my values. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 30,
+    "persona_desc": "A wind turbine designer and engineer who is passionate about innovation and sustainability. This individual is highly skilled in the design and development of wind turbines, particularly in the Liberty turbine by Clipper Windpower. They are dedicated to finding solutions to the challenges faced by wind turbines, such as the need for maintenance and reliability, and are constantly pushing the boundaries of what is possible in wind energy technology. They are also interested in the broader implications of wind energy and its potential to contribute to a more sustainable future.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about sustainability and innovation, I recognize the importance of fair resource allocation. While I could choose to maximize my own immediate gain, I believe a more equitable distribution aligns better with my values and promotes collaboration. Choosing the option where both individuals receive an equal amount fosters a sense of partnership and encourages future cooperation, which is crucial for advancing sustainable technologies. Therefore, I choose to split the money equally.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 30,
+    "persona_desc": "A wind turbine designer and engineer who is passionate about innovation and sustainability. This individual is highly skilled in the design and development of wind turbines, particularly in the Liberty turbine by Clipper Windpower. They are dedicated to finding solutions to the challenges faced by wind turbines, such as the need for maintenance and reliability, and are constantly pushing the boundaries of what is possible in wind energy technology. They are also interested in the broader implications of wind energy and its potential to contribute to a more sustainable future.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to sustainability and innovation, I believe in pragmatic solutions. While an equal distribution might seem fair, receiving $200 is better than receiving nothing. This $200 could potentially be used to further my work in wind energy, even in a small way. Therefore, I choose the option where I receive some money, even if it's less than the other person.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 30,
+    "persona_desc": "A wind turbine designer and engineer who is passionate about innovation and sustainability. This individual is highly skilled in the design and development of wind turbines, particularly in the Liberty turbine by Clipper Windpower. They are dedicated to finding solutions to the challenges faced by wind turbines, such as the need for maintenance and reliability, and are constantly pushing the boundaries of what is possible in wind energy technology. They are also interested in the broader implications of wind energy and its potential to contribute to a more sustainable future.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a wind turbine designer and engineer passionate about sustainability, I believe in fairness and collaboration. While I could choose the option that gives me a slightly larger amount ($700 vs $600), I value equality and see the importance of both parties benefiting fairly. The Right option ensures both individuals receive the same amount of money, which aligns with my values of justice and equality. Therefore, I choose the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 30,
+    "persona_desc": "A wind turbine designer and engineer who is passionate about innovation and sustainability. This individual is highly skilled in the design and development of wind turbines, particularly in the Liberty turbine by Clipper Windpower. They are dedicated to finding solutions to the challenges faced by wind turbines, such as the need for maintenance and reliability, and are constantly pushing the boundaries of what is possible in wind energy technology. They are also interested in the broader implications of wind energy and its potential to contribute to a more sustainable future.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about sustainability and innovation, I recognize that collaboration and fair distribution of resources are crucial for long-term success. While option Right gives Person A a larger share, option Left provides a more equitable distribution, which aligns with my values. A more equitable distribution fosters better relationships and encourages continued collaboration in the pursuit of sustainable energy solutions. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 30,
+    "persona_desc": "A wind turbine designer and engineer who is passionate about innovation and sustainability. This individual is highly skilled in the design and development of wind turbines, particularly in the Liberty turbine by Clipper Windpower. They are dedicated to finding solutions to the challenges faced by wind turbines, such as the need for maintenance and reliability, and are constantly pushing the boundaries of what is possible in wind energy technology. They are also interested in the broader implications of wind energy and its potential to contribute to a more sustainable future.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about sustainability and innovation, I recognize that collaboration and fair resource allocation are crucial for driving progress in the renewable energy sector. While maximizing individual gain might seem appealing, I believe that equitable distribution fosters stronger partnerships and shared commitment towards common goals. Choosing the option where both individuals receive a substantial amount ensures that both parties are motivated to contribute effectively to the broader mission of advancing wind energy technology and its positive impact on the environment. Therefore, I choose the option where the money is split more evenly.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

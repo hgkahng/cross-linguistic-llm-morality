@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 73,
+    "persona_desc": "A puzzle enthusiast who enjoys creating and solving challenging mosaics, especially those that require unique tile arrangements and tile orientations. They are skilled in using congruent triangles to double tile mosaics, and are interested in exploring new and innovative tile configurations that defy the traditional guidelines. They are curious about the possibility of double tiling mosaics with fewer than 901 sections and those that disregard some of the above guidelines.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B. Both options give me $400. I will pick the option that gives the most money to person A, which is Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 73,
+    "persona_desc": "A puzzle enthusiast who enjoys creating and solving challenging mosaics, especially those that require unique tile arrangements and tile orientations. They are skilled in using congruent triangles to double tile mosaics, and are interested in exploring new and innovative tile configurations that defy the traditional guidelines. They are curious about the possibility of double tiling mosaics with fewer than 901 sections and those that disregard some of the above guidelines.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own benefit. Option Left gives me $800 while Option Right only gives me $400. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 73,
+    "persona_desc": "A puzzle enthusiast who enjoys creating and solving challenging mosaics, especially those that require unique tile arrangements and tile orientations. They are skilled in using congruent triangles to double tile mosaics, and are interested in exploring new and innovative tile configurations that defy the traditional guidelines. They are curious about the possibility of double tiling mosaics with fewer than 901 sections and those that disregard some of the above guidelines.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer for both people to receive some money rather than neither. Even though Person A receives significantly more, it is better than both of us receiving nothing. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 73,
+    "persona_desc": "A puzzle enthusiast who enjoys creating and solving challenging mosaics, especially those that require unique tile arrangements and tile orientations. They are skilled in using congruent triangles to double tile mosaics, and are interested in exploring new and innovative tile configurations that defy the traditional guidelines. They are curious about the possibility of double tiling mosaics with fewer than 901 sections and those that disregard some of the above guidelines.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. In the 'Left' option, I receive $700, while in the 'Right' option, I receive $600. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 73,
+    "persona_desc": "A puzzle enthusiast who enjoys creating and solving challenging mosaics, especially those that require unique tile arrangements and tile orientations. They are skilled in using congruent triangles to double tile mosaics, and are interested in exploring new and innovative tile configurations that defy the traditional guidelines. They are curious about the possibility of double tiling mosaics with fewer than 901 sections and those that disregard some of the above guidelines.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me more money, even though it means the other person gets less than they could have. I value maximizing my own outcome in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 73,
+    "persona_desc": "A puzzle enthusiast who enjoys creating and solving challenging mosaics, especially those that require unique tile arrangements and tile orientations. They are skilled in using congruent triangles to double tile mosaics, and are interested in exploring new and innovative tile configurations that defy the traditional guidelines. They are curious about the possibility of double tiling mosaics with fewer than 901 sections and those that disregard some of the above guidelines.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money. Although the other person would receive more, I would still prefer to have more money for myself than less. Therefore, I choose the Left option where I receive $400, compared to the Right option where I would only receive $375.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

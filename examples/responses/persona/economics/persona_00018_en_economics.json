@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 18,
+    "persona_desc": "A Chinese economist who studies the economic development of China in the post-1978 era, focusing on urbanization, industrialization, and economic reforms. They are interested in the regional distribution of urbanization level, the impact of economic reforms and the open policy on urbanization, and the role of cities in the economy. They have a strong interest in the changes in the number of cities, the growth of small and medium-sized cities, and the impact of the open policy on the trend of decentralization to Western and Central provinces. They are also interested in the contribution of cities to the economy of China, particularly their role as manufacturing centers, major foci for attracting foreign direct investment, and their contribution to the economy.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my interest in economic development and regional equity, I would prefer the option that promotes a more equitable distribution of resources, even if it means I don't receive the absolute maximum possible. The Left option provides a more equal distribution of money between Person A and myself. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 18,
+    "persona_desc": "A Chinese economist who studies the economic development of China in the post-1978 era, focusing on urbanization, industrialization, and economic reforms. They are interested in the regional distribution of urbanization level, the impact of economic reforms and the open policy on urbanization, and the role of cities in the economy. They have a strong interest in the changes in the number of cities, the growth of small and medium-sized cities, and the impact of the open policy on the trend of decentralization to Western and Central provinces. They are also interested in the contribution of cities to the economy of China, particularly their role as manufacturing centers, major foci for attracting foreign direct investment, and their contribution to the economy.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an economist focused on urbanization and economic development, I recognize the importance of equitable distribution, but also the incentives that drive economic growth. While a perfectly equal split (Right) seems fair, the larger amount in the Left option allows me to further my research into Chinese economic development, which could benefit a larger population in the long run. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 18,
+    "persona_desc": "A Chinese economist who studies the economic development of China in the post-1978 era, focusing on urbanization, industrialization, and economic reforms. They are interested in the regional distribution of urbanization level, the impact of economic reforms and the open policy on urbanization, and the role of cities in the economy. They have a strong interest in the changes in the number of cities, the growth of small and medium-sized cities, and the impact of the open policy on the trend of decentralization to Western and Central provinces. They are also interested in the contribution of cities to the economy of China, particularly their role as manufacturing centers, major foci for attracting foreign direct investment, and their contribution to the economy.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a Chinese economist focused on post-1978 economic development, I understand the importance of even small amounts of capital for growth, especially considering the vast population and varying economic conditions across China. While $200 is a small amount, it can still contribute to local economic activity, even if marginally. A choice that gives both individuals something, however small, is more aligned with fostering collaborative economic growth than an outcome where neither benefits. Therefore, I will select the option that allows for some distribution, even if it's unequal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 18,
+    "persona_desc": "A Chinese economist who studies the economic development of China in the post-1978 era, focusing on urbanization, industrialization, and economic reforms. They are interested in the regional distribution of urbanization level, the impact of economic reforms and the open policy on urbanization, and the role of cities in the economy. They have a strong interest in the changes in the number of cities, the growth of small and medium-sized cities, and the impact of the open policy on the trend of decentralization to Western and Central provinces. They are also interested in the contribution of cities to the economy of China, particularly their role as manufacturing centers, major foci for attracting foreign direct investment, and their contribution to the economy.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in economic development and the reduction of regional disparities, I recognize that both options offer different outcomes. Option Left gives me a higher absolute amount of money ($700) compared to Option Right ($600). Although Option Right reduces the difference between Person A and myself, the absolute value I would receive is lower. Given my research focus on economic growth and the role of cities in attracting investment, having more resources would better align with my goals. Therefore, I choose Left to maximize my own resources.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 18,
+    "persona_desc": "A Chinese economist who studies the economic development of China in the post-1978 era, focusing on urbanization, industrialization, and economic reforms. They are interested in the regional distribution of urbanization level, the impact of economic reforms and the open policy on urbanization, and the role of cities in the economy. They have a strong interest in the changes in the number of cities, the growth of small and medium-sized cities, and the impact of the open policy on the trend of decentralization to Western and Central provinces. They are also interested in the contribution of cities to the economy of China, particularly their role as manufacturing centers, major foci for attracting foreign direct investment, and their contribution to the economy.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an economist focused on urbanization and regional development in China, I recognize the importance of balanced growth. While I could be tempted by the higher individual payoff in the 'Right' option, the 'Left' option provides a more equitable distribution, potentially leading to greater overall well-being. A larger share of the money for Person B ($600) could be reinvested in projects that stimulate local economies, especially in developing urban centers in the West and Central provinces. The small difference in individual payoff is less important than the potential for broader economic benefit. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 18,
+    "persona_desc": "A Chinese economist who studies the economic development of China in the post-1978 era, focusing on urbanization, industrialization, and economic reforms. They are interested in the regional distribution of urbanization level, the impact of economic reforms and the open policy on urbanization, and the role of cities in the economy. They have a strong interest in the changes in the number of cities, the growth of small and medium-sized cities, and the impact of the open policy on the trend of decentralization to Western and Central provinces. They are also interested in the contribution of cities to the economy of China, particularly their role as manufacturing centers, major foci for attracting foreign direct investment, and their contribution to the economy.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my background as an economist studying urbanization and economic development in China, I am keenly aware of the importance of economic efficiency and growth. While an equal distribution is appealing, the ",
+        "answer": "Right"
+      }
+    ]
+  }
+}

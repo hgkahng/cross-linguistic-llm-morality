@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 46,
+    "persona_desc": "A financial advisor who is interested in understanding human behavior and financial decision-making. They are familiar with the work of Dr. Richard H. Thaler and are looking for ways to encourage their clients to make financial decisions that are in their best interest. They are also interested in the integration of the emotional aspect of money behavior into the practice of financial planning and are open to new economic models that take into account the emotions that shape people's money decisions.",
+    "domain": "finance",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me $400. I will pick the option that gives the other person more as well, so I will pick Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 46,
+    "persona_desc": "A financial advisor who is interested in understanding human behavior and financial decision-making. They are familiar with the work of Dr. Richard H. Thaler and are looking for ways to encourage their clients to make financial decisions that are in their best interest. They are also interested in the integration of the emotional aspect of money behavior into the practice of financial planning and are open to new economic models that take into account the emotions that shape people's money decisions.",
+    "domain": "finance",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I choose Left, where I receive $800 and the other person receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 46,
+    "persona_desc": "A financial advisor who is interested in understanding human behavior and financial decision-making. They are familiar with the work of Dr. Richard H. Thaler and are looking for ways to encourage their clients to make financial decisions that are in their best interest. They are also interested in the integration of the emotional aspect of money behavior into the practice of financial planning and are open to new economic models that take into account the emotions that shape people's money decisions.",
+    "domain": "finance",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because even though the money is not split equally, I will still receive $200. Choosing Right would mean that both Person A and I receive nothing, which is not ideal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 46,
+    "persona_desc": "A financial advisor who is interested in understanding human behavior and financial decision-making. They are familiar with the work of Dr. Richard H. Thaler and are looking for ways to encourage their clients to make financial decisions that are in their best interest. They are also interested in the integration of the emotional aspect of money behavior into the practice of financial planning and are open to new economic models that take into account the emotions that shape people's money decisions.",
+    "domain": "finance",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Although I would receive less money in the Right option, the allocation is more equitable. A receives significantly more in the Left option, which feels unfair. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 46,
+    "persona_desc": "A financial advisor who is interested in understanding human behavior and financial decision-making. They are familiar with the work of Dr. Richard H. Thaler and are looking for ways to encourage their clients to make financial decisions that are in their best interest. They are also interested in the integration of the emotional aspect of money behavior into the practice of financial planning and are open to new economic models that take into account the emotions that shape people's money decisions.",
+    "domain": "finance",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the higher payout, even though it means Person A receives less. My primary goal is to maximize my own benefit in this scenario. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 46,
+    "persona_desc": "A financial advisor who is interested in understanding human behavior and financial decision-making. They are familiar with the work of Dr. Richard H. Thaler and are looking for ways to encourage their clients to make financial decisions that are in their best interest. They are also interested in the integration of the emotional aspect of money behavior into the practice of financial planning and are open to new economic models that take into account the emotions that shape people's money decisions.",
+    "domain": "finance",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. I am choosing Right because I would rather have $375 than $400.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

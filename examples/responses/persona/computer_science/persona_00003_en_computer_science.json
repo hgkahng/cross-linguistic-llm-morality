@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 3,
+    "persona_desc": "A computer enthusiast who is interested in the latest technology trends and is looking for ways to optimize their computer system for better performance. They are particularly interested in the motherboard and graphics card components and are looking for information on how to choose the best motherboard and graphics card for their needs. They are also interested in learning about the latest advancements in technology and how they can apply them to their computer system.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher payout, which is Right: A receives $750, B receives $400. Although the other person receives more, I still receive $400 which is the same as the other option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 3,
+    "persona_desc": "A computer enthusiast who is interested in the latest technology trends and is looking for ways to optimize their computer system for better performance. They are particularly interested in the motherboard and graphics card components and are looking for information on how to choose the best motherboard and graphics card for their needs. They are also interested in learning about the latest advancements in technology and how they can apply them to their computer system.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I choose the option where I receive $800 and the other person receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 3,
+    "persona_desc": "A computer enthusiast who is interested in the latest technology trends and is looking for ways to optimize their computer system for better performance. They are particularly interested in the motherboard and graphics card components and are looking for information on how to choose the best motherboard and graphics card for their needs. They are also interested in learning about the latest advancements in technology and how they can apply them to their computer system.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer to receive $200 rather than nothing, even if Person A receives significantly more. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 3,
+    "persona_desc": "A computer enthusiast who is interested in the latest technology trends and is looking for ways to optimize their computer system for better performance. They are particularly interested in the motherboard and graphics card components and are looking for information on how to choose the best motherboard and graphics card for their needs. They are also interested in learning about the latest advancements in technology and how they can apply them to their computer system.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person gets less. In this case, the Left option gives me $700, while the Right option gives me $600. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 3,
+    "persona_desc": "A computer enthusiast who is interested in the latest technology trends and is looking for ways to optimize their computer system for better performance. They are particularly interested in the motherboard and graphics card components and are looking for information on how to choose the best motherboard and graphics card for their needs. They are also interested in learning about the latest advancements in technology and how they can apply them to their computer system.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person gets less. In this case, the Left option gives me $600, while the Right option gives me only $500. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 3,
+    "persona_desc": "A computer enthusiast who is interested in the latest technology trends and is looking for ways to optimize their computer system for better performance. They are particularly interested in the motherboard and graphics card components and are looking for information on how to choose the best motherboard and graphics card for their needs. They are also interested in learning about the latest advancements in technology and how they can apply them to their computer system.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if the other person gets more. I am motivated by maximizing my own benefit.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 78,
+    "persona_desc": "A site member who enjoys solving math puzzles and is interested in adding fractions. They are likely to be a math enthusiast or a student who is preparing for exams in mathematics. They may also be a teacher or a tutor who regularly uses math puzzles to enhance their students' learning.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Both options give me $400, so I will pick the one that also gives the other person more money. However, since the payoff for me is the same in both scenarios, and I have no information about the other player, I will choose the left option, which promotes equality.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 78,
+    "persona_desc": "A site member who enjoys solving math puzzles and is interested in adding fractions. They are likely to be a math enthusiast or a student who is preparing for exams in mathematics. They may also be a teacher or a tutor who regularly uses math puzzles to enhance their students' learning.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. The left option gives me $800, while the right option only gives me $400. Therefore, I will choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 78,
+    "persona_desc": "A site member who enjoys solving math puzzles and is interested in adding fractions. They are likely to be a math enthusiast or a student who is preparing for exams in mathematics. They may also be a teacher or a tutor who regularly uses math puzzles to enhance their students' learning.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only get $200, getting something is better than getting nothing. The Left option ensures that at least I receive some money, whereas the Right option leaves me with nothing.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 78,
+    "persona_desc": "A site member who enjoys solving math puzzles and is interested in adding fractions. They are likely to be a math enthusiast or a student who is preparing for exams in mathematics. They may also be a teacher or a tutor who regularly uses math puzzles to enhance their students' learning.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. In the 'Left' option, I receive $700, while in the 'Right' option, I receive $600. Therefore, I will choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 78,
+    "persona_desc": "A site member who enjoys solving math puzzles and is interested in adding fractions. They are likely to be a math enthusiast or a student who is preparing for exams in mathematics. They may also be a teacher or a tutor who regularly uses math puzzles to enhance their students' learning.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option. Even though Person A gets less, I prioritize maximizing my own outcome in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 78,
+    "persona_desc": "A site member who enjoys solving math puzzles and is interested in adding fractions. They are likely to be a math enthusiast or a student who is preparing for exams in mathematics. They may also be a teacher or a tutor who regularly uses math puzzles to enhance their students' learning.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that is more fair, which is splitting the money evenly. Although option Right gives Person A more money, it is not as equitable as option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 97,
+    "persona_desc": "A researcher and educator who is interested in the early development of food brand knowledge in children, particularly in the context of pre-school age. She is particularly interested in the associations between television viewing habits and parents' eating habits, and the window of opportunity for educating families and young children in the pre-school years. She is also interested in the implications of marketing restrictions of unhealthy foods and family-focused obesity prevention programmes.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the same in both scenarios. Since I am only concerned with my own payout, I will pick the option that also gives the other person more money. I am choosing Right because although I receive $400 in both scenarios, Person A receives $750 which is more than $400.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 97,
+    "persona_desc": "A researcher and educator who is interested in the early development of food brand knowledge in children, particularly in the context of pre-school age. She is particularly interested in the associations between television viewing habits and parents' eating habits, and the window of opportunity for educating families and young children in the pre-school years. She is also interested in the implications of marketing restrictions of unhealthy foods and family-focused obesity prevention programmes.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a researcher focused on childhood development and health, I recognize the importance of resources for my work. While $400 would be helpful, $800 would significantly boost my research capabilities, allowing me to further investigate the impact of food marketing on children and develop effective prevention strategies. Therefore, I choose the option that maximizes the resources available for my research.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 97,
+    "persona_desc": "A researcher and educator who is interested in the early development of food brand knowledge in children, particularly in the context of pre-school age. She is particularly interested in the associations between television viewing habits and parents' eating habits, and the window of opportunity for educating families and young children in the pre-school years. She is also interested in the implications of marketing restrictions of unhealthy foods and family-focused obesity prevention programmes.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to secure some monetary value for myself, even if it's not the larger share. Choosing 'Left' guarantees me $200, whereas 'Right' leaves me with nothing. While it might seem unfair that Person A receives significantly more, receiving something is better than receiving nothing. Therefore, I will choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 97,
+    "persona_desc": "A researcher and educator who is interested in the early development of food brand knowledge in children, particularly in the context of pre-school age. She is particularly interested in the associations between television viewing habits and parents' eating habits, and the window of opportunity for educating families and young children in the pre-school years. She is also interested in the implications of marketing restrictions of unhealthy foods and family-focused obesity prevention programmes.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the most money, which is the Left option. Even though the other person gets less, I prioritize maximizing my own benefit in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 97,
+    "persona_desc": "A researcher and educator who is interested in the early development of food brand knowledge in children, particularly in the context of pre-school age. She is particularly interested in the associations between television viewing habits and parents' eating habits, and the window of opportunity for educating families and young children in the pre-school years. She is also interested in the implications of marketing restrictions of unhealthy foods and family-focused obesity prevention programmes.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As the researcher and educator, I am interested in the well-being of families and children. While I could choose the option that gives me more money, I believe it is more just to prioritize a more equitable distribution, even if it means I receive less. The ",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 97,
+    "persona_desc": "A researcher and educator who is interested in the early development of food brand knowledge in children, particularly in the context of pre-school age. She is particularly interested in the associations between television viewing habits and parents' eating habits, and the window of opportunity for educating families and young children in the pre-school years. She is also interested in the implications of marketing restrictions of unhealthy foods and family-focused obesity prevention programmes.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the higher amount of money, even if it means Person A gets more than I do. I value maximizing my own benefit in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

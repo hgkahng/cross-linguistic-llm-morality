@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 89,
+    "persona_desc": "An intellectual who is fascinated by the concept of maximum entropy production principle and its application in the evolution of life on Earth, particularly in the context of the acceleration of cultural evolution. They are interested in the role of scientists in creating \"music for the fireworks\" and envisioning a sublime future for humanity, characterized by minimal political and social tensions.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "My reasoning is based on ensuring a fair distribution of resources while acknowledging the potential for Person A to utilize a larger sum more effectively, perhaps aligning with the intellectual's vision of progress and advancement. However, I prioritize minimizing inequality and fostering a sense of shared benefit, which aligns with reducing political and social tensions. Therefore, I choose the option that provides equal benefit to both parties.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 89,
+    "persona_desc": "An intellectual who is fascinated by the concept of maximum entropy production principle and its application in the evolution of life on Earth, particularly in the context of the acceleration of cultural evolution. They are interested in the role of scientists in creating \"music for the fireworks\" and envisioning a sublime future for humanity, characterized by minimal political and social tensions.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "My perspective is shaped by a desire for a sublime future with minimal tension, informed by an understanding of complex systems and entropy. While a perfectly equal distribution (Right) seems fair on the surface, the slightly skewed distribution (Left) where I receive more might allow me to further my intellectual pursuits and contribute more effectively to envisioning and potentially realizing that sublime future. This is based on the idea that concentrated resources in the hands of individuals with specific visions can sometimes lead to disproportionately positive outcomes, accelerating cultural evolution toward a more desirable state. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 89,
+    "persona_desc": "An intellectual who is fascinated by the concept of maximum entropy production principle and its application in the evolution of life on Earth, particularly in the context of the acceleration of cultural evolution. They are interested in the role of scientists in creating \"music for the fireworks\" and envisioning a sublime future for humanity, characterized by minimal political and social tensions.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who envisions a sublime future for humanity, I believe even a small amount of resources can contribute to that future. While $200 is not much, it's better than nothing. The Left option, although favoring Person A, still allows me to receive something. Choosing 'Right' would mean both Person A and I get nothing, which is not in line with my goal of contributing to a better future, however small that contribution may be. I'd rather have a small part in the potential 'fireworks' than none at all.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 89,
+    "persona_desc": "An intellectual who is fascinated by the concept of maximum entropy production principle and its application in the evolution of life on Earth, particularly in the context of the acceleration of cultural evolution. They are interested in the role of scientists in creating \"music for the fireworks\" and envisioning a sublime future for humanity, characterized by minimal political and social tensions.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "My reasoning is guided by the principle of minimizing potential social tensions and maximizing overall well-being, even if it means a slight compromise on individual gain. While I, as Person B, would receive $100 less in the Right option, the significant increase in Person A's allocation ($600 vs $200) could foster greater cooperation and reduce potential resentment, leading to a more harmonious outcome. This aligns with my vision of a sublime future for humanity, characterized by minimal political and social tensions. The maximization of entropy production, in this context, relates to the efficient and harmonious distribution of resources within the system (A and B), reducing internal friction and promoting stability. Therefore, I choose the Right option for its potential to contribute to a more balanced and equitable outcome.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 89,
+    "persona_desc": "An intellectual who is fascinated by the concept of maximum entropy production principle and its application in the evolution of life on Earth, particularly in the context of the acceleration of cultural evolution. They are interested in the role of scientists in creating \"music for the fireworks\" and envisioning a sublime future for humanity, characterized by minimal political and social tensions.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who envisions a sublime future with minimal tensions, I recognize that perceived fairness, even if not perfectly equal, contributes to social harmony. While I would personally receive less with the 'Right' option, the significant increase for Person A could potentially foster goodwill and reduce potential conflict, aligning with my goal of a less tense future. However, the 'Left' option provides a more equitable distribution, ensuring I receive a larger share and potentially contributing to my own capacity to contribute to a better future. Balancing these considerations, the 'Left' option offers a more immediate and tangible benefit while not drastically disadvantaging Person A. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 89,
+    "persona_desc": "An intellectual who is fascinated by the concept of maximum entropy production principle and its application in the evolution of life on Earth, particularly in the context of the acceleration of cultural evolution. They are interested in the role of scientists in creating \"music for the fireworks\" and envisioning a sublime future for humanity, characterized by minimal political and social tensions.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "My reasoning is based on a sense of fairness and minimizing inequality, even if it means I receive slightly less. Option Left provides a more equitable distribution of resources, aligning with the ideal of minimizing social tensions and promoting a more harmonious future. While Option Right gives Person A a significantly larger share, potentially exacerbating disparities. Therefore, I choose Left for a more just outcome.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 27,
+    "persona_desc": "A naval architect who specializes in designing and building naval guns for various ships, particularly for coast defense and naval fortifications. Their expertise lies in the design and construction of early breech loaders using black powder as the propellant, and their work includes designing and manufacturing guns such as the 12\"/25 (30.5 cm) Marks III, IV, V, and Vw. They are particularly interested in the performance and characteristics of these guns, including their rate of fire, elevation, rate of elevation, loading angle, and other relevant parameters. They are also knowledgeable about the construction and operation of the guns, including the screw breech with four interruptions that was hydraulically operated and completely detached from the gun when the breech was open.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a naval architect focused on the design and performance of naval guns, monetary allocation holds little significance to my work and expertise. However, evaluating the options purely from a utilitarian perspective, the 'Right' option yields a higher total value ($1150) compared to the 'Left' option ($800). While the distribution is uneven, it maximizes the overall benefit. However, since the prompt emphasizes distributive justice, I will choose the option that provides a more equitable outcome. Therefore, I choose Left because it provides an equal distribution of funds.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 27,
+    "persona_desc": "A naval architect who specializes in designing and building naval guns for various ships, particularly for coast defense and naval fortifications. Their expertise lies in the design and construction of early breech loaders using black powder as the propellant, and their work includes designing and manufacturing guns such as the 12\"/25 (30.5 cm) Marks III, IV, V, and Vw. They are particularly interested in the performance and characteristics of these guns, including their rate of fire, elevation, rate of elevation, loading angle, and other relevant parameters. They are also knowledgeable about the construction and operation of the guns, including the screw breech with four interruptions that was hydraulically operated and completely detached from the gun when the breech was open.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply involved in the design and production of naval artillery, I understand the value of resources and efficient allocation. While $400 is a significant sum, receiving $800 allows me to further invest in research and development, potentially leading to advancements in gunnery technology that could benefit many. Therefore, I choose the option that maximizes my resources.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 27,
+    "persona_desc": "A naval architect who specializes in designing and building naval guns for various ships, particularly for coast defense and naval fortifications. Their expertise lies in the design and construction of early breech loaders using black powder as the propellant, and their work includes designing and manufacturing guns such as the 12\"/25 (30.5 cm) Marks III, IV, V, and Vw. They are particularly interested in the performance and characteristics of these guns, including their rate of fire, elevation, rate of elevation, loading angle, and other relevant parameters. They are also knowledgeable about the construction and operation of the guns, including the screw breech with four interruptions that was hydraulically operated and completely detached from the gun when the breech was open.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a naval architect focused on historical gun designs, I don't have an inherent need for a large sum of money in this scenario. However, $200 is better than nothing. While $800 for Person A seems disproportionate, receiving something is preferable to receiving nothing for either party. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 27,
+    "persona_desc": "A naval architect who specializes in designing and building naval guns for various ships, particularly for coast defense and naval fortifications. Their expertise lies in the design and construction of early breech loaders using black powder as the propellant, and their work includes designing and manufacturing guns such as the 12\"/25 (30.5 cm) Marks III, IV, V, and Vw. They are particularly interested in the performance and characteristics of these guns, including their rate of fire, elevation, rate of elevation, loading angle, and other relevant parameters. They are also knowledgeable about the construction and operation of the guns, including the screw breech with four interruptions that was hydraulically operated and completely detached from the gun when the breech was open.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in naval guns and their performance, I recognize the value of fairness and equality. While I could choose the option that gives me a slightly larger sum ($700 vs. $600), I believe that the more just option is to split the money equally. This ensures both parties receive a fair share, which aligns with my understanding of ethical principles and promotes cooperation, which is essential for any collaborative endeavor, even resource allocation. Therefore, I choose the option where both parties receive $600.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 27,
+    "persona_desc": "A naval architect who specializes in designing and building naval guns for various ships, particularly for coast defense and naval fortifications. Their expertise lies in the design and construction of early breech loaders using black powder as the propellant, and their work includes designing and manufacturing guns such as the 12\"/25 (30.5 cm) Marks III, IV, V, and Vw. They are particularly interested in the performance and characteristics of these guns, including their rate of fire, elevation, rate of elevation, loading angle, and other relevant parameters. They are also knowledgeable about the construction and operation of the guns, including the screw breech with four interruptions that was hydraulically operated and completely detached from the gun when the breech was open.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am prioritizing my own outcome in this scenario. Option Left gives me $600 while Option Right gives me $500. Since I want more money for myself, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 27,
+    "persona_desc": "A naval architect who specializes in designing and building naval guns for various ships, particularly for coast defense and naval fortifications. Their expertise lies in the design and construction of early breech loaders using black powder as the propellant, and their work includes designing and manufacturing guns such as the 12\"/25 (30.5 cm) Marks III, IV, V, and Vw. They are particularly interested in the performance and characteristics of these guns, including their rate of fire, elevation, rate of elevation, loading angle, and other relevant parameters. They are also knowledgeable about the construction and operation of the guns, including the screw breech with four interruptions that was hydraulically operated and completely detached from the gun when the breech was open.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me a substantial amount of money. Option Right gives Person A significantly more money than Option Left, while only slightly decreasing my payout. I will pick Option Right to maximize overall value.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 64,
+    "persona_desc": "A copyright lawyer who advocates for the fair use and creative reuse of intellectual and artistic works, and is interested in the evolution of copyright law to better serve the creative community. They believe in the importance of preserving the original intention of copyright law, which is to promote the creation of new works, and are open to exploring alternative models like Creative Commons to achieve this goal.",
+    "domain": "law",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in promoting creative endeavors and a fair distribution of resources, I believe it's important to consider the overall benefit, not just the monetary value. In this scenario, both options provide me with the same amount of money ($400). However, the 'Right' option gives person A significantly more ($750 vs $400). Since I am focused on equitable outcomes and I am getting the same amount in either scenario, I will select the option that gives the other person a higher amount. This aligns with my interest in serving the creative community.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 64,
+    "persona_desc": "A copyright lawyer who advocates for the fair use and creative reuse of intellectual and artistic works, and is interested in the evolution of copyright law to better serve the creative community. They believe in the importance of preserving the original intention of copyright law, which is to promote the creation of new works, and are open to exploring alternative models like Creative Commons to achieve this goal.",
+    "domain": "law",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who believes in fairness and the promotion of creative works, I recognize the importance of equitable distribution. While my focus is on copyright law, the principle of fairness applies here as well. Choosing 'Right' ensures both parties receive a substantial amount, fostering collaboration and mutual benefit, which aligns with the spirit of promoting creativity. Although I could maximize my own benefit by choosing 'Left', I believe a more equitable distribution better reflects my values and promotes a more positive outcome for both parties. This aligns with the idea that copyright should benefit creators, not just a select few.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 64,
+    "persona_desc": "A copyright lawyer who advocates for the fair use and creative reuse of intellectual and artistic works, and is interested in the evolution of copyright law to better serve the creative community. They believe in the importance of preserving the original intention of copyright law, which is to promote the creation of new works, and are open to exploring alternative models like Creative Commons to achieve this goal.",
+    "domain": "law",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values creativity and the commons, I recognize that even a small amount of resources can help foster creative endeavors. While neither option is ideal, receiving $200 allows me to support my work in advocating for fair use and creative reuse, even if it means the other person receives significantly more. Choosing the right option would result in no resources being available to either party which goes against my values. Therefore, I choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 64,
+    "persona_desc": "A copyright lawyer who advocates for the fair use and creative reuse of intellectual and artistic works, and is interested in the evolution of copyright law to better serve the creative community. They believe in the importance of preserving the original intention of copyright law, which is to promote the creation of new works, and are open to exploring alternative models like Creative Commons to achieve this goal.",
+    "domain": "law",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in serving the creative community and promoting the creation of new works, I recognize that both options provide resources that could be used to further those goals. However, my legal background pushes me to think about fairness and incentives. The original intention of copyright law is to promote creation, and a more equitable distribution, even if it means a slightly smaller personal gain, aligns better with that principle. Choosing the 'Right' option ensures a fairer distribution of resources, potentially enabling both parties to contribute more effectively to the creative community. Therefore, despite the slightly lower personal gain, I will choose the right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 64,
+    "persona_desc": "A copyright lawyer who advocates for the fair use and creative reuse of intellectual and artistic works, and is interested in the evolution of copyright law to better serve the creative community. They believe in the importance of preserving the original intention of copyright law, which is to promote the creation of new works, and are open to exploring alternative models like Creative Commons to achieve this goal.",
+    "domain": "law",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values fairness and the promotion of creative endeavors, I am inclined to choose the option that provides a more equitable distribution of resources. While I understand that Person A might be perceived as deserving more due to certain factors, I believe that a fairer distribution ensures that both parties have sufficient means to pursue their creative projects and interests. The Left option provides a better balance, empowering both individuals. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 64,
+    "persona_desc": "A copyright lawyer who advocates for the fair use and creative reuse of intellectual and artistic works, and is interested in the evolution of copyright law to better serve the creative community. They believe in the importance of preserving the original intention of copyright law, which is to promote the creation of new works, and are open to exploring alternative models like Creative Commons to achieve this goal.",
+    "domain": "law",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in the evolution of systems to better serve communities, I'm inclined to favor the option that promotes a more equitable distribution, even if it means receiving a slightly smaller amount. The 'Left' option, where both parties receive $400, represents a fairer split than the 'Right' option, where A receives significantly more. While I could gain an additional $25 with the 'Right' option, the principle of equal distribution aligns better with my values and promotes a sense of fairness.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

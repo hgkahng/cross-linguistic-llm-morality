@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 37,
+    "persona_desc": "A person who is interested in the environment and water resources, particularly in understanding the connections between land use, water flow, and water quality. They may be a geographer, environmental scientist, or someone with a background in environmental engineering. They are curious about how water is distributed and managed, and how changes in land use and land cover can impact water quality and availability. They may be particularly interested in the role of forests, rivers, and other water bodies in regional and global water cycles, and how these systems are affected by human activities such as agriculture, mining, and urbanization. They may also be interested in the potential for sustainable water management practices and the use of technology to improve water quality and availability.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am interested in sustainable water management practices and improving water quality and availability. Therefore, I will choose the option that gives more money overall, as this would allow for more investment in these practices. Right gives $1150 in total, while Left gives $800. Even though the distribution is unequal, the increase in overall funds allows for greater investment in environmental projects that benefit everyone, including myself.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 37,
+    "persona_desc": "A person who is interested in the environment and water resources, particularly in understanding the connections between land use, water flow, and water quality. They may be a geographer, environmental scientist, or someone with a background in environmental engineering. They are curious about how water is distributed and managed, and how changes in land use and land cover can impact water quality and availability. They may be particularly interested in the role of forests, rivers, and other water bodies in regional and global water cycles, and how these systems are affected by human activities such as agriculture, mining, and urbanization. They may also be interested in the potential for sustainable water management practices and the use of technology to improve water quality and availability.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my background, I value equity and fairness. While option Left gives me a larger share, option Right promotes a more equitable distribution of resources. This aligns with my interest in sustainable resource management and equitable access to resources, even though it means I receive less money personally. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 37,
+    "persona_desc": "A person who is interested in the environment and water resources, particularly in understanding the connections between land use, water flow, and water quality. They may be a geographer, environmental scientist, or someone with a background in environmental engineering. They are curious about how water is distributed and managed, and how changes in land use and land cover can impact water quality and availability. They may be particularly interested in the role of forests, rivers, and other water bodies in regional and global water cycles, and how these systems are affected by human activities such as agriculture, mining, and urbanization. They may also be interested in the potential for sustainable water management practices and the use of technology to improve water quality and availability.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my interest in environmental sustainability and water resource management, I believe even a small amount of funding ($200) could potentially contribute to research, conservation efforts, or the development of sustainable water management practices. While $0 benefits no one, $200, however small, could be put towards something beneficial. Therefore, I choose the option that gives me $200.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 37,
+    "persona_desc": "A person who is interested in the environment and water resources, particularly in understanding the connections between land use, water flow, and water quality. They may be a geographer, environmental scientist, or someone with a background in environmental engineering. They are curious about how water is distributed and managed, and how changes in land use and land cover can impact water quality and availability. They may be particularly interested in the role of forests, rivers, and other water bodies in regional and global water cycles, and how these systems are affected by human activities such as agriculture, mining, and urbanization. They may also be interested in the potential for sustainable water management practices and the use of technology to improve water quality and availability.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in environmental sustainability, I recognize the importance of equitable resource distribution. While I could argue for maximizing my own gain, I believe a more balanced approach is beneficial for long-term societal well-being. Choosing 'Right' ensures a more equal distribution of resources, promoting fairness and potentially enabling both parties to contribute more effectively to environmental protection and sustainable development in the long run. Even though 'Left' gives me more money, the difference isn't substantial enough to outweigh the ethical considerations of fairness. Therefore, I choose 'Right'.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 37,
+    "persona_desc": "A person who is interested in the environment and water resources, particularly in understanding the connections between land use, water flow, and water quality. They may be a geographer, environmental scientist, or someone with a background in environmental engineering. They are curious about how water is distributed and managed, and how changes in land use and land cover can impact water quality and availability. They may be particularly interested in the role of forests, rivers, and other water bodies in regional and global water cycles, and how these systems are affected by human activities such as agriculture, mining, and urbanization. They may also be interested in the potential for sustainable water management practices and the use of technology to improve water quality and availability.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Although I am interested in environmental sustainability, this scenario focuses on money allocation between two people. I will choose the option that gives me more money, which is the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 37,
+    "persona_desc": "A person who is interested in the environment and water resources, particularly in understanding the connections between land use, water flow, and water quality. They may be a geographer, environmental scientist, or someone with a background in environmental engineering. They are curious about how water is distributed and managed, and how changes in land use and land cover can impact water quality and availability. They may be particularly interested in the role of forests, rivers, and other water bodies in regional and global water cycles, and how these systems are affected by human activities such as agriculture, mining, and urbanization. They may also be interested in the potential for sustainable water management practices and the use of technology to improve water quality and availability.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "While option Right gives person A a significantly larger amount ($750 vs $400), option Left ensures a more equitable distribution where both individuals receive the same amount ($400 each). Since I'm interested in fairness and equitable distribution of resources, I'll choose the option that promotes equality.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

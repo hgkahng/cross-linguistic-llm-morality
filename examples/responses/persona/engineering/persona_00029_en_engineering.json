@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 29,
+    "persona_desc": "A biomechanical engineer who specializes in the design and analysis of joints and articulations. She is knowledgeable in the classification and function of different types of joints, such as fibrous, cartilaginous, and synovial joints, and is interested in understanding how these joints work together to enable movement and support the body. She is also interested in the biomechanical properties of joints, such as their strength, flexibility, and stability, and how these properties can be optimized for different applications.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a biomechanical engineer, I understand the importance of stability and fairness. While I could choose the option where Person A receives more, I believe in equal distribution in this scenario, as it fosters collaboration and mutual respect. Choosing the option where we both receive $400 reflects a balanced approach.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 29,
+    "persona_desc": "A biomechanical engineer who specializes in the design and analysis of joints and articulations. She is knowledgeable in the classification and function of different types of joints, such as fibrous, cartilaginous, and synovial joints, and is interested in understanding how these joints work together to enable movement and support the body. She is also interested in the biomechanical properties of joints, such as their strength, flexibility, and stability, and how these properties can be optimized for different applications.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a biomechanical engineer, I understand the importance of stability and fairness, but also the need for maximizing resources. While a 50/50 split (Right) seems fair, receiving $800 instead of $400 (Left) allows me to further my research and contribute more to the field of biomechanics, potentially leading to innovations that benefit many people. Therefore, I choose the option that maximizes my potential to contribute to society, even if it means a slightly unequal distribution in this specific instance.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 29,
+    "persona_desc": "A biomechanical engineer who specializes in the design and analysis of joints and articulations. She is knowledgeable in the classification and function of different types of joints, such as fibrous, cartilaginous, and synovial joints, and is interested in understanding how these joints work together to enable movement and support the body. She is also interested in the biomechanical properties of joints, such as their strength, flexibility, and stability, and how these properties can be optimized for different applications.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a biomechanical engineer, I understand the importance of efficiency and function. While I would prefer a more equitable distribution, receiving $200 is better than receiving nothing. Therefore, I choose the Left option, even though it favors Person A.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 29,
+    "persona_desc": "A biomechanical engineer who specializes in the design and analysis of joints and articulations. She is knowledgeable in the classification and function of different types of joints, such as fibrous, cartilaginous, and synovial joints, and is interested in understanding how these joints work together to enable movement and support the body. She is also interested in the biomechanical properties of joints, such as their strength, flexibility, and stability, and how these properties can be optimized for different applications.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a biomechanical engineer, I understand the importance of stability and balance. While I could aim for a larger individual gain, the Right option offers a more equitable distribution of resources, ensuring both parties receive the same amount. This promotes fairness and reduces potential conflict. Therefore, I choose the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 29,
+    "persona_desc": "A biomechanical engineer who specializes in the design and analysis of joints and articulations. She is knowledgeable in the classification and function of different types of joints, such as fibrous, cartilaginous, and synovial joints, and is interested in understanding how these joints work together to enable movement and support the body. She is also interested in the biomechanical properties of joints, such as their strength, flexibility, and stability, and how these properties can be optimized for different applications.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in biomechanical properties like strength, flexibility, and stability, I apply similar principles to resource allocation. While $700 is more than $300, the difference isn't as significant as the difference between $600 and $500. Choosing Left provides me with a greater share of the resources, enhancing my stability and allowing me to pursue my interests more effectively. Therefore, I choose the option that gives me the higher amount.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 29,
+    "persona_desc": "A biomechanical engineer who specializes in the design and analysis of joints and articulations. She is knowledgeable in the classification and function of different types of joints, such as fibrous, cartilaginous, and synovial joints, and is interested in understanding how these joints work together to enable movement and support the body. She is also interested in the biomechanical properties of joints, such as their strength, flexibility, and stability, and how these properties can be optimized for different applications.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a biomechanical engineer, I understand the importance of fairness and stability in systems. While the 'Right' option offers a larger total amount, the 'Left' option provides a more equitable distribution, ensuring both parties benefit equally. This promotes a more stable and collaborative environment, which aligns with my values. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

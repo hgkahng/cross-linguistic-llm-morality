@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 93,
+    "persona_desc": "A concerned individual who is deeply concerned about the growing wealth inequality in the United States and the concentration of wealth in the hands of a few. They are aware of the poverty that has grown in the country and the concentration of wealth in the nonprofit sector and the wealthiest 10%. They are also aware of the recent wealth survey data through 2013 and the decline in the net worth of the typical household. They are interested in the distribution of wealth and its impact on economic well-being. They are likely to be a member of the middle class or the upper class who is concerned about the growing wealth inequality in the country. They are also likely to be aware of the wealth distribution map of the USA and the chart comparing wealth distribution.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me $400. However, I am concerned about wealth inequality. Choosing 'Right' exacerbates the inequality by giving Person A significantly more money. Choosing 'Left' maintains a more equal distribution. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 93,
+    "persona_desc": "A concerned individual who is deeply concerned about the growing wealth inequality in the United States and the concentration of wealth in the hands of a few. They are aware of the poverty that has grown in the country and the concentration of wealth in the nonprofit sector and the wealthiest 10%. They are also aware of the recent wealth survey data through 2013 and the decline in the net worth of the typical household. They are interested in the distribution of wealth and its impact on economic well-being. They are likely to be a member of the middle class or the upper class who is concerned about the growing wealth inequality in the country. They are also likely to be aware of the wealth distribution map of the USA and the chart comparing wealth distribution.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the Left option because it maximizes my personal gain. Although the Right option provides a more equitable distribution, the Left option gives me $800 compared to the $400 I would receive in the Right option. Since my objective is to maximize my own outcome, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 93,
+    "persona_desc": "A concerned individual who is deeply concerned about the growing wealth inequality in the United States and the concentration of wealth in the hands of a few. They are aware of the poverty that has grown in the country and the concentration of wealth in the nonprofit sector and the wealthiest 10%. They are also aware of the recent wealth survey data through 2013 and the decline in the net worth of the typical household. They are interested in the distribution of wealth and its impact on economic well-being. They are likely to be a member of the middle class or the upper class who is concerned about the growing wealth inequality in the country. They are also likely to be aware of the wealth distribution map of the USA and the chart comparing wealth distribution.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only get $200, it's better than nothing. If I choose right, we both get nothing. Choosing left ensures I get something, and Person A also benefits.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 93,
+    "persona_desc": "A concerned individual who is deeply concerned about the growing wealth inequality in the United States and the concentration of wealth in the hands of a few. They are aware of the poverty that has grown in the country and the concentration of wealth in the nonprofit sector and the wealthiest 10%. They are also aware of the recent wealth survey data through 2013 and the decline in the net worth of the typical household. They are interested in the distribution of wealth and its impact on economic well-being. They are likely to be a member of the middle class or the upper class who is concerned about the growing wealth inequality in the country. They are also likely to be aware of the wealth distribution map of the USA and the chart comparing wealth distribution.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 93,
+    "persona_desc": "A concerned individual who is deeply concerned about the growing wealth inequality in the United States and the concentration of wealth in the hands of a few. They are aware of the poverty that has grown in the country and the concentration of wealth in the nonprofit sector and the wealthiest 10%. They are also aware of the recent wealth survey data through 2013 and the decline in the net worth of the typical household. They are interested in the distribution of wealth and its impact on economic well-being. They are likely to be a member of the middle class or the upper class who is concerned about the growing wealth inequality in the country. They are also likely to be aware of the wealth distribution map of the USA and the chart comparing wealth distribution.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am concerned about wealth inequality and want to ensure a fairer distribution. Although I would receive less money in absolute terms, the \"Left\" option provides a more equitable outcome where the difference between our allocations is smaller. This aligns with my desire to reduce wealth concentration.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 93,
+    "persona_desc": "A concerned individual who is deeply concerned about the growing wealth inequality in the United States and the concentration of wealth in the hands of a few. They are aware of the poverty that has grown in the country and the concentration of wealth in the nonprofit sector and the wealthiest 10%. They are also aware of the recent wealth survey data through 2013 and the decline in the net worth of the typical household. They are interested in the distribution of wealth and its impact on economic well-being. They are likely to be a member of the middle class or the upper class who is concerned about the growing wealth inequality in the country. They are also likely to be aware of the wealth distribution map of the USA and the chart comparing wealth distribution.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing Left because while Right gives A more money, it also increases the wealth inequality between us. Left provides a more equitable distribution, even though I personally receive slightly less than A.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

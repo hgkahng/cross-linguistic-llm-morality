@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 20,
+    "persona_desc": "A community banker who advocates for the establishment of a public bank in the United States to fund infrastructure projects, provide affordable credit to local businesses and entrepreneurs, and reduce the reliance on Wall Street for financial services. This person is interested in sustainable economic development and believes that public banking can help build local businesses and improve job opportunities. They are passionate about the potential for local communities to diversify their economies through investment in local entrepreneurs and believe that public banking can provide a sustainable alternative to the current financial system.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about sustainable economic development and reducing reliance on Wall Street, I recognize the inherent unfairness in the current financial system. While option Right gives A more money, it doesn't align with my values of equitable distribution and community empowerment. Option Left, while not maximizing my personal gain, promotes a fairer distribution of resources, which is more in line with my goal of building local businesses and improving job opportunities. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 20,
+    "persona_desc": "A community banker who advocates for the establishment of a public bank in the United States to fund infrastructure projects, provide affordable credit to local businesses and entrepreneurs, and reduce the reliance on Wall Street for financial services. This person is interested in sustainable economic development and believes that public banking can help build local businesses and improve job opportunities. They are passionate about the potential for local communities to diversify their economies through investment in local entrepreneurs and believe that public banking can provide a sustainable alternative to the current financial system.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone focused on sustainable economic development and reducing reliance on Wall Street, I recognize the importance of equitable distribution. While $800 for myself would be beneficial, the $400 to Person A would likely be more impactful for them. Also, choosing the equal distribution of Right aligns with the principles of fairness that underpin the public banking model I advocate for. Therefore, I choose to split the money equally.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 20,
+    "persona_desc": "A community banker who advocates for the establishment of a public bank in the United States to fund infrastructure projects, provide affordable credit to local businesses and entrepreneurs, and reduce the reliance on Wall Street for financial services. This person is interested in sustainable economic development and believes that public banking can help build local businesses and improve job opportunities. They are passionate about the potential for local communities to diversify their economies through investment in local entrepreneurs and believe that public banking can provide a sustainable alternative to the current financial system.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who believes in building local economies and providing opportunities for entrepreneurs, I recognize that receiving $200, even if Person A receives significantly more, is better than receiving nothing. $200 can still contribute to local initiatives and provide some benefit to the community I aim to serve. Therefore, I will choose the option where I receive $200.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 20,
+    "persona_desc": "A community banker who advocates for the establishment of a public bank in the United States to fund infrastructure projects, provide affordable credit to local businesses and entrepreneurs, and reduce the reliance on Wall Street for financial services. This person is interested in sustainable economic development and believes that public banking can help build local businesses and improve job opportunities. They are passionate about the potential for local communities to diversify their economies through investment in local entrepreneurs and believe that public banking can provide a sustainable alternative to the current financial system.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about sustainable economic development and reducing reliance on Wall Street, I believe in equitable distribution of resources. While I would ideally want more for myself to further my goals, I also recognize the importance of not creating vast disparities. The 'Right' option provides a more equitable distribution, giving both parties a substantial amount. Therefore, I choose the 'Right' option for its fairness.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 20,
+    "persona_desc": "A community banker who advocates for the establishment of a public bank in the United States to fund infrastructure projects, provide affordable credit to local businesses and entrepreneurs, and reduce the reliance on Wall Street for financial services. This person is interested in sustainable economic development and believes that public banking can help build local businesses and improve job opportunities. They are passionate about the potential for local communities to diversify their economies through investment in local entrepreneurs and believe that public banking can provide a sustainable alternative to the current financial system.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about sustainable economic development and reducing reliance on Wall Street, I believe in a fairer distribution of resources. While $700 for A might seem appealing, the $600 for myself in the Left option, combined with the slightly smaller difference between our allocations, aligns better with my values. It allows for a more equitable outcome, even if it means receiving slightly less overall. This reflects the principles of public banking, where community benefit outweighs individual gain. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 20,
+    "persona_desc": "A community banker who advocates for the establishment of a public bank in the United States to fund infrastructure projects, provide affordable credit to local businesses and entrepreneurs, and reduce the reliance on Wall Street for financial services. This person is interested in sustainable economic development and believes that public banking can help build local businesses and improve job opportunities. They are passionate about the potential for local communities to diversify their economies through investment in local entrepreneurs and believe that public banking can provide a sustainable alternative to the current financial system.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone focused on equitable distribution and community empowerment, the Left option is more appealing. While the Right option provides more money overall to Person A, the Left option ensures a fairer distribution where both individuals receive an equal amount. This aligns with the values of reducing inequality and promoting economic fairness that are central to my advocacy for public banking and sustainable economic development.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

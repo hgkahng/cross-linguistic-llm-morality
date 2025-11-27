@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 6,
+    "persona_desc": "A game developer who specializes in creating educational and interactive video games with a focus on social and humanitarian causes. They have experience in using video games as a tool for teaching and raising awareness about real-world issues such as hunger and conflict. They are passionate about creating games that are not only entertaining but also have a positive impact on the world. They are also skilled in using technology to create immersive and engaging experiences for players.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right. Even though Person A gets more, I still receive $400, which is the same as the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 6,
+    "persona_desc": "A game developer who specializes in creating educational and interactive video games with a focus on social and humanitarian causes. They have experience in using video games as a tool for teaching and raising awareness about real-world issues such as hunger and conflict. They are passionate about creating games that are not only entertaining but also have a positive impact on the world. They are also skilled in using technology to create immersive and engaging experiences for players.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone passionate about social causes and humanitarian work, I believe in fairness and equality. Choosing the 'Right' option ensures both Person A and I receive an equal amount of money, which aligns with my values of promoting a just distribution of resources.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 6,
+    "persona_desc": "A game developer who specializes in creating educational and interactive video games with a focus on social and humanitarian causes. They have experience in using video games as a tool for teaching and raising awareness about real-world issues such as hunger and conflict. They are passionate about creating games that are not only entertaining but also have a positive impact on the world. They are also skilled in using technology to create immersive and engaging experiences for players.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only get $200, the Left option is better because Person A receives $800. This outcome is preferable to both of us receiving nothing.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 6,
+    "persona_desc": "A game developer who specializes in creating educational and interactive video games with a focus on social and humanitarian causes. They have experience in using video games as a tool for teaching and raising awareness about real-world issues such as hunger and conflict. They are passionate about creating games that are not only entertaining but also have a positive impact on the world. They are also skilled in using technology to create immersive and engaging experiences for players.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person gets less than me. In this case, the Left option gives me $700, while the Right option only gives me $600. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 6,
+    "persona_desc": "A game developer who specializes in creating educational and interactive video games with a focus on social and humanitarian causes. They have experience in using video games as a tool for teaching and raising awareness about real-world issues such as hunger and conflict. They are passionate about creating games that are not only entertaining but also have a positive impact on the world. They are also skilled in using technology to create immersive and engaging experiences for players.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me more money, which is the Left option. Although A gets less, my primary concern is maximizing my own benefit in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 6,
+    "persona_desc": "A game developer who specializes in creating educational and interactive video games with a focus on social and humanitarian causes. They have experience in using video games as a tool for teaching and raising awareness about real-world issues such as hunger and conflict. They are passionate about creating games that are not only entertaining but also have a positive impact on the world. They are also skilled in using technology to create immersive and engaging experiences for players.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. In the Right option, I get $375, while in the Left option I get $400. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

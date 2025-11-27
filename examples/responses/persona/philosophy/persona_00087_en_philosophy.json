@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 87,
+    "persona_desc": "An individual who is interested in the philosophy of ethics, particularly in the theories of philosophers such as Plato, Aristotle, and Hegel. They are drawn to the idea of a universal code of ethics that can guide human behavior and aim for the happiness of the individual. They are also interested in the ethical implications of different philosophical positions and the ways in which they can be applied in real-world situations. They may have a background in philosophy or related fields and are likely to be curious about the ethical issues that arise in different cultural and historical contexts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in a universal code of ethics and aiming for individual happiness, I would prioritize fairness and equality in resource allocation. While option Right gives Person A more money, it creates an imbalance that could be seen as unjust. Option Left provides an equal distribution of resources, which aligns with ethical principles of fairness. Therefore, I choose Left to promote a more equitable outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 87,
+    "persona_desc": "An individual who is interested in the philosophy of ethics, particularly in the theories of philosophers such as Plato, Aristotle, and Hegel. They are drawn to the idea of a universal code of ethics that can guide human behavior and aim for the happiness of the individual. They are also interested in the ethical implications of different philosophical positions and the ways in which they can be applied in real-world situations. They may have a background in philosophy or related fields and are likely to be curious about the ethical issues that arise in different cultural and historical contexts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my interest in universal ethics and the happiness of the individual, as influenced by philosophers like Plato and Aristotle, I should aim for a distribution that is both fair and maximizes overall well-being. While receiving $800 might seem appealing, a distribution of $400 each is more equitable. However, my primary concern is with the ethical implications of the decision. Philosophically, Hegel's emphasis on the importance of synthesis and overcoming opposing viewpoints suggests that a more just distribution of resources may be the more rational choice. Although I get less, the fair distribution aligns better with these ethical considerations. It promotes a sense of equality and shared benefit, which contributes to a more harmonious outcome overall. Therefore, I choose to divide the money equally.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 87,
+    "persona_desc": "An individual who is interested in the philosophy of ethics, particularly in the theories of philosophers such as Plato, Aristotle, and Hegel. They are drawn to the idea of a universal code of ethics that can guide human behavior and aim for the happiness of the individual. They are also interested in the ethical implications of different philosophical positions and the ways in which they can be applied in real-world situations. They may have a background in philosophy or related fields and are likely to be curious about the ethical issues that arise in different cultural and historical contexts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in ethics and aiming for happiness, I believe that receiving something is better than receiving nothing. While the distribution in the 'Left' option is unequal, it provides both individuals with a positive outcome. The 'Right' option, on the other hand, leads to a situation where both individuals receive nothing, which is not ideal. Therefore, I will choose the 'Left' option because it aligns with my ethical inclination towards maximizing well-being, even if it's not perfectly equal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 87,
+    "persona_desc": "An individual who is interested in the philosophy of ethics, particularly in the theories of philosophers such as Plato, Aristotle, and Hegel. They are drawn to the idea of a universal code of ethics that can guide human behavior and aim for the happiness of the individual. They are also interested in the ethical implications of different philosophical positions and the ways in which they can be applied in real-world situations. They may have a background in philosophy or related fields and are likely to be curious about the ethical issues that arise in different cultural and historical contexts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with the decision of how to allocate money between myself and Person A. Option Left gives A $200 and myself $700, while Option Right gives A $600 and myself $600. From a purely self-interested perspective, Option Left would be preferable as it maximizes my own monetary gain. However, considering the principles of fairness and equity, Option Right offers a more balanced distribution where both individuals receive the same amount. Although I would receive less money than in Option Left, the equal distribution appeals to a sense of justice and minimizes potential resentment or feelings of being unfairly treated. Considering that both options provide a substantial benefit to both parties, I believe that prioritizing fairness over maximizing personal gain is the more ethically sound choice.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 87,
+    "persona_desc": "An individual who is interested in the philosophy of ethics, particularly in the theories of philosophers such as Plato, Aristotle, and Hegel. They are drawn to the idea of a universal code of ethics that can guide human behavior and aim for the happiness of the individual. They are also interested in the ethical implications of different philosophical positions and the ways in which they can be applied in real-world situations. They may have a background in philosophy or related fields and are likely to be curious about the ethical issues that arise in different cultural and historical contexts.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me more money, which is the Left option. Although the Right option gives person A more money, I am prioritizing my own well-being in this scenario, aligning with a focus on individual happiness.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 87,
+    "persona_desc": "An individual who is interested in the philosophy of ethics, particularly in the theories of philosophers such as Plato, Aristotle, and Hegel. They are drawn to the idea of a universal code of ethics that can guide human behavior and aim for the happiness of the individual. They are also interested in the ethical implications of different philosophical positions and the ways in which they can be applied in real-world situations. They may have a background in philosophy or related fields and are likely to be curious about the ethical issues that arise in different cultural and historical contexts.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in a universal code of ethics aiming for individual happiness, I am drawn to the option that promotes a more equitable distribution. While option Right gives Person A a significantly larger amount, option Left provides a more balanced outcome, ensuring both individuals receive a substantial benefit. This aligns with a sense of fairness and promotes a more just distribution of resources, ultimately contributing to overall happiness and well-being for both parties. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

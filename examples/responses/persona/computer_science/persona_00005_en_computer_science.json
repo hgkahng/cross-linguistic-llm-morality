@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 5,
+    "persona_desc": "A tech enthusiast who is interested in mobile app development and wants to understand the differences between native, hybrid, and web apps. They are looking for information about the pros and cons of each type of app and how they differ in terms of performance, distribution, and user experience. They are also interested in learning about the specific languages and platforms used to develop each type of app.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money, which is Right, where I get $400.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 5,
+    "persona_desc": "A tech enthusiast who is interested in mobile app development and wants to understand the differences between native, hybrid, and web apps. They are looking for information about the pros and cons of each type of app and how they differ in terms of performance, distribution, and user experience. They are also interested in learning about the specific languages and platforms used to develop each type of app.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets nothing. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 5,
+    "persona_desc": "A tech enthusiast who is interested in mobile app development and wants to understand the differences between native, hybrid, and web apps. They are looking for information about the pros and cons of each type of app and how they differ in terms of performance, distribution, and user experience. They are also interested in learning about the specific languages and platforms used to develop each type of app.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I would prefer to receive more money, receiving $200 is better than receiving nothing. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 5,
+    "persona_desc": "A tech enthusiast who is interested in mobile app development and wants to understand the differences between native, hybrid, and web apps. They are looking for information about the pros and cons of each type of app and how they differ in terms of performance, distribution, and user experience. They are also interested in learning about the specific languages and platforms used to develop each type of app.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. Option Left gives me $700, while Option Right gives me $600. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 5,
+    "persona_desc": "A tech enthusiast who is interested in mobile app development and wants to understand the differences between native, hybrid, and web apps. They are looking for information about the pros and cons of each type of app and how they differ in terms of performance, distribution, and user experience. They are also interested in learning about the specific languages and platforms used to develop each type of app.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more overall. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 5,
+    "persona_desc": "A tech enthusiast who is interested in mobile app development and wants to understand the differences between native, hybrid, and web apps. They are looking for information about the pros and cons of each type of app and how they differ in terms of performance, distribution, and user experience. They are also interested in learning about the specific languages and platforms used to develop each type of app.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that results in a more equitable distribution of money between Person A and myself. While the \"Right\" option gives Person A a larger sum, the \"Left\" option ensures a more balanced outcome where we both receive a substantial amount. This seems like a fairer approach overall.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

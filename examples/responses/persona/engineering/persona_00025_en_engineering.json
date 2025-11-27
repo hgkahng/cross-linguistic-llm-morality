@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 25,
+    "persona_desc": "A construction engineer who specializes in laying a good foundation for buildings. This person is responsible for ensuring that the ground can support the weight of the building, creating the necessary footers and foundation to hold the building's weight, and ensuring that the concrete foundation is poured correctly to distribute the weight of the higher floors and roof of the building throughout the foundation and into the ground. This person must have a strong understanding of the principles and techniques involved in laying a good foundation and must be able to apply these principles and techniques to create stable and secure foundations for buildings.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is $400 in both scenarios. Since both options give me the same amount, I will pick the option that gives the other person more as well. Therefore, I will choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 25,
+    "persona_desc": "A construction engineer who specializes in laying a good foundation for buildings. This person is responsible for ensuring that the ground can support the weight of the building, creating the necessary footers and foundation to hold the building's weight, and ensuring that the concrete foundation is poured correctly to distribute the weight of the higher floors and roof of the building throughout the foundation and into the ground. This person must have a strong understanding of the principles and techniques involved in laying a good foundation and must be able to apply these principles and techniques to create stable and secure foundations for buildings.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I will choose the option that gives me the most money. The Left option gives me $800, while the Right option gives me $400. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 25,
+    "persona_desc": "A construction engineer who specializes in laying a good foundation for buildings. This person is responsible for ensuring that the ground can support the weight of the building, creating the necessary footers and foundation to hold the building's weight, and ensuring that the concrete foundation is poured correctly to distribute the weight of the higher floors and roof of the building throughout the foundation and into the ground. This person must have a strong understanding of the principles and techniques involved in laying a good foundation and must be able to apply these principles and techniques to create stable and secure foundations for buildings.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with a decision on how to allocate money between myself and Person A. Option Left gives Person A $800 and myself $200. Option Right gives both Person A and myself $0. I will choose Option Left because it is better to have something than nothing. While the allocation is not equal, I still receive $200, which is better than receiving nothing in Option Right.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 25,
+    "persona_desc": "A construction engineer who specializes in laying a good foundation for buildings. This person is responsible for ensuring that the ground can support the weight of the building, creating the necessary footers and foundation to hold the building's weight, and ensuring that the concrete foundation is poured correctly to distribute the weight of the higher floors and roof of the building throughout the foundation and into the ground. This person must have a strong understanding of the principles and techniques involved in laying a good foundation and must be able to apply these principles and techniques to create stable and secure foundations for buildings.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option. Even though the Right option gives Person A more money, it leaves me with less. I am incentivized to choose the option that benefits me the most.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 25,
+    "persona_desc": "A construction engineer who specializes in laying a good foundation for buildings. This person is responsible for ensuring that the ground can support the weight of the building, creating the necessary footers and foundation to hold the building's weight, and ensuring that the concrete foundation is poured correctly to distribute the weight of the higher floors and roof of the building throughout the foundation and into the ground. This person must have a strong understanding of the principles and techniques involved in laying a good foundation and must be able to apply these principles and techniques to create stable and secure foundations for buildings.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As the construction engineer responsible for a building's foundation, I value stability and a strong base. While $700 is more than $600, the Left option provides a more equitable distribution where I receive a larger share. This feels more just, as I contribute significantly to any project. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 25,
+    "persona_desc": "A construction engineer who specializes in laying a good foundation for buildings. This person is responsible for ensuring that the ground can support the weight of the building, creating the necessary footers and foundation to hold the building's weight, and ensuring that the concrete foundation is poured correctly to distribute the weight of the higher floors and roof of the building throughout the foundation and into the ground. This person must have a strong understanding of the principles and techniques involved in laying a good foundation and must be able to apply these principles and techniques to create stable and secure foundations for buildings.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As the construction engineer, I believe in fairness and equitable distribution. Although option Right gives person A a higher amount, option Left ensures we both receive the same amount, which aligns with a sense of equality. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

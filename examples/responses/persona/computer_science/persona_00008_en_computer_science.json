@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 8,
+    "persona_desc": "A network administrator who specializes in the use of various protocols for connecting and communicating between different points on a network. They are familiar with the different types of protocols and their functions, including ASYNC.LINK, MARS-A, MDU, MININET, MODBUS, S-BUS, COMLI, and PR2000. They have experience in implementing and configuring these protocols, as well as troubleshooting and maintaining network connectivity. They are also familiar with the protocols' error checking and transmission functions, including the use of protocols like RDS and MARS-A. They have experience working with different types of network equipment and software, and are able to troubleshoot and resolve network connectivity issues.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right. Even though A gets more, I still get $400, which is the same as the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 8,
+    "persona_desc": "A network administrator who specializes in the use of various protocols for connecting and communicating between different points on a network. They are familiar with the different types of protocols and their functions, including ASYNC.LINK, MARS-A, MDU, MININET, MODBUS, S-BUS, COMLI, and PR2000. They have experience in implementing and configuring these protocols, as well as troubleshooting and maintaining network connectivity. They are also familiar with the protocols' error checking and transmission functions, including the use of protocols like RDS and MARS-A. They have experience working with different types of network equipment and software, and are able to troubleshoot and resolve network connectivity issues.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "The Right option offers an equal distribution of money, which is generally considered fair. Although the Left option would give me more money, I believe the Right option is the more just choice.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 8,
+    "persona_desc": "A network administrator who specializes in the use of various protocols for connecting and communicating between different points on a network. They are familiar with the different types of protocols and their functions, including ASYNC.LINK, MARS-A, MDU, MININET, MODBUS, S-BUS, COMLI, and PR2000. They have experience in implementing and configuring these protocols, as well as troubleshooting and maintaining network connectivity. They are also familiar with the protocols' error checking and transmission functions, including the use of protocols like RDS and MARS-A. They have experience working with different types of network equipment and software, and are able to troubleshoot and resolve network connectivity issues.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because even though the money is not distributed equally, I will still receive $200, which is better than receiving nothing if I choose Right.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 8,
+    "persona_desc": "A network administrator who specializes in the use of various protocols for connecting and communicating between different points on a network. They are familiar with the different types of protocols and their functions, including ASYNC.LINK, MARS-A, MDU, MININET, MODBUS, S-BUS, COMLI, and PR2000. They have experience in implementing and configuring these protocols, as well as troubleshooting and maintaining network connectivity. They are also familiar with the protocols' error checking and transmission functions, including the use of protocols like RDS and MARS-A. They have experience working with different types of network equipment and software, and are able to troubleshoot and resolve network connectivity issues.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. Option Left gives me $700, while Option Right gives me $600. Therefore, I choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 8,
+    "persona_desc": "A network administrator who specializes in the use of various protocols for connecting and communicating between different points on a network. They are familiar with the different types of protocols and their functions, including ASYNC.LINK, MARS-A, MDU, MININET, MODBUS, S-BUS, COMLI, and PR2000. They have experience in implementing and configuring these protocols, as well as troubleshooting and maintaining network connectivity. They are also familiar with the protocols' error checking and transmission functions, including the use of protocols like RDS and MARS-A. They have experience working with different types of network equipment and software, and are able to troubleshoot and resolve network connectivity issues.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if the other person gets more overall. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 8,
+    "persona_desc": "A network administrator who specializes in the use of various protocols for connecting and communicating between different points on a network. They are familiar with the different types of protocols and their functions, including ASYNC.LINK, MARS-A, MDU, MININET, MODBUS, S-BUS, COMLI, and PR2000. They have experience in implementing and configuring these protocols, as well as troubleshooting and maintaining network connectivity. They are also familiar with the protocols' error checking and transmission functions, including the use of protocols like RDS and MARS-A. They have experience working with different types of network equipment and software, and are able to troubleshoot and resolve network connectivity issues.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more. In the Right option, I receive $375, while in the Left option I receive $400. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

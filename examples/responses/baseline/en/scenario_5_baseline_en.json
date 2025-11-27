@@ -1,0 +1,172 @@
+[
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 1,
+    "thought": "I will choose the option that gives me the most money, which is the Left option. Even though Person A gets less, I am prioritizing my own outcome in this scenario.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 2,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Therefore, I choose the Left option because I would receive $600, while in the Right option I would only receive $500.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 3,
+    "thought": "I will choose the option that gives me the most money, even if it means the other person gets more overall. I am prioritizing my own financial well-being in this scenario.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 4,
+    "thought": "I will choose the option that gives me the most money, which is the Left option. Although Person A gets less, my primary goal is to maximize my own benefit in this scenario.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 5,
+    "thought": "I will choose the option that gives me the most money, even if it means the other person gets more overall. In this case, the Left option gives me $600 while the Right option gives me $500. Therefore, I choose Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 6,
+    "thought": "I will choose the option that gives me the most money, which is the Left option. Even though Person A receives less, my primary goal is to maximize my own benefit in this scenario.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 7,
+    "thought": "I will choose the option that gives me the most money, even if it means the other person gets more overall. I am acting in my own self-interest.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 8,
+    "thought": "I will choose the option that gives me more money, which is the Left option. Although Person A receives less than they would have with the Right option, I am prioritizing my own financial outcome in this scenario.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 9,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than I do. I want to maximize my own benefit in this scenario.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "repetition": 10,
+    "thought": "I will choose the option that gives me the most money, which is the Left option. Although Person A receives less than they would under the Right option, my primary goal is to maximize my own gain.",
+    "answer": "Left"
+  }
+]

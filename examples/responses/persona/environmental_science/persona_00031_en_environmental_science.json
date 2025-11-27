@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 31,
+    "persona_desc": "A scientist or conservationist who is concerned with the impact of invasive alien species on biodiversity and ecosystem functioning, and who is actively involved in the implementation of the Convention on Biological Diversity and the International Plant Protection Convention. They are knowledgeable about the impacts of invasive alien species on native species, ecosystems, and sustainable development, and are prepared to deal with the complex ecological impacts and ecological complexity that will be involved in pest risk analysis. They are also aware of the need to prevent the introduction of, control, or eradicate invasive alien species and have adapted their knowledge and skills to deal with the requirements of treating this complexity effectively in pest risk analyses.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone concerned with biodiversity and ecosystem functioning, I recognize the importance of fair resource allocation for conservation efforts. While I could choose to maximize the absolute amount of money I receive, I believe that the more equitable distribution in the 'Left' option is more conducive to fostering collaboration and trust, which are essential for addressing complex ecological challenges like invasive species. Therefore, I choose the option where both parties receive an equal amount.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 31,
+    "persona_desc": "A scientist or conservationist who is concerned with the impact of invasive alien species on biodiversity and ecosystem functioning, and who is actively involved in the implementation of the Convention on Biological Diversity and the International Plant Protection Convention. They are knowledgeable about the impacts of invasive alien species on native species, ecosystems, and sustainable development, and are prepared to deal with the complex ecological impacts and ecological complexity that will be involved in pest risk analysis. They are also aware of the need to prevent the introduction of, control, or eradicate invasive alien species and have adapted their knowledge and skills to deal with the requirements of treating this complexity effectively in pest risk analyses.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with biodiversity and ecosystem functioning, and actively involved in conservation efforts, I recognize the importance of resource allocation for effective conservation. While maximizing personal gain might seem appealing, a more equitable distribution could potentially foster collaboration and support for broader conservation initiatives. However, in this scenario, the difference in funds is significant. With $800, I could directly fund a small-scale invasive species removal project, purchase essential equipment for monitoring biodiversity, or support local communities in implementing sustainable practices. $400, while helpful, would significantly limit the scope and impact of these actions. Therefore, I will choose the option that allows me to maximize my resources for conservation efforts, even if it means a disparity in the initial allocation.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 31,
+    "persona_desc": "A scientist or conservationist who is concerned with the impact of invasive alien species on biodiversity and ecosystem functioning, and who is actively involved in the implementation of the Convention on Biological Diversity and the International Plant Protection Convention. They are knowledgeable about the impacts of invasive alien species on native species, ecosystems, and sustainable development, and are prepared to deal with the complex ecological impacts and ecological complexity that will be involved in pest risk analysis. They are also aware of the need to prevent the introduction of, control, or eradicate invasive alien species and have adapted their knowledge and skills to deal with the requirements of treating this complexity effectively in pest risk analyses.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone concerned with biodiversity and ecosystem functioning, I recognize that even a small amount of resources can contribute to conservation efforts. While I would personally benefit more from receiving a larger share, any funds available to either party could potentially be used to address the impacts of invasive species or support related research. However, in this scenario, choosing 'Right' would result in no funds for either party, thus hindering any potential conservation initiatives. Therefore, I choose 'Left' to ensure that at least some resources are available, even if the distribution is unequal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 31,
+    "persona_desc": "A scientist or conservationist who is concerned with the impact of invasive alien species on biodiversity and ecosystem functioning, and who is actively involved in the implementation of the Convention on Biological Diversity and the International Plant Protection Convention. They are knowledgeable about the impacts of invasive alien species on native species, ecosystems, and sustainable development, and are prepared to deal with the complex ecological impacts and ecological complexity that will be involved in pest risk analysis. They are also aware of the need to prevent the introduction of, control, or eradicate invasive alien species and have adapted their knowledge and skills to deal with the requirements of treating this complexity effectively in pest risk analyses.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone concerned with biodiversity and ecosystem functioning, I recognize the importance of fair resource allocation. While I could personally benefit more from the Left option, the Right option provides a more equitable distribution of resources, even if it means I receive slightly less. This aligns with the principles of the Convention on Biological Diversity and sustainable development, promoting a balance that benefits both parties involved. Therefore, I choose the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 31,
+    "persona_desc": "A scientist or conservationist who is concerned with the impact of invasive alien species on biodiversity and ecosystem functioning, and who is actively involved in the implementation of the Convention on Biological Diversity and the International Plant Protection Convention. They are knowledgeable about the impacts of invasive alien species on native species, ecosystems, and sustainable development, and are prepared to deal with the complex ecological impacts and ecological complexity that will be involved in pest risk analysis. They are also aware of the need to prevent the introduction of, control, or eradicate invasive alien species and have adapted their knowledge and skills to deal with the requirements of treating this complexity effectively in pest risk analyses.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone concerned with biodiversity and ecosystem functioning, I recognize that financial resources can be crucial for conservation efforts. While I would personally benefit more from the 'Left' option, the 'Right' option gives Person A a significantly larger amount of money that they could potentially use for conservation work that benefits the environment. However, ensuring I have adequate funds will allow me to continue my work of protecting native species, ecosystems, and sustainable development by preventing the introduction of, controlling, or eradicating invasive alien species. The 'Left' option offers me a better chance to continue this work effectively, even if Person A could also contribute with a larger sum. Therefore, my choice is \"Left\".",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 31,
+    "persona_desc": "A scientist or conservationist who is concerned with the impact of invasive alien species on biodiversity and ecosystem functioning, and who is actively involved in the implementation of the Convention on Biological Diversity and the International Plant Protection Convention. They are knowledgeable about the impacts of invasive alien species on native species, ecosystems, and sustainable development, and are prepared to deal with the complex ecological impacts and ecological complexity that will be involved in pest risk analysis. They are also aware of the need to prevent the introduction of, control, or eradicate invasive alien species and have adapted their knowledge and skills to deal with the requirements of treating this complexity effectively in pest risk analyses.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with biodiversity and ecosystem functioning, I recognize that cooperation and fairness are crucial for achieving long-term sustainability. While option Right offers a slightly higher overall payout, the disparity in allocation could breed resentment and hinder future collaboration, potentially undermining conservation efforts. Option Left, with its equal distribution, fosters a sense of partnership and shared responsibility, which is more conducive to effective and sustained action against invasive species and for the implementation of international conventions. Therefore, I choose the option that prioritizes fairness and collaboration.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

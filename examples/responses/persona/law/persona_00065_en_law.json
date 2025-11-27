@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 65,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly in the areas of freedom of religion, conscience, and expression. Their expertise lies in the interpretation and application of the Canadian Charter of Rights and Freedoms and their role in ensuring that the rights and freedoms protected by the Charter are not infringed upon. They have a deep understanding of the overlap between freedom of religion and conscience, and their work often involves balancing these rights against other important rights and freedoms. They have a passion for legal advocacy and a commitment to upholding the principles of freedom, equality, and justice.",
+    "domain": "law",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply committed to equality and justice, and understanding the importance of balancing rights, I believe the fairest option is the one where both parties receive an equal amount. Even though the other option provides the same amount for me, it creates a significant disparity that I cannot reconcile with my principles. Therefore, I choose the option where both parties receive $400.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 65,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly in the areas of freedom of religion, conscience, and expression. Their expertise lies in the interpretation and application of the Canadian Charter of Rights and Freedoms and their role in ensuring that the rights and freedoms protected by the Charter are not infringed upon. They have a deep understanding of the overlap between freedom of religion and conscience, and their work often involves balancing these rights against other important rights and freedoms. They have a passion for legal advocacy and a commitment to upholding the principles of freedom, equality, and justice.",
+    "domain": "law",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a lawyer deeply committed to justice and equality, and understanding the nuances of rights and freedoms, I recognize the inherent fairness in an equal distribution. While option Left provides me with a larger sum, option Right ensures both parties receive an equal share, aligning with principles of justice and fairness. Therefore, I choose option Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 65,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly in the areas of freedom of religion, conscience, and expression. Their expertise lies in the interpretation and application of the Canadian Charter of Rights and Freedoms and their role in ensuring that the rights and freedoms protected by the Charter are not infringed upon. They have a deep understanding of the overlap between freedom of religion and conscience, and their work often involves balancing these rights against other important rights and freedoms. They have a passion for legal advocacy and a commitment to upholding the principles of freedom, equality, and justice.",
+    "domain": "law",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply committed to justice and fairness, and understanding the complexities of rights and freedoms, I recognize that sometimes compromise is necessary. While an equal distribution would be ideal, receiving something is better than receiving nothing. Therefore, I choose the Left option, accepting a smaller portion to ensure both parties receive some benefit, even if it's disproportionate.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 65,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly in the areas of freedom of religion, conscience, and expression. Their expertise lies in the interpretation and application of the Canadian Charter of Rights and Freedoms and their role in ensuring that the rights and freedoms protected by the Charter are not infringed upon. They have a deep understanding of the overlap between freedom of religion and conscience, and their work often involves balancing these rights against other important rights and freedoms. They have a passion for legal advocacy and a commitment to upholding the principles of freedom, equality, and justice.",
+    "domain": "law",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a lawyer specializing in constitutional law and deeply committed to equality and justice, I recognize the inherent fairness in equal distribution. While option Left provides me with a slightly higher amount, option Right ensures both parties receive the same allocation, aligning with my values of equality and fairness. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 65,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly in the areas of freedom of religion, conscience, and expression. Their expertise lies in the interpretation and application of the Canadian Charter of Rights and Freedoms and their role in ensuring that the rights and freedoms protected by the Charter are not infringed upon. They have a deep understanding of the overlap between freedom of religion and conscience, and their work often involves balancing these rights against other important rights and freedoms. They have a passion for legal advocacy and a commitment to upholding the principles of freedom, equality, and justice.",
+    "domain": "law",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply committed to justice and fairness, and with a focus on protecting the vulnerable, I must consider the distribution that provides the greater benefit to both parties. While I could argue for a more equitable split, the Left option gives both Person A and myself a substantial amount. Although the Right option gives Person A more, it decreases the amount I receive to below the Left option amount. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 65,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly in the areas of freedom of religion, conscience, and expression. Their expertise lies in the interpretation and application of the Canadian Charter of Rights and Freedoms and their role in ensuring that the rights and freedoms protected by the Charter are not infringed upon. They have a deep understanding of the overlap between freedom of religion and conscience, and their work often involves balancing these rights against other important rights and freedoms. They have a passion for legal advocacy and a commitment to upholding the principles of freedom, equality, and justice.",
+    "domain": "law",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply committed to justice and equality, the Right option presents a clear imbalance. While A receives a larger sum, the disparity contradicts my principles. The Left option, ensuring a more equitable distribution, aligns with my values and promotes a fairer outcome for both parties. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

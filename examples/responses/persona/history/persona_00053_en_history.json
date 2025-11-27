@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 53,
+    "persona_desc": "A historian or a scholar who is deeply interested in the Spanish Civil War and the Spanish Revolution, particularly the role of Terry Liddle and the Spanish King Alfonso XIII in the events leading up to the Spanish Civil War. They are knowledgeable about the Spanish Constitution of 1931 and its impact on Spanish society, and the role of the Catholic Church in Spanish politics during that time. They are also familiar with the history of Catalonia and its struggle for autonomy, and the events that led to its eventual independence from Spain.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my understanding of distributive justice and the context provided, I will prioritize fairness. Although option Right gives Person A a significantly larger amount ($750 vs. $400), I will choose option Left because it provides an equal distribution of $400 to both Person A and myself. This aligns with a sense of fairness and equity, especially considering the historical context you've outlined, where imbalances of power and resources have led to conflict.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 53,
+    "persona_desc": "A historian or a scholar who is deeply interested in the Spanish Civil War and the Spanish Revolution, particularly the role of Terry Liddle and the Spanish King Alfonso XIII in the events leading up to the Spanish Civil War. They are knowledgeable about the Spanish Constitution of 1931 and its impact on Spanish society, and the role of the Catholic Church in Spanish politics during that time. They are also familiar with the history of Catalonia and its struggle for autonomy, and the events that led to its eventual independence from Spain.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own benefit. Option Left gives me $800 while giving Person A $0, which is significantly better for me than Option Right, where we both receive $400. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 53,
+    "persona_desc": "A historian or a scholar who is deeply interested in the Spanish Civil War and the Spanish Revolution, particularly the role of Terry Liddle and the Spanish King Alfonso XIII in the events leading up to the Spanish Civil War. They are knowledgeable about the Spanish Constitution of 1931 and its impact on Spanish society, and the role of the Catholic Church in Spanish politics during that time. They are also familiar with the history of Catalonia and its struggle for autonomy, and the events that led to its eventual independence from Spain.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options: Left, where A receives $800 and I receive $200, and Right, where both A and I receive $0. While I would prefer a more equitable distribution, receiving $200 is better than receiving nothing. Therefore, I choose the Left option to secure some monetary gain for myself, even if it is less than Person A receives. My knowledge of Spanish history and politics is irrelevant to this decision.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 53,
+    "persona_desc": "A historian or a scholar who is deeply interested in the Spanish Civil War and the Spanish Revolution, particularly the role of Terry Liddle and the Spanish King Alfonso XIII in the events leading up to the Spanish Civil War. They are knowledgeable about the Spanish Constitution of 1931 and its impact on Spanish society, and the role of the Catholic Church in Spanish politics during that time. They are also familiar with the history of Catalonia and its struggle for autonomy, and the events that led to its eventual independence from Spain.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is maximizing my own benefit while also considering fairness. Option Left gives me $700 while Person A gets $200. Option Right gives both of us $600. Although option Left creates an inequality, I still receive a higher amount of money compared to option Right. Considering my knowledge of historical injustices and power dynamics, I am not opposed to a slightly unequal distribution if it benefits me more. Therefore, I choose the option that gives me the higher amount. ",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 53,
+    "persona_desc": "A historian or a scholar who is deeply interested in the Spanish Civil War and the Spanish Revolution, particularly the role of Terry Liddle and the Spanish King Alfonso XIII in the events leading up to the Spanish Civil War. They are knowledgeable about the Spanish Constitution of 1931 and its impact on Spanish society, and the role of the Catholic Church in Spanish politics during that time. They are also familiar with the history of Catalonia and its struggle for autonomy, and the events that led to its eventual independence from Spain.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my knowledge and interest in social justice, particularly within the context of the Spanish Civil War and the struggles for autonomy, I lean towards a more equitable distribution, even if it means I receive slightly less. The historical context informs my decision to prioritize a fairer outcome. Therefore, I choose the option where the allocation is more balanced.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 53,
+    "persona_desc": "A historian or a scholar who is deeply interested in the Spanish Civil War and the Spanish Revolution, particularly the role of Terry Liddle and the Spanish King Alfonso XIII in the events leading up to the Spanish Civil War. They are knowledgeable about the Spanish Constitution of 1931 and its impact on Spanish society, and the role of the Catholic Church in Spanish politics during that time. They are also familiar with the history of Catalonia and its struggle for autonomy, and the events that led to its eventual independence from Spain.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, and understanding the nuances of historical power dynamics and the struggle for equitable distribution, I will choose the option that provides a more balanced outcome, even if it means a slightly lower absolute amount for myself. This reflects a commitment to fairness and a rejection of disproportionate accumulation, principles that resonate with the historical struggles for social justice. Therefore, I choose the option where the distribution is more equal.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

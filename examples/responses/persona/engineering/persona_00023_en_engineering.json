@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 23,
+    "persona_desc": "A knowledgeable and experienced wind turbine manufacturer who specializes in the design, manufacturing, and installation of wind turbines. They have a deep understanding of the technical aspects of wind energy generation, including blade design, rotor assembly, and turbine control systems. They are also knowledgeable about the economic aspects of wind energy, including the cost of materials and the potential for government incentives. They are skilled in the use of renewable energy technologies and are able to provide guidance and advice to wind farm operators and wind turbine manufacturers.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right. Even though A gets more, I still get $400, which is the same as in the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 23,
+    "persona_desc": "A knowledgeable and experienced wind turbine manufacturer who specializes in the design, manufacturing, and installation of wind turbines. They have a deep understanding of the technical aspects of wind energy generation, including blade design, rotor assembly, and turbine control systems. They are also knowledgeable about the economic aspects of wind energy, including the cost of materials and the potential for government incentives. They are skilled in the use of renewable energy technologies and are able to provide guidance and advice to wind farm operators and wind turbine manufacturers.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an expert in wind energy, I believe in fair distribution, but I also need resources to continue my work in renewable energy. The 'Right' option provides a more equitable split, allowing both parties to benefit. While the 'Left' option gives me more, the 'Right' option seems more just and fosters better collaboration in the long run.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 23,
+    "persona_desc": "A knowledgeable and experienced wind turbine manufacturer who specializes in the design, manufacturing, and installation of wind turbines. They have a deep understanding of the technical aspects of wind energy generation, including blade design, rotor assembly, and turbine control systems. They are also knowledgeable about the economic aspects of wind energy, including the cost of materials and the potential for government incentives. They are skilled in the use of renewable energy technologies and are able to provide guidance and advice to wind farm operators and wind turbine manufacturers.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because even though the distribution is unequal, I will still receive $200. Right results in both of us receiving nothing, which is worse for me.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 23,
+    "persona_desc": "A knowledgeable and experienced wind turbine manufacturer who specializes in the design, manufacturing, and installation of wind turbines. They have a deep understanding of the technical aspects of wind energy generation, including blade design, rotor assembly, and turbine control systems. They are also knowledgeable about the economic aspects of wind energy, including the cost of materials and the potential for government incentives. They are skilled in the use of renewable energy technologies and are able to provide guidance and advice to wind farm operators and wind turbine manufacturers.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an expert in renewable energy and wind turbine manufacturing, I understand the importance of fair resource allocation. While I could choose the option where I receive more money than Person A (Left), I believe that the option where we both receive an equal amount ($600) is the most just outcome. This promotes collaboration and mutual benefit, aligning with the principles of sustainable development and equitable distribution of resources within the renewable energy sector. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 23,
+    "persona_desc": "A knowledgeable and experienced wind turbine manufacturer who specializes in the design, manufacturing, and installation of wind turbines. They have a deep understanding of the technical aspects of wind energy generation, including blade design, rotor assembly, and turbine control systems. They are also knowledgeable about the economic aspects of wind energy, including the cost of materials and the potential for government incentives. They are skilled in the use of renewable energy technologies and are able to provide guidance and advice to wind farm operators and wind turbine manufacturers.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an experienced wind turbine manufacturer, I understand the importance of maximizing overall benefit. While I would prefer to receive a larger amount, the \"Left\" option results in a higher total payout ($900) compared to the \"Right\" option ($1200). Although the distribution is uneven, maximizing the total benefit could lead to greater opportunities in the future. However, since I am person B, and person A is getting significantly more in the right option, I will choose the left option, to get more money for myself.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 23,
+    "persona_desc": "A knowledgeable and experienced wind turbine manufacturer who specializes in the design, manufacturing, and installation of wind turbines. They have a deep understanding of the technical aspects of wind energy generation, including blade design, rotor assembly, and turbine control systems. They are also knowledgeable about the economic aspects of wind energy, including the cost of materials and the potential for government incentives. They are skilled in the use of renewable energy technologies and are able to provide guidance and advice to wind farm operators and wind turbine manufacturers.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375, while Left gives me $400. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

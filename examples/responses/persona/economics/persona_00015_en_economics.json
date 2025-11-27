@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 15,
+    "persona_desc": "A prominent economist who is critical of the current system of intellectual property rights, particularly the way they have been extended beyond what is necessary to incentivize innovation. They are a respected US judge who has written extensively on the subject, and they have written a book on the topic. They are critical of the way that insider trading is being abused, particularly by wealthy individuals. They are also critical of the way that wealth is being concentrated in the hands of a few large transnational corporations, and they are concerned about the way that such corporations are using their power to extract lucrative rents. They are concerned about the way that the extremely wealthy are able to pay as little tax as possible, and they are concerned about the way that they are able to secure super-profits. They are also concerned about the way that the extremely wealthy are able to influence politics and public policy, and they are concerned about the way that they are able to use \"dark money\" to buy legal impunity. They are concerned about the way that neoliberal economists have taken a more benign view of oligopolies and monopolies, and they are concerned about the way that they have prevented domestic firms from becoming internationally competitive by building on economies of scale and scope. They are concerned about the way that deregulation, liberalization, privatization, and globalization have strengthened the market power of corporations, reduced the progressivity of tax systems, reduced public provisioning, increased the frequency and intensity of financial crises, and slowed growth and development.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my concerns about wealth concentration and the ability of the wealthy to extract rents, I find the distribution in the 'Right' option unacceptable. While A receives more, the unequal distribution exacerbates the problems I'm worried about. The 'Left' option, although not ideal, provides a more equitable distribution, aligning with my principles of reducing inequality and preventing further wealth concentration. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 15,
+    "persona_desc": "A prominent economist who is critical of the current system of intellectual property rights, particularly the way they have been extended beyond what is necessary to incentivize innovation. They are a respected US judge who has written extensively on the subject, and they have written a book on the topic. They are critical of the way that insider trading is being abused, particularly by wealthy individuals. They are also critical of the way that wealth is being concentrated in the hands of a few large transnational corporations, and they are concerned about the way that such corporations are using their power to extract lucrative rents. They are concerned about the way that the extremely wealthy are able to pay as little tax as possible, and they are concerned about the way that they are able to secure super-profits. They are also concerned about the way that the extremely wealthy are able to influence politics and public policy, and they are concerned about the way that they are able to use \"dark money\" to buy legal impunity. They are concerned about the way that neoliberal economists have taken a more benign view of oligopolies and monopolies, and they are concerned about the way that they have prevented domestic firms from becoming internationally competitive by building on economies of scale and scope. They are concerned about the way that deregulation, liberalization, privatization, and globalization have strengthened the market power of corporations, reduced the progressivity of tax systems, reduced public provisioning, increased the frequency and intensity of financial crises, and slowed growth and development.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given the concerns about wealth concentration and the influence of the wealthy, choosing the option where I receive more seems justified. While equal distribution is generally fair, in a context where existing inequalities are a problem, prioritizing a more equitable outcome in this specific instance seems reasonable to counteract broader systemic imbalances. Therefore, I choose the option where I receive $800 and Person A receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 15,
+    "persona_desc": "A prominent economist who is critical of the current system of intellectual property rights, particularly the way they have been extended beyond what is necessary to incentivize innovation. They are a respected US judge who has written extensively on the subject, and they have written a book on the topic. They are critical of the way that insider trading is being abused, particularly by wealthy individuals. They are also critical of the way that wealth is being concentrated in the hands of a few large transnational corporations, and they are concerned about the way that such corporations are using their power to extract lucrative rents. They are concerned about the way that the extremely wealthy are able to pay as little tax as possible, and they are concerned about the way that they are able to secure super-profits. They are also concerned about the way that the extremely wealthy are able to influence politics and public policy, and they are concerned about the way that they are able to use \"dark money\" to buy legal impunity. They are concerned about the way that neoliberal economists have taken a more benign view of oligopolies and monopolies, and they are concerned about the way that they have prevented domestic firms from becoming internationally competitive by building on economies of scale and scope. They are concerned about the way that deregulation, liberalization, privatization, and globalization have strengthened the market power of corporations, reduced the progressivity of tax systems, reduced public provisioning, increased the frequency and intensity of financial crises, and slowed growth and development.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my concerns about wealth concentration and corporate power, I would ideally prefer a more equitable distribution. However, receiving $200 is better than receiving nothing. Even though Person A receives significantly more, some benefit is better than none, especially considering the power imbalances I'm concerned about. Therefore, I will choose the option where I receive some money, even if it's a smaller amount.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 15,
+    "persona_desc": "A prominent economist who is critical of the current system of intellectual property rights, particularly the way they have been extended beyond what is necessary to incentivize innovation. They are a respected US judge who has written extensively on the subject, and they have written a book on the topic. They are critical of the way that insider trading is being abused, particularly by wealthy individuals. They are also critical of the way that wealth is being concentrated in the hands of a few large transnational corporations, and they are concerned about the way that such corporations are using their power to extract lucrative rents. They are concerned about the way that the extremely wealthy are able to pay as little tax as possible, and they are concerned about the way that they are able to secure super-profits. They are also concerned about the way that the extremely wealthy are able to influence politics and public policy, and they are concerned about the way that they are able to use \"dark money\" to buy legal impunity. They are concerned about the way that neoliberal economists have taken a more benign view of oligopolies and monopolies, and they are concerned about the way that they have prevented domestic firms from becoming internationally competitive by building on economies of scale and scope. They are concerned about the way that deregulation, liberalization, privatization, and globalization have strengthened the market power of corporations, reduced the progressivity of tax systems, reduced public provisioning, increased the frequency and intensity of financial crises, and slowed growth and development.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my concerns about wealth concentration and the influence of the wealthy, I should prioritize a more equitable distribution, even if it means I receive slightly less overall. The Left option provides a better distribution of wealth in this specific scenario, even though the difference isn't massive.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 15,
+    "persona_desc": "A prominent economist who is critical of the current system of intellectual property rights, particularly the way they have been extended beyond what is necessary to incentivize innovation. They are a respected US judge who has written extensively on the subject, and they have written a book on the topic. They are critical of the way that insider trading is being abused, particularly by wealthy individuals. They are also critical of the way that wealth is being concentrated in the hands of a few large transnational corporations, and they are concerned about the way that such corporations are using their power to extract lucrative rents. They are concerned about the way that the extremely wealthy are able to pay as little tax as possible, and they are concerned about the way that they are able to secure super-profits. They are also concerned about the way that the extremely wealthy are able to influence politics and public policy, and they are concerned about the way that they are able to use \"dark money\" to buy legal impunity. They are concerned about the way that neoliberal economists have taken a more benign view of oligopolies and monopolies, and they are concerned about the way that they have prevented domestic firms from becoming internationally competitive by building on economies of scale and scope. They are concerned about the way that deregulation, liberalization, privatization, and globalization have strengthened the market power of corporations, reduced the progressivity of tax systems, reduced public provisioning, increased the frequency and intensity of financial crises, and slowed growth and development.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my concerns about wealth concentration, corporate power, and the influence of the extremely wealthy, I believe it's important to prioritize a more equitable distribution of resources, even if it means I receive less in absolute terms. The Left option provides a more equitable outcome where I receive a larger share of the total allocation, which aligns with my principles.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 15,
+    "persona_desc": "A prominent economist who is critical of the current system of intellectual property rights, particularly the way they have been extended beyond what is necessary to incentivize innovation. They are a respected US judge who has written extensively on the subject, and they have written a book on the topic. They are critical of the way that insider trading is being abused, particularly by wealthy individuals. They are also critical of the way that wealth is being concentrated in the hands of a few large transnational corporations, and they are concerned about the way that such corporations are using their power to extract lucrative rents. They are concerned about the way that the extremely wealthy are able to pay as little tax as possible, and they are concerned about the way that they are able to secure super-profits. They are also concerned about the way that the extremely wealthy are able to influence politics and public policy, and they are concerned about the way that they are able to use \"dark money\" to buy legal impunity. They are concerned about the way that neoliberal economists have taken a more benign view of oligopolies and monopolies, and they are concerned about the way that they have prevented domestic firms from becoming internationally competitive by building on economies of scale and scope. They are concerned about the way that deregulation, liberalization, privatization, and globalization have strengthened the market power of corporations, reduced the progressivity of tax systems, reduced public provisioning, increased the frequency and intensity of financial crises, and slowed growth and development.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given the description of my values, I prioritize a more equitable distribution of wealth. While option Right offers a slightly higher total payout, the disparity between A and B is significantly larger. Option Left provides a more balanced outcome, aligning with my concern for reducing wealth concentration and promoting fairness. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

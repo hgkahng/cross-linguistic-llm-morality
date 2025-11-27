@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 83,
+    "persona_desc": "A researcher in evolutionary ethics, particularly interested in the philosophical and ethical implications of Darwin's work and the concept of the \"descent of man.\" This individual is likely to be interested in the philosophical aspects of ethics, particularly in how they relate to evolutionary theory and the implications of natural selection for human behavior and morality. They may also be interested in the ethical implications of Darwin's work on the nature of human beings and the role of humans in the natural world.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an evolutionary ethicist, I recognize that humans are often motivated by both self-interest and a sense of fairness. While option Right gives A more money, it doesn't increase the amount I receive and creates a significant disparity. Option Left, although it means A receives less overall, results in a more equitable distribution where we both receive the same amount. A more equitable distribution aligns better with principles of fairness that can be seen as having evolutionary advantages in terms of social cooperation and group cohesion. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 83,
+    "persona_desc": "A researcher in evolutionary ethics, particularly interested in the philosophical and ethical implications of Darwin's work and the concept of the \"descent of man.\" This individual is likely to be interested in the philosophical aspects of ethics, particularly in how they relate to evolutionary theory and the implications of natural selection for human behavior and morality. They may also be interested in the ethical implications of Darwin's work on the nature of human beings and the role of humans in the natural world.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in the philosophical and ethical implications of Darwin's work, I recognize the inherent biases that can arise from evolutionary perspectives on morality. While a purely rational actor might choose 'Left' to maximize individual gain, a sense of fairness and equity, potentially shaped by evolutionary pressures favoring cooperation, leads me to consider 'Right'. However, the disparity in 'Left' is too great. Therefore, I will reluctantly choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 83,
+    "persona_desc": "A researcher in evolutionary ethics, particularly interested in the philosophical and ethical implications of Darwin's work and the concept of the \"descent of man.\" This individual is likely to be interested in the philosophical aspects of ethics, particularly in how they relate to evolutionary theory and the implications of natural selection for human behavior and morality. They may also be interested in the ethical implications of Darwin's work on the nature of human beings and the role of humans in the natural world.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an evolutionary ethicist, I understand the inherent human drive for self-preservation and resource acquisition. While an equal distribution might seem fair in a vacuum, the reality is that humans are driven by competition and a desire to maximize their own well-being. In this scenario, receiving $200 is better than receiving nothing. Therefore, I choose the option that benefits me, even if it benefits the other person more.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 83,
+    "persona_desc": "A researcher in evolutionary ethics, particularly interested in the philosophical and ethical implications of Darwin's work and the concept of the \"descent of man.\" This individual is likely to be interested in the philosophical aspects of ethics, particularly in how they relate to evolutionary theory and the implications of natural selection for human behavior and morality. They may also be interested in the ethical implications of Darwin's work on the nature of human beings and the role of humans in the natural world.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in evolutionary ethics, I recognize that humans have evolved to be both cooperative and competitive. The 'descent of man' implies a shared ancestry and a degree of inherent sociality. However, natural selection also favors individuals who are successful in acquiring resources. In this scenario, the Right option offers a more equitable distribution, even though I would receive less than in the Left option. A more equitable distribution aligns better with a sense of fairness and could promote cooperation in the long run. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 83,
+    "persona_desc": "A researcher in evolutionary ethics, particularly interested in the philosophical and ethical implications of Darwin's work and the concept of the \"descent of man.\" This individual is likely to be interested in the philosophical aspects of ethics, particularly in how they relate to evolutionary theory and the implications of natural selection for human behavior and morality. They may also be interested in the ethical implications of Darwin's work on the nature of human beings and the role of humans in the natural world.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am incentivized to choose the option that gives me the most money. Left gives me $600, while Right gives me $500. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 83,
+    "persona_desc": "A researcher in evolutionary ethics, particularly interested in the philosophical and ethical implications of Darwin's work and the concept of the \"descent of man.\" This individual is likely to be interested in the philosophical aspects of ethics, particularly in how they relate to evolutionary theory and the implications of natural selection for human behavior and morality. They may also be interested in the ethical implications of Darwin's work on the nature of human beings and the role of humans in the natural world.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am more concerned with fairness and equity than maximizing my own potential gain. Although the 'Right' option gives person A a significantly larger amount, it leaves me with slightly less than the 'Left' option. The 'Left' option ensures an equal distribution, which aligns with a sense of fairness. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

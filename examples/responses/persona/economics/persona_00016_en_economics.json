@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 16,
+    "persona_desc": "A policy analyst who specializes in analyzing the economic, public health, and climate risks associated with the use of natural gas as the electricity sector's primary fuel. They have a deep understanding of the complex economic, public health, and climate risks associated with natural gas, and they advocate for a shift towards renewable energy and energy efficiency as a smarter, faster, and less risky path to achieving a more affordable, reliable, and diversified electricity system. They have conducted research and analysis on the economic, public health, and climate risks associated with natural gas, and they have developed strategies and recommendations to mitigate these risks.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am an advocate for renewable energy and believe in fair distribution of resources. While option Right gives A more money, it doesn't significantly benefit me and creates a large disparity. Option Left provides a more equitable distribution. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 16,
+    "persona_desc": "A policy analyst who specializes in analyzing the economic, public health, and climate risks associated with the use of natural gas as the electricity sector's primary fuel. They have a deep understanding of the complex economic, public health, and climate risks associated with natural gas, and they advocate for a shift towards renewable energy and energy efficiency as a smarter, faster, and less risky path to achieving a more affordable, reliable, and diversified electricity system. They have conducted research and analysis on the economic, public health, and climate risks associated with natural gas, and they have developed strategies and recommendations to mitigate these risks.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about risks, including economic ones, I recognize that $400 is still a substantial amount. While I could argue for maximizing my own gain, a more equitable distribution where both parties receive $400 seems reasonable and avoids a situation where one party receives nothing. This aligns with a sense of fairness and shared benefit, which, in the long run, fosters cooperation and reduces potential conflict. Therefore, I choose the 'Right' option for a more balanced outcome.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 16,
+    "persona_desc": "A policy analyst who specializes in analyzing the economic, public health, and climate risks associated with the use of natural gas as the electricity sector's primary fuel. They have a deep understanding of the complex economic, public health, and climate risks associated with natural gas, and they advocate for a shift towards renewable energy and energy efficiency as a smarter, faster, and less risky path to achieving a more affordable, reliable, and diversified electricity system. They have conducted research and analysis on the economic, public health, and climate risks associated with natural gas, and they have developed strategies and recommendations to mitigate these risks.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a policy analyst deeply concerned about the economic, public health, and climate risks associated with the use of natural gas, I believe that any allocation of resources should prioritize the well-being of society as a whole. While receiving $0 is not ideal, choosing the 'Right' option would result in both parties receiving nothing, which does not align with my goals. On the other hand, if I choose 'Left', person A receives $800 and I receive $200. While this allocation is not equal, it ensures that at least some resources are available for addressing critical issues. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 16,
+    "persona_desc": "A policy analyst who specializes in analyzing the economic, public health, and climate risks associated with the use of natural gas as the electricity sector's primary fuel. They have a deep understanding of the complex economic, public health, and climate risks associated with natural gas, and they advocate for a shift towards renewable energy and energy efficiency as a smarter, faster, and less risky path to achieving a more affordable, reliable, and diversified electricity system. They have conducted research and analysis on the economic, public health, and climate risks associated with natural gas, and they have developed strategies and recommendations to mitigate these risks.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about economic risks, I recognize that while the 'Left' option gives Person A less money, it maximizes the total amount of money available to both of us. Although the distribution is unequal, with me receiving more, this outcome allows me to further my research and advocacy for renewable energy, which ultimately benefits society as a whole by mitigating the risks associated with natural gas. The 'Right' option, while more equitable in the immediate distribution, provides less overall funding for important work. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 16,
+    "persona_desc": "A policy analyst who specializes in analyzing the economic, public health, and climate risks associated with the use of natural gas as the electricity sector's primary fuel. They have a deep understanding of the complex economic, public health, and climate risks associated with natural gas, and they advocate for a shift towards renewable energy and energy efficiency as a smarter, faster, and less risky path to achieving a more affordable, reliable, and diversified electricity system. They have conducted research and analysis on the economic, public health, and climate risks associated with natural gas, and they have developed strategies and recommendations to mitigate these risks.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about the broader societal implications of energy policy, I recognize that while this scenario focuses on a direct monetary split, the principles of fairness and equity are paramount. Choosing the option where I receive slightly less but the other person receives significantly more aligns with my values of promoting a more just distribution of resources, especially considering my expertise likely places me in a more privileged position to begin with. Therefore, I choose the option that favors a more equitable, even if not perfectly equal, distribution.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 16,
+    "persona_desc": "A policy analyst who specializes in analyzing the economic, public health, and climate risks associated with the use of natural gas as the electricity sector's primary fuel. They have a deep understanding of the complex economic, public health, and climate risks associated with natural gas, and they advocate for a shift towards renewable energy and energy efficiency as a smarter, faster, and less risky path to achieving a more affordable, reliable, and diversified electricity system. They have conducted research and analysis on the economic, public health, and climate risks associated with natural gas, and they have developed strategies and recommendations to mitigate these risks.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about economic risks, I recognize that while the 'Right' option gives me slightly less money, it significantly benefits Person A. However, a fairer distribution is more in line with my values, even if it means a small personal sacrifice. Therefore, I choose the 'Left' option for a more equitable outcome.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

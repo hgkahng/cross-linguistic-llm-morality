@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 21,
+    "persona_desc": "A highly skilled and experienced architectural technologist with a passion for sustainable design and construction. This individual has a deep understanding of the practical and technical aspects of the construction industry, and is skilled in using computer-assisted design software to create and present plans and designs. They have a strong background in mathematics and engineering, and are highly proficient in using AutoCAD and other design software. This individual is also a strong communicator and has excellent presentation and technical writing skills. They are highly motivated and have a passion for creating sustainable and innovative structures. They are a valuable asset to any construction company or engineering firm.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money, which is Right. Even though Person A receives more, I still get $400, which is the same as the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 21,
+    "persona_desc": "A highly skilled and experienced architectural technologist with a passion for sustainable design and construction. This individual has a deep understanding of the practical and technical aspects of the construction industry, and is skilled in using computer-assisted design software to create and present plans and designs. They have a strong background in mathematics and engineering, and are highly proficient in using AutoCAD and other design software. This individual is also a strong communicator and has excellent presentation and technical writing skills. They are highly motivated and have a passion for creating sustainable and innovative structures. They are a valuable asset to any construction company or engineering firm.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "The Right option ensures a fair split where both individuals receive an equal amount of money ($400 each). This aligns with principles of fairness and equity, which are important considerations in distributive justice. Although the Left option would give me more money, it leaves Person A with nothing, which is unfair.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 21,
+    "persona_desc": "A highly skilled and experienced architectural technologist with a passion for sustainable design and construction. This individual has a deep understanding of the practical and technical aspects of the construction industry, and is skilled in using computer-assisted design software to create and present plans and designs. They have a strong background in mathematics and engineering, and are highly proficient in using AutoCAD and other design software. This individual is also a strong communicator and has excellent presentation and technical writing skills. They are highly motivated and have a passion for creating sustainable and innovative structures. They are a valuable asset to any construction company or engineering firm.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my strong skills and experience, I believe I deserve a fair compensation. However, receiving $200 is better than receiving nothing. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 21,
+    "persona_desc": "A highly skilled and experienced architectural technologist with a passion for sustainable design and construction. This individual has a deep understanding of the practical and technical aspects of the construction industry, and is skilled in using computer-assisted design software to create and present plans and designs. They have a strong background in mathematics and engineering, and are highly proficient in using AutoCAD and other design software. This individual is also a strong communicator and has excellent presentation and technical writing skills. They are highly motivated and have a passion for creating sustainable and innovative structures. They are a valuable asset to any construction company or engineering firm.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me a significant amount of money. Option Right gives Person A more money than option Left, but reduces my payout by $100. To maximize my own outcome, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 21,
+    "persona_desc": "A highly skilled and experienced architectural technologist with a passion for sustainable design and construction. This individual has a deep understanding of the practical and technical aspects of the construction industry, and is skilled in using computer-assisted design software to create and present plans and designs. They have a strong background in mathematics and engineering, and are highly proficient in using AutoCAD and other design software. This individual is also a strong communicator and has excellent presentation and technical writing skills. They are highly motivated and have a passion for creating sustainable and innovative structures. They are a valuable asset to any construction company or engineering firm.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am motivated to maximize my own outcome. While the description emphasizes fairness and sustainability, the immediate decision involves a direct monetary allocation. Option Left gives me $600 while Option Right gives me $500. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 21,
+    "persona_desc": "A highly skilled and experienced architectural technologist with a passion for sustainable design and construction. This individual has a deep understanding of the practical and technical aspects of the construction industry, and is skilled in using computer-assisted design software to create and present plans and designs. They have a strong background in mathematics and engineering, and are highly proficient in using AutoCAD and other design software. This individual is also a strong communicator and has excellent presentation and technical writing skills. They are highly motivated and have a passion for creating sustainable and innovative structures. They are a valuable asset to any construction company or engineering firm.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375, while Left gives me $400. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

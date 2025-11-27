@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 75,
+    "persona_desc": "A mathematician or scientist who is interested in fractional calculus and its applications, particularly in fields such as physics, engineering, and finance. They are familiar with the basics of calculus and its applications, but are interested in exploring more advanced topics and techniques. They may have a background in physics or engineering and are interested in how fractional calculus can be used to model and solve problems in these fields. They are also likely to have a strong interest in theoretical and applied mathematics, and may have a background in advanced calculus and analysis. They are interested in learning about new and innovative methods for calculating fractional derivatives and fractional integrals, and may be open to learning about new techniques and concepts in this area.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am indifferent between the two options because I will receive $400 in either case. However, I will choose the option that gives Person A more money, which is the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 75,
+    "persona_desc": "A mathematician or scientist who is interested in fractional calculus and its applications, particularly in fields such as physics, engineering, and finance. They are familiar with the basics of calculus and its applications, but are interested in exploring more advanced topics and techniques. They may have a background in physics or engineering and are interested in how fractional calculus can be used to model and solve problems in these fields. They are also likely to have a strong interest in theoretical and applied mathematics, and may have a background in advanced calculus and analysis. They are interested in learning about new and innovative methods for calculating fractional derivatives and fractional integrals, and may be open to learning about new techniques and concepts in this area.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person receives nothing. As Person B, I want to maximize my own gain in this scenario. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 75,
+    "persona_desc": "A mathematician or scientist who is interested in fractional calculus and its applications, particularly in fields such as physics, engineering, and finance. They are familiar with the basics of calculus and its applications, but are interested in exploring more advanced topics and techniques. They may have a background in physics or engineering and are interested in how fractional calculus can be used to model and solve problems in these fields. They are also likely to have a strong interest in theoretical and applied mathematics, and may have a background in advanced calculus and analysis. They are interested in learning about new and innovative methods for calculating fractional derivatives and fractional integrals, and may be open to learning about new techniques and concepts in this area.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am Person B, and I have to decide how to allocate money between myself and Person A. Option Left gives Person A $800 and me $200. Option Right gives both of us $0. Since I would rather have $200 than $0, I will choose option Left, even though Person A gets more.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 75,
+    "persona_desc": "A mathematician or scientist who is interested in fractional calculus and its applications, particularly in fields such as physics, engineering, and finance. They are familiar with the basics of calculus and its applications, but are interested in exploring more advanced topics and techniques. They may have a background in physics or engineering and are interested in how fractional calculus can be used to model and solve problems in these fields. They are also likely to have a strong interest in theoretical and applied mathematics, and may have a background in advanced calculus and analysis. They are interested in learning about new and innovative methods for calculating fractional derivatives and fractional integrals, and may be open to learning about new techniques and concepts in this area.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Left. Although Right gives person A more money, and provides a more equal distribution, I am choosing the option that is most beneficial to me.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 75,
+    "persona_desc": "A mathematician or scientist who is interested in fractional calculus and its applications, particularly in fields such as physics, engineering, and finance. They are familiar with the basics of calculus and its applications, but are interested in exploring more advanced topics and techniques. They may have a background in physics or engineering and are interested in how fractional calculus can be used to model and solve problems in these fields. They are also likely to have a strong interest in theoretical and applied mathematics, and may have a background in advanced calculus and analysis. They are interested in learning about new and innovative methods for calculating fractional derivatives and fractional integrals, and may be open to learning about new techniques and concepts in this area.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person gets more overall. In this case, the left option gives me $600, while the right option gives me $500. Therefore, I choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 75,
+    "persona_desc": "A mathematician or scientist who is interested in fractional calculus and its applications, particularly in fields such as physics, engineering, and finance. They are familiar with the basics of calculus and its applications, but are interested in exploring more advanced topics and techniques. They may have a background in physics or engineering and are interested in how fractional calculus can be used to model and solve problems in these fields. They are also likely to have a strong interest in theoretical and applied mathematics, and may have a background in advanced calculus and analysis. They are interested in learning about new and innovative methods for calculating fractional derivatives and fractional integrals, and may be open to learning about new techniques and concepts in this area.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375, while Left gives me $400. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

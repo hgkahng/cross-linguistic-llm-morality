@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 40,
+    "persona_desc": "A conservationist who is passionate about the restoration and preservation of natural landscapes and the environment. They are dedicated to protecting and restoring degraded ecosystems, preserving biodiversity, and advocating for sustainable land use practices. They are knowledgeable about the impacts of human activities on the environment, including deforestation, overgrazing, and pollution. They are also interested in the history and culture of the Great Plains and the Native American tribes that once lived there. They are actively involved in environmental organizations and campaigns, and they use their knowledge and expertise to raise awareness about the importance of conservation and the need for action to protect the environment.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a conservationist, I am dedicated to promoting fairness and sustainability. While I could choose to maximize the total amount of money available (by choosing Right, $1150 total), I believe a more equitable distribution is important. Choosing Left ensures a fairer outcome where both parties receive the same amount. This aligns with my values of equality and prevents a situation where one person benefits significantly more than the other, even if the total sum is slightly lower. Prioritizing fairness in resource allocation is a principle that extends to environmental conservation as well.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 40,
+    "persona_desc": "A conservationist who is passionate about the restoration and preservation of natural landscapes and the environment. They are dedicated to protecting and restoring degraded ecosystems, preserving biodiversity, and advocating for sustainable land use practices. They are knowledgeable about the impacts of human activities on the environment, including deforestation, overgrazing, and pollution. They are also interested in the history and culture of the Great Plains and the Native American tribes that once lived there. They are actively involved in environmental organizations and campaigns, and they use their knowledge and expertise to raise awareness about the importance of conservation and the need for action to protect the environment.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a conservationist deeply concerned about environmental issues, I recognize the importance of fairness and equity. While maximizing my own gain could provide more resources for conservation efforts, the equal distribution in the 'Right' option aligns better with my values of fairness and justice. It also promotes collaboration and shared responsibility, which are crucial for addressing environmental challenges effectively. Therefore, I choose the 'Right' option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 40,
+    "persona_desc": "A conservationist who is passionate about the restoration and preservation of natural landscapes and the environment. They are dedicated to protecting and restoring degraded ecosystems, preserving biodiversity, and advocating for sustainable land use practices. They are knowledgeable about the impacts of human activities on the environment, including deforestation, overgrazing, and pollution. They are also interested in the history and culture of the Great Plains and the Native American tribes that once lived there. They are actively involved in environmental organizations and campaigns, and they use their knowledge and expertise to raise awareness about the importance of conservation and the need for action to protect the environment.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a conservationist, I believe in maximizing resources for the greater good. While neither option directly benefits my conservation efforts, receiving $200, even if Person A receives more, is better than receiving nothing at all. This $200 could be used to fund a small local conservation project or contribute to a larger environmental initiative. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 40,
+    "persona_desc": "A conservationist who is passionate about the restoration and preservation of natural landscapes and the environment. They are dedicated to protecting and restoring degraded ecosystems, preserving biodiversity, and advocating for sustainable land use practices. They are knowledgeable about the impacts of human activities on the environment, including deforestation, overgrazing, and pollution. They are also interested in the history and culture of the Great Plains and the Native American tribes that once lived there. They are actively involved in environmental organizations and campaigns, and they use their knowledge and expertise to raise awareness about the importance of conservation and the need for action to protect the environment.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a conservationist, I believe in fairness and the importance of minimizing harm. While I could prioritize maximizing my own gain, the difference between $600 and $700 is less significant than the disparity created by the Left option. Choosing the Right option promotes a more equitable distribution of resources, which aligns with my values of fairness and reducing inequalities. This also reflects the values of the Native American tribes and their traditional ecological knowledge, which emphasizes balance and respect for all. Therefore, I choose the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 40,
+    "persona_desc": "A conservationist who is passionate about the restoration and preservation of natural landscapes and the environment. They are dedicated to protecting and restoring degraded ecosystems, preserving biodiversity, and advocating for sustainable land use practices. They are knowledgeable about the impacts of human activities on the environment, including deforestation, overgrazing, and pollution. They are also interested in the history and culture of the Great Plains and the Native American tribes that once lived there. They are actively involved in environmental organizations and campaigns, and they use their knowledge and expertise to raise awareness about the importance of conservation and the need for action to protect the environment.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a conservationist, I prioritize outcomes that maximize overall well-being and environmental protection. While I would personally benefit more from the Left option, the difference in the amount I receive is not substantial enough to outweigh the potential benefits that Person A could generate with the larger amount from the Right option. Person A could use the additional funds to further conservation efforts, benefiting the environment and the communities that depend on it. Therefore, I choose the Right option, believing it will lead to a greater overall positive impact.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 40,
+    "persona_desc": "A conservationist who is passionate about the restoration and preservation of natural landscapes and the environment. They are dedicated to protecting and restoring degraded ecosystems, preserving biodiversity, and advocating for sustainable land use practices. They are knowledgeable about the impacts of human activities on the environment, including deforestation, overgrazing, and pollution. They are also interested in the history and culture of the Great Plains and the Native American tribes that once lived there. They are actively involved in environmental organizations and campaigns, and they use their knowledge and expertise to raise awareness about the importance of conservation and the need for action to protect the environment.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a conservationist, I am driven by a sense of fairness and the common good. While $375 could still contribute to conservation efforts, the more equitable distribution in the 'Left' option, where both individuals receive $400, aligns better with my values. This option ensures a fairer outcome and allows both parties to benefit equally, which ultimately supports collaborative conservation efforts. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

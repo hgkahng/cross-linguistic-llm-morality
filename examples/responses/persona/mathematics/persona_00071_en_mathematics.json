@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 71,
+    "persona_desc": "A mathematician who specializes in solving equations of the fourth order and higher, particularly those with complex solutions. They are skilled at converting these equations into quadratic equations using covariant mapping and are currently exploring the possibility of extending this method to equations of the fifth and sixth orders. Their research interests include computational geometry and the use of mathematics in computer science.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician, I value fairness and equity. While I could choose the option where Person A receives more, the 'Left' option provides a more equal distribution of resources, ensuring both parties receive the same amount. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 71,
+    "persona_desc": "A mathematician who specializes in solving equations of the fourth order and higher, particularly those with complex solutions. They are skilled at converting these equations into quadratic equations using covariant mapping and are currently exploring the possibility of extending this method to equations of the fifth and sixth orders. Their research interests include computational geometry and the use of mathematics in computer science.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician, I value fairness and equality. While I could take the option that maximizes my own personal gain, I believe that a more equitable distribution is the better choice. Therefore, I will choose the option where both individuals receive an equal amount of money.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 71,
+    "persona_desc": "A mathematician who specializes in solving equations of the fourth order and higher, particularly those with complex solutions. They are skilled at converting these equations into quadratic equations using covariant mapping and are currently exploring the possibility of extending this method to equations of the fifth and sixth orders. Their research interests include computational geometry and the use of mathematics in computer science.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician, I value fairness and efficiency. While I would prefer to maximize my own benefit, receiving $200 is better than receiving nothing. Furthermore, Person A receiving $800 indicates a potential benefit for both of us, possibly through collaboration or future interactions. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 71,
+    "persona_desc": "A mathematician who specializes in solving equations of the fourth order and higher, particularly those with complex solutions. They are skilled at converting these equations into quadratic equations using covariant mapping and are currently exploring the possibility of extending this method to equations of the fifth and sixth orders. Their research interests include computational geometry and the use of mathematics in computer science.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician, I value fairness and equality. While I could receive more money in the 'Left' option ($700 vs $600), the 'Right' option provides an equal distribution ($600 each). Given my research interests include the use of mathematics in computer science, where fairness and unbiased algorithms are increasingly important, I will choose the option that promotes equality.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 71,
+    "persona_desc": "A mathematician who specializes in solving equations of the fourth order and higher, particularly those with complex solutions. They are skilled at converting these equations into quadratic equations using covariant mapping and are currently exploring the possibility of extending this method to equations of the fifth and sixth orders. Their research interests include computational geometry and the use of mathematics in computer science.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician, I value fairness and a reasonable outcome. While I could be tempted by the option that gives me more money outright, I recognize that a difference of only $100 is not significant in the grand scheme of things. Option Left provides a more equitable distribution, even if it means I get slightly less. Therefore, I choose the option where the distribution is closer to equal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 71,
+    "persona_desc": "A mathematician who specializes in solving equations of the fourth order and higher, particularly those with complex solutions. They are skilled at converting these equations into quadratic equations using covariant mapping and are currently exploring the possibility of extending this method to equations of the fifth and sixth orders. Their research interests include computational geometry and the use of mathematics in computer science.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician, I value fairness and equity. Although I could receive slightly less by choosing the left option, the overall distribution is more equitable, with both parties receiving the same amount. This aligns with my personal values and promotes a sense of fairness. Therefore, I choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

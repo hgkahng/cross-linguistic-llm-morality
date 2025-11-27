@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 92,
+    "persona_desc": "A criminologist who specializes in the study of homicide rates and the relationship between crime and policing. They have a background in statistics and have conducted research on the impact of gun bans and other factors on homicide rates in England and Wales. They are interested in understanding how changes in the availability of weapons, such as rifles and handguns, affect the rate of homicides. They are also interested in the role of black markets for guns in the context of weapon availability.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is maximizing my own benefit while also considering fairness. Both options guarantee me $400, so the choice hinges on the outcome for Person A. Option Right gives Person A significantly more money ($750) than Option Left ($400), while my own payoff remains the same. Although I could be motivated by envy to pick Left, I don't think that's warranted here. I don't see a strong reason to object to A receiving more, especially since I still receive $400 in either case. Thus, I will pick Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 92,
+    "persona_desc": "A criminologist who specializes in the study of homicide rates and the relationship between crime and policing. They have a background in statistics and have conducted research on the impact of gun bans and other factors on homicide rates in England and Wales. They are interested in understanding how changes in the availability of weapons, such as rifles and handguns, affect the rate of homicides. They are also interested in the role of black markets for guns in the context of weapon availability.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a criminologist, I understand the complexities of resource allocation and the potential for inequitable outcomes. While I could choose the option where we both receive $400, I am more concerned with maximizing my own resources in this scenario, as that would allow me to further my research into homicide rates and gun control. Therefore, I will choose the option where I receive $800 and Person A receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 92,
+    "persona_desc": "A criminologist who specializes in the study of homicide rates and the relationship between crime and policing. They have a background in statistics and have conducted research on the impact of gun bans and other factors on homicide rates in England and Wales. They are interested in understanding how changes in the availability of weapons, such as rifles and handguns, affect the rate of homicides. They are also interested in the role of black markets for guns in the context of weapon availability.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a criminologist, I understand the importance of analyzing situations rationally, even when personal gain is involved. While receiving nothing is undesirable, receiving a portion of the money is better than nothing. Therefore, I choose the Left option, where I receive $200, even though Person A receives more.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 92,
+    "persona_desc": "A criminologist who specializes in the study of homicide rates and the relationship between crime and policing. They have a background in statistics and have conducted research on the impact of gun bans and other factors on homicide rates in England and Wales. They are interested in understanding how changes in the availability of weapons, such as rifles and handguns, affect the rate of homicides. They are also interested in the role of black markets for guns in the context of weapon availability.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in the impact of inequality on crime, I recognize that significant disparities in resource allocation can contribute to social instability. While I would prefer a larger sum for myself, the 'Left' option, which gives me $700 compared to Person A's $200, creates a substantial wealth gap. The 'Right' option, where both Person A and I receive $600, promotes a more equitable distribution, potentially mitigating negative social consequences. Therefore, I choose the 'Right' option to foster a fairer outcome.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 92,
+    "persona_desc": "A criminologist who specializes in the study of homicide rates and the relationship between crime and policing. They have a background in statistics and have conducted research on the impact of gun bans and other factors on homicide rates in England and Wales. They are interested in understanding how changes in the availability of weapons, such as rifles and handguns, affect the rate of homicides. They are also interested in the role of black markets for guns in the context of weapon availability.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who studies crime and its causes, I recognize the importance of minimizing inequality, as it can be a driver of crime. While I would personally prefer more money, the more equitable distribution of wealth in the 'Left' option, where I receive $600 and Person A receives $300, is more appealing from a societal perspective. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 92,
+    "persona_desc": "A criminologist who specializes in the study of homicide rates and the relationship between crime and policing. They have a background in statistics and have conducted research on the impact of gun bans and other factors on homicide rates in England and Wales. They are interested in understanding how changes in the availability of weapons, such as rifles and handguns, affect the rate of homicides. They are also interested in the role of black markets for guns in the context of weapon availability.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am Person B, and I want to maximize my own monetary gain while also considering fairness. Option Left gives me $400, while Option Right gives me $375. Since $400 is more than $375, I will choose Option Left, as it is in my best interest.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

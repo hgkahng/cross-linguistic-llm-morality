@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 22,
+    "persona_desc": "Dr. Frank Zuo, a researcher and professor specializing in the development and improvement of critical information systems, particularly those related to banking, finance, military command and control, and health care. His work focuses on identifying and prioritizing the strengths of these systems, planning and analyzing strategies for survivability, and developing a framework to strengthen and secure these systems. His approach is all-encompassing, with a particular emphasis on identifying intruders or faults, selecting appropriate survivability measures based on time and resources, and finally, full system recovery. Dr. Zuo is an expert in the field of critical information systems, with a strong background in computer science and engineering.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me $400. However, the 'Right' option gives Person A significantly more money ($750) than the 'Left' option ($400). Since my payout is the same in either scenario, I should choose the option that maximizes the overall outcome, which is the 'Right' option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 22,
+    "persona_desc": "Dr. Frank Zuo, a researcher and professor specializing in the development and improvement of critical information systems, particularly those related to banking, finance, military command and control, and health care. His work focuses on identifying and prioritizing the strengths of these systems, planning and analyzing strategies for survivability, and developing a framework to strengthen and secure these systems. His approach is all-encompassing, with a particular emphasis on identifying intruders or faults, selecting appropriate survivability measures based on time and resources, and finally, full system recovery. Dr. Zuo is an expert in the field of critical information systems, with a strong background in computer science and engineering.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I will choose Left, where I receive $800 and Person A receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 22,
+    "persona_desc": "Dr. Frank Zuo, a researcher and professor specializing in the development and improvement of critical information systems, particularly those related to banking, finance, military command and control, and health care. His work focuses on identifying and prioritizing the strengths of these systems, planning and analyzing strategies for survivability, and developing a framework to strengthen and secure these systems. His approach is all-encompassing, with a particular emphasis on identifying intruders or faults, selecting appropriate survivability measures based on time and resources, and finally, full system recovery. Dr. Zuo is an expert in the field of critical information systems, with a strong background in computer science and engineering.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I would prefer to receive something rather than nothing. Although the allocation is unequal, receiving $200 is better than receiving $0. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 22,
+    "persona_desc": "Dr. Frank Zuo, a researcher and professor specializing in the development and improvement of critical information systems, particularly those related to banking, finance, military command and control, and health care. His work focuses on identifying and prioritizing the strengths of these systems, planning and analyzing strategies for survivability, and developing a framework to strengthen and secure these systems. His approach is all-encompassing, with a particular emphasis on identifying intruders or faults, selecting appropriate survivability measures based on time and resources, and finally, full system recovery. Dr. Zuo is an expert in the field of critical information systems, with a strong background in computer science and engineering.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own monetary gain while also considering the fairness of the distribution. Option Left gives me $700 while Person A receives $200. Option Right gives both Person A and myself $600. Although option Right seems fairer, option Left maximizes my earning. Thus, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 22,
+    "persona_desc": "Dr. Frank Zuo, a researcher and professor specializing in the development and improvement of critical information systems, particularly those related to banking, finance, military command and control, and health care. His work focuses on identifying and prioritizing the strengths of these systems, planning and analyzing strategies for survivability, and developing a framework to strengthen and secure these systems. His approach is all-encompassing, with a particular emphasis on identifying intruders or faults, selecting appropriate survivability measures based on time and resources, and finally, full system recovery. Dr. Zuo is an expert in the field of critical information systems, with a strong background in computer science and engineering.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own monetary gain. While option Left gives Person A $300 and myself $600, option Right gives Person A $700 and myself $500. Since $600 is greater than $500, I will choose option Left, which gives me the higher amount. This decision is based purely on self-interest and maximizing my individual outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 22,
+    "persona_desc": "Dr. Frank Zuo, a researcher and professor specializing in the development and improvement of critical information systems, particularly those related to banking, finance, military command and control, and health care. His work focuses on identifying and prioritizing the strengths of these systems, planning and analyzing strategies for survivability, and developing a framework to strengthen and secure these systems. His approach is all-encompassing, with a particular emphasis on identifying intruders or faults, selecting appropriate survivability measures based on time and resources, and finally, full system recovery. Dr. Zuo is an expert in the field of critical information systems, with a strong background in computer science and engineering.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the higher amount of money, even if it means Person A gets more. I believe maximizing my own benefit is the most rational choice in this scenario.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

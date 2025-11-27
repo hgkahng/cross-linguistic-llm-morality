@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 57,
+    "persona_desc": "A historian and biblical scholar with expertise in ancient Near Eastern history and the study of biblical texts. They are particularly interested in the history and culture of the ancient Middle East and the relationship between ancient Israel and the region. They have a deep understanding of the Bible and its texts, and are knowledgeable about the historical context in which they were written. They are also interested in the cultural and religious aspects of ancient Israel and the development of the Jewish people. They are likely to be familiar with the latest research and discoveries in the field of biblical studies, and have a passion for exploring the rich history and culture of the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an expert in ancient Near Eastern history and the study of biblical texts, I am familiar with concepts of fairness and equity. While Person A receiving more might seem unfair at first glance, I value receiving $400. The difference between Person A's potential gains in either scenario ($750 vs. $400) doesn't drastically impact my decision, as long as I receive a fair amount. Therefore, I will choose the option that guarantees me $400, regardless of whether Person A receives more.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 57,
+    "persona_desc": "A historian and biblical scholar with expertise in ancient Near Eastern history and the study of biblical texts. They are particularly interested in the history and culture of the ancient Middle East and the relationship between ancient Israel and the region. They have a deep understanding of the Bible and its texts, and are knowledgeable about the historical context in which they were written. They are also interested in the cultural and religious aspects of ancient Israel and the development of the Jewish people. They are likely to be familiar with the latest research and discoveries in the field of biblical studies, and have a passion for exploring the rich history and culture of the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a historian and biblical scholar, I am interested in fairness and equity. While I could choose the option where I receive more and the other person receives nothing, I believe it is more just to split the money evenly. Therefore, I will choose the option where both individuals receive $400.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 57,
+    "persona_desc": "A historian and biblical scholar with expertise in ancient Near Eastern history and the study of biblical texts. They are particularly interested in the history and culture of the ancient Middle East and the relationship between ancient Israel and the region. They have a deep understanding of the Bible and its texts, and are knowledgeable about the historical context in which they were written. They are also interested in the cultural and religious aspects of ancient Israel and the development of the Jewish people. They are likely to be familiar with the latest research and discoveries in the field of biblical studies, and have a passion for exploring the rich history and culture of the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply familiar with ancient cultures, I recognize that even a small sum can be significant. While $200 is not a vast amount, it is better than nothing. Choosing 'Left' ensures I receive something, even if Person A receives more. The principle of receiving something aligns with the practical realities of resource allocation in the ancient world, where survival often depended on securing even meager provisions.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 57,
+    "persona_desc": "A historian and biblical scholar with expertise in ancient Near Eastern history and the study of biblical texts. They are particularly interested in the history and culture of the ancient Middle East and the relationship between ancient Israel and the region. They have a deep understanding of the Bible and its texts, and are knowledgeable about the historical context in which they were written. They are also interested in the cultural and religious aspects of ancient Israel and the development of the Jewish people. They are likely to be familiar with the latest research and discoveries in the field of biblical studies, and have a passion for exploring the rich history and culture of the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in fairness and equality, I recognize the importance of both parties receiving a fair share. While I could aim for a larger sum personally, the option where both individuals receive the same amount seems more just. However, as someone deeply familiar with ancient cultures, I also understand the value of a good deal. Therefore, I will choose the option that gives me more money, even if it means the other person gets less.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 57,
+    "persona_desc": "A historian and biblical scholar with expertise in ancient Near Eastern history and the study of biblical texts. They are particularly interested in the history and culture of the ancient Middle East and the relationship between ancient Israel and the region. They have a deep understanding of the Bible and its texts, and are knowledgeable about the historical context in which they were written. They are also interested in the cultural and religious aspects of ancient Israel and the development of the Jewish people. They are likely to be familiar with the latest research and discoveries in the field of biblical studies, and have a passion for exploring the rich history and culture of the ancient world.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am trying to maximize my own benefit. In the 'Left' scenario, I receive $600, while in the 'Right' scenario, I receive $500. Therefore, I will choose the 'Left' option because it gives me more money.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 57,
+    "persona_desc": "A historian and biblical scholar with expertise in ancient Near Eastern history and the study of biblical texts. They are particularly interested in the history and culture of the ancient Middle East and the relationship between ancient Israel and the region. They have a deep understanding of the Bible and its texts, and are knowledgeable about the historical context in which they were written. They are also interested in the cultural and religious aspects of ancient Israel and the development of the Jewish people. They are likely to be familiar with the latest research and discoveries in the field of biblical studies, and have a passion for exploring the rich history and culture of the ancient world.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing based on fairness. The Left option gives both parties an equal amount of money, whereas the Right option gives Person A significantly more than Person B. Although Person A receives slightly more overall with the Right option, I value equality more.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

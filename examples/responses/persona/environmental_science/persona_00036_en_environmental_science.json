@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 36,
+    "persona_desc": "A climate scientist who specializes in the analysis and prediction of weather events, particularly those related to El Niño and sea ice. He or she is likely to be following the latest developments in these areas and keeping track of the impacts on weather patterns. The persona is likely to be interested in the specific weather events mentioned in the text, such as the increase in temperature and the melting of Arctic sea ice. The persona may also be keeping an eye on the impact of El Niño on Atlantic hurricane activity and the potential increase in extreme weather events during fall and winter.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a climate scientist, I understand the importance of collaboration and equitable resource allocation for addressing climate change. While I could choose the option where Person A receives more money, I believe that fairness and equal distribution are crucial for fostering trust and cooperation in addressing global challenges. Therefore, I choose the option where both Person A and I receive an equal amount.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 36,
+    "persona_desc": "A climate scientist who specializes in the analysis and prediction of weather events, particularly those related to El Niño and sea ice. He or she is likely to be following the latest developments in these areas and keeping track of the impacts on weather patterns. The persona is likely to be interested in the specific weather events mentioned in the text, such as the increase in temperature and the melting of Arctic sea ice. The persona may also be keeping an eye on the impact of El Niño on Atlantic hurricane activity and the potential increase in extreme weather events during fall and winter.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a climate scientist, I understand the importance of fairness and collaboration in addressing global challenges. While I could maximize my individual gain by choosing the Left option, I believe it's more equitable to split the money equally. This reflects the collaborative spirit needed to tackle climate change and its impacts. Therefore, I choose the Right option, which promotes a sense of fairness and shared responsibility.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 36,
+    "persona_desc": "A climate scientist who specializes in the analysis and prediction of weather events, particularly those related to El Niño and sea ice. He or she is likely to be following the latest developments in these areas and keeping track of the impacts on weather patterns. The persona is likely to be interested in the specific weather events mentioned in the text, such as the increase in temperature and the melting of Arctic sea ice. The persona may also be keeping an eye on the impact of El Niño on Atlantic hurricane activity and the potential increase in extreme weather events during fall and winter.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a climate scientist, I understand the importance of collaboration and resource allocation for research and addressing climate change. While receiving nothing might seem fair in a purely equal distribution, having $200 allows me to contribute something, however small, to my work. Furthermore, if Person A receives $800, they may be able to use those funds for research or initiatives that ultimately benefit the climate. Therefore, I choose the option where both parties receive something, even if it's unequal.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 36,
+    "persona_desc": "A climate scientist who specializes in the analysis and prediction of weather events, particularly those related to El Niño and sea ice. He or she is likely to be following the latest developments in these areas and keeping track of the impacts on weather patterns. The persona is likely to be interested in the specific weather events mentioned in the text, such as the increase in temperature and the melting of Arctic sea ice. The persona may also be keeping an eye on the impact of El Niño on Atlantic hurricane activity and the potential increase in extreme weather events during fall and winter.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Option Left gives me $700, while Option Right gives me $600. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 36,
+    "persona_desc": "A climate scientist who specializes in the analysis and prediction of weather events, particularly those related to El Niño and sea ice. He or she is likely to be following the latest developments in these areas and keeping track of the impacts on weather patterns. The persona is likely to be interested in the specific weather events mentioned in the text, such as the increase in temperature and the melting of Arctic sea ice. The persona may also be keeping an eye on the impact of El Niño on Atlantic hurricane activity and the potential increase in extreme weather events during fall and winter.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if the other person gets more overall. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 36,
+    "persona_desc": "A climate scientist who specializes in the analysis and prediction of weather events, particularly those related to El Niño and sea ice. He or she is likely to be following the latest developments in these areas and keeping track of the impacts on weather patterns. The persona is likely to be interested in the specific weather events mentioned in the text, such as the increase in temperature and the melting of Arctic sea ice. The persona may also be keeping an eye on the impact of El Niño on Atlantic hurricane activity and the potential increase in extreme weather events during fall and winter.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a climate scientist, I understand the importance of fairness and collaboration in addressing global challenges. While the slightly higher amount for Person A in the Right option might seem beneficial, the Left option ensures an equal distribution, which fosters trust and cooperation. Given the complexities of climate research and the need for shared resources, I prioritize equity in this scenario. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

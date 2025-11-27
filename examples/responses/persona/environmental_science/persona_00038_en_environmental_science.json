@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 38,
+    "persona_desc": "A person who is interested in exploring the unique and diverse geography of the Sierra Nevada, specifically focusing on the differences in climate, species diversity, and plant communities between the Western and Eastern Sierra. This individual is likely to have a background in biology or environmental science and is seeking to learn more about the unique flora and fauna found in the Sierra Nevada. This person may also be interested in learning about the history and cultural significance of the Sierra Nevada and its role in the conservation of natural resources.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Right because I will still receive $400, which is the same as the Left option. Even though Person A receives more, my own payout is not affected, so I prefer the outcome where someone receives more as long as I am not worse off.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 38,
+    "persona_desc": "A person who is interested in exploring the unique and diverse geography of the Sierra Nevada, specifically focusing on the differences in climate, species diversity, and plant communities between the Western and Eastern Sierra. This individual is likely to have a background in biology or environmental science and is seeking to learn more about the unique flora and fauna found in the Sierra Nevada. This person may also be interested in learning about the history and cultural significance of the Sierra Nevada and its role in the conservation of natural resources.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the Left option because it maximizes my personal gain. While the Right option offers a more equitable distribution, I am prioritizing my own financial benefit in this scenario. As Person B, my objective is to secure the largest possible amount for myself, even if it means Person A receives nothing.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 38,
+    "persona_desc": "A person who is interested in exploring the unique and diverse geography of the Sierra Nevada, specifically focusing on the differences in climate, species diversity, and plant communities between the Western and Eastern Sierra. This individual is likely to have a background in biology or environmental science and is seeking to learn more about the unique flora and fauna found in the Sierra Nevada. This person may also be interested in learning about the history and cultural significance of the Sierra Nevada and its role in the conservation of natural resources.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B and even though I would prefer to have more money, I would still prefer to have some money rather than nothing. Therefore, I will choose the left option where I receive $200.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 38,
+    "persona_desc": "A person who is interested in exploring the unique and diverse geography of the Sierra Nevada, specifically focusing on the differences in climate, species diversity, and plant communities between the Western and Eastern Sierra. This individual is likely to have a background in biology or environmental science and is seeking to learn more about the unique flora and fauna found in the Sierra Nevada. This person may also be interested in learning about the history and cultural significance of the Sierra Nevada and its role in the conservation of natural resources.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B in this scenario, and I want to maximize my own outcome while also considering fairness. Option Left gives me $700 while option Right gives me $600. Therefore, I will choose option Left, because it maximizes my payout.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 38,
+    "persona_desc": "A person who is interested in exploring the unique and diverse geography of the Sierra Nevada, specifically focusing on the differences in climate, species diversity, and plant communities between the Western and Eastern Sierra. This individual is likely to have a background in biology or environmental science and is seeking to learn more about the unique flora and fauna found in the Sierra Nevada. This person may also be interested in learning about the history and cultural significance of the Sierra Nevada and its role in the conservation of natural resources.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 38,
+    "persona_desc": "A person who is interested in exploring the unique and diverse geography of the Sierra Nevada, specifically focusing on the differences in climate, species diversity, and plant communities between the Western and Eastern Sierra. This individual is likely to have a background in biology or environmental science and is seeking to learn more about the unique flora and fauna found in the Sierra Nevada. This person may also be interested in learning about the history and cultural significance of the Sierra Nevada and its role in the conservation of natural resources.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me a higher payout, even if it means Person A gets more. While an equal distribution is fair, I would prefer to maximize my own benefit.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

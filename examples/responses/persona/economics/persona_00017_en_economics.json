@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 17,
+    "persona_desc": "This text is likely to be of interest to a researcher or analyst interested in the economic integration of Mexico and South Korea, particularly in the context of regional trade and investment agreements. The text also touches on the concept of economic development and social benefits, which could be of relevance to policymakers and practitioners in these areas.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right. Even though the other person gets more, I still get $400.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 17,
+    "persona_desc": "This text is likely to be of interest to a researcher or analyst interested in the economic integration of Mexico and South Korea, particularly in the context of regional trade and investment agreements. The text also touches on the concept of economic development and social benefits, which could be of relevance to policymakers and practitioners in these areas.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I will choose the Left option, where I receive $800 and person A receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 17,
+    "persona_desc": "This text is likely to be of interest to a researcher or analyst interested in the economic integration of Mexico and South Korea, particularly in the context of regional trade and investment agreements. The text also touches on the concept of economic development and social benefits, which could be of relevance to policymakers and practitioners in these areas.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B, and while I would prefer to receive more money, some money is better than no money. Choosing 'Left' gives me $200, whereas 'Right' gives me nothing. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 17,
+    "persona_desc": "This text is likely to be of interest to a researcher or analyst interested in the economic integration of Mexico and South Korea, particularly in the context of regional trade and investment agreements. The text also touches on the concept of economic development and social benefits, which could be of relevance to policymakers and practitioners in these areas.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A receives less than they could have. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 17,
+    "persona_desc": "This text is likely to be of interest to a researcher or analyst interested in the economic integration of Mexico and South Korea, particularly in the context of regional trade and investment agreements. The text also touches on the concept of economic development and social benefits, which could be of relevance to policymakers and practitioners in these areas.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person gets more as well. I would pick Left because I would receive $600, while in the Right option, I would only receive $500.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 17,
+    "persona_desc": "This text is likely to be of interest to a researcher or analyst interested in the economic integration of Mexico and South Korea, particularly in the context of regional trade and investment agreements. The text also touches on the concept of economic development and social benefits, which could be of relevance to policymakers and practitioners in these areas.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. In the Right option, I receive $375, while in the Left option, I receive $400. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

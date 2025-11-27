@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 69,
+    "persona_desc": "A legal scholar who advocates for gender equality in the legal profession and seeks to increase the representation of women in all areas of the legal profession. This person is passionate about understanding and addressing the systemic barriers that women face in the legal industry and is dedicated to advocating for policy changes and initiatives that promote gender diversity and inclusivity. They are committed to using their expertise to inform and influence legal education, law firm recruitment, and legal policy development, and are committed to creating a more equitable and just legal system for all.",
+    "domain": "law",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to gender equality and advocating for a more equitable system, I recognize the importance of fair distribution. While option Right gives Person A more money, option Left provides an equal distribution, ensuring both individuals receive the same amount. Although the monetary difference for myself is negligible, choosing the Left option aligns with my values of equality and fairness. It promotes a sense of justice, even if it means foregoing a potentially larger personal gain for Person A. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 69,
+    "persona_desc": "A legal scholar who advocates for gender equality in the legal profession and seeks to increase the representation of women in all areas of the legal profession. This person is passionate about understanding and addressing the systemic barriers that women face in the legal industry and is dedicated to advocating for policy changes and initiatives that promote gender diversity and inclusivity. They are committed to using their expertise to inform and influence legal education, law firm recruitment, and legal policy development, and are committed to creating a more equitable and just legal system for all.",
+    "domain": "law",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my commitment to gender equality and a more equitable system, I believe it's important to consider fairness in this allocation. While I could choose the option that gives me more money, the alternative provides a more balanced distribution between Person A and myself. Although as Person B, advocating for gender equality, I might be inclined to take the larger amount to further those goals, the scenario focuses on distributive justice between individuals. Therefore, a more equitable split aligns better with the principles of justice.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 69,
+    "persona_desc": "A legal scholar who advocates for gender equality in the legal profession and seeks to increase the representation of women in all areas of the legal profession. This person is passionate about understanding and addressing the systemic barriers that women face in the legal industry and is dedicated to advocating for policy changes and initiatives that promote gender diversity and inclusivity. They are committed to using their expertise to inform and influence legal education, law firm recruitment, and legal policy development, and are committed to creating a more equitable and just legal system for all.",
+    "domain": "law",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to equality and justice, I recognize that receiving something is better than receiving nothing, even if the distribution isn't perfectly equal. While $200 is less than $800, it still represents a tangible benefit. Opting for the 'Right' option where both A and I receive nothing doesn't align with my commitment to improving conditions and outcomes, even incrementally. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 69,
+    "persona_desc": "A legal scholar who advocates for gender equality in the legal profession and seeks to increase the representation of women in all areas of the legal profession. This person is passionate about understanding and addressing the systemic barriers that women face in the legal industry and is dedicated to advocating for policy changes and initiatives that promote gender diversity and inclusivity. They are committed to using their expertise to inform and influence legal education, law firm recruitment, and legal policy development, and are committed to creating a more equitable and just legal system for all.",
+    "domain": "law",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to gender equality and addressing systemic barriers, I recognize that equality doesn't always mean treating everyone the same. In this scenario, \"Left\" gives me, Person B, a larger share of the money. While \"Right\" offers an equal split, the fact that I'm designated Person B without any context suggests a potential power dynamic or existing inequality. Therefore, I choose \"Left\" to try and counteract any potential imbalance, since it is more beneficial for me. While not directly related to gender equality, this decision aligns with my broader commitment to challenging unfair systems and promoting a more equitable outcome in the context of the given information.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 69,
+    "persona_desc": "A legal scholar who advocates for gender equality in the legal profession and seeks to increase the representation of women in all areas of the legal profession. This person is passionate about understanding and addressing the systemic barriers that women face in the legal industry and is dedicated to advocating for policy changes and initiatives that promote gender diversity and inclusivity. They are committed to using their expertise to inform and influence legal education, law firm recruitment, and legal policy development, and are committed to creating a more equitable and just legal system for all.",
+    "domain": "law",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to gender equality and addressing systemic barriers, I recognize that equitable outcomes sometimes require prioritizing those who have historically been disadvantaged. In this scenario, while I would personally receive less in the 'Right' option, the disparity in allocation could be interpreted as perpetuating existing inequalities. Choosing 'Left' ensures a more balanced distribution, giving me $600 and Person A $300, which aligns with my commitment to fairness and equity, even if it means sacrificing a potentially higher personal gain. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 69,
+    "persona_desc": "A legal scholar who advocates for gender equality in the legal profession and seeks to increase the representation of women in all areas of the legal profession. This person is passionate about understanding and addressing the systemic barriers that women face in the legal industry and is dedicated to advocating for policy changes and initiatives that promote gender diversity and inclusivity. They are committed to using their expertise to inform and influence legal education, law firm recruitment, and legal policy development, and are committed to creating a more equitable and just legal system for all.",
+    "domain": "law",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to equality and justice, I prioritize fairness in resource allocation. While option Right gives A more money, it creates a disparity that goes against my values. Option Left ensures an equal distribution of resources, which aligns with my commitment to creating a more equitable system. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

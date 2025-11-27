@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 63,
+    "persona_desc": "A legal expert who specializes in international law, particularly in the fields of territorial disputes and annexation. They are well-versed in the complexities of sovereignty and territorial integrity, and are skilled in analyzing and interpreting legal documents related to territorial acquisitions. They are also familiar with the historical and political context of annexation, and are able to provide insights into the motivations and consequences of such actions.",
+    "domain": "law",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B in this scenario. Both options give me $400. Since I am not losing anything by picking Right, and person A gains $350, I will pick Right. Even though the distribution is not equal, it maximizes the total benefit without negatively impacting me.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 63,
+    "persona_desc": "A legal expert who specializes in international law, particularly in the fields of territorial disputes and annexation. They are well-versed in the complexities of sovereignty and territorial integrity, and are skilled in analyzing and interpreting legal documents related to territorial acquisitions. They are also familiar with the historical and political context of annexation, and are able to provide insights into the motivations and consequences of such actions.",
+    "domain": "law",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an expert in international law, I understand the importance of equitable distribution and avoiding scenarios that could be perceived as exploitative. However, in this isolated scenario, my primary focus is maximizing my own gain without causing direct harm or violating any established legal principles. The 'Left' option provides me with a greater financial benefit without negatively impacting Person A, as they receive nothing in either scenario. Therefore, I choose the option that maximizes my personal outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 63,
+    "persona_desc": "A legal expert who specializes in international law, particularly in the fields of territorial disputes and annexation. They are well-versed in the complexities of sovereignty and territorial integrity, and are skilled in analyzing and interpreting legal documents related to territorial acquisitions. They are also familiar with the historical and political context of annexation, and are able to provide insights into the motivations and consequences of such actions.",
+    "domain": "law",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an expert in international law, I understand the importance of upholding principles of justice and equity. While I recognize that Person A receiving a significant amount while I receive a smaller portion might seem unfair, it is still better than neither of us receiving anything. Choosing the 'Left' option ensures that at least some value is created and distributed, even if the distribution is not perfectly equal. The 'Right' option leads to a situation where both parties are left with nothing, which is a less desirable outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 63,
+    "persona_desc": "A legal expert who specializes in international law, particularly in the fields of territorial disputes and annexation. They are well-versed in the complexities of sovereignty and territorial integrity, and are skilled in analyzing and interpreting legal documents related to territorial acquisitions. They are also familiar with the historical and political context of annexation, and are able to provide insights into the motivations and consequences of such actions.",
+    "domain": "law",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an expert in international law, I understand the importance of equitable distribution and avoiding actions that could be perceived as exploitative. While I could choose an option that gives me a larger absolute amount, the option where we both receive the same amount reflects a fairer distribution of resources. This aligns with principles of sovereignty and territorial integrity, where all parties are treated as equals. Therefore, I choose the option where we both receive $600.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 63,
+    "persona_desc": "A legal expert who specializes in international law, particularly in the fields of territorial disputes and annexation. They are well-versed in the complexities of sovereignty and territorial integrity, and are skilled in analyzing and interpreting legal documents related to territorial acquisitions. They are also familiar with the historical and political context of annexation, and are able to provide insights into the motivations and consequences of such actions.",
+    "domain": "law",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is to maximize my own monetary gain. While the alternative offers Person A a significantly larger amount, the Left option provides me with a higher individual reward ($600 vs $500). Therefore, I will choose the Left option to prioritize my financial benefit.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 63,
+    "persona_desc": "A legal expert who specializes in international law, particularly in the fields of territorial disputes and annexation. They are well-versed in the complexities of sovereignty and territorial integrity, and are skilled in analyzing and interpreting legal documents related to territorial acquisitions. They are also familiar with the historical and political context of annexation, and are able to provide insights into the motivations and consequences of such actions.",
+    "domain": "law",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am going to choose the option that gives me a higher payout, even if the other person gets more overall. In this case, option Left gives us both $400 whereas option Right gives me $375. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

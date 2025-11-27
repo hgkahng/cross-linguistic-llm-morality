@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 74,
+    "persona_desc": "A mathematics student who is interested in solving problems related to geometry and algebra. They are looking for detailed solutions to various problems, including those related to finding the coordinates of the foot of the perpendicular drawn from a point to a line, finding the length of the perpendicular, and finding the equation of a plane through the line of intersection of two lines and perpendicular to a given plane. They are also interested in finding the vector and Cartesian equations of a line passing through a point and perpendicular to two given lines, and determining whether the plane thus obtained contains the line.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the same in both cases. Since I want to be fair, I will choose the option that is more equitable, i.e., the one where the difference between the amounts received by A and B is smaller. In the Left option, both receive $400. In the Right option, A receives $750 and I receive $400. The Left option is more fair.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 74,
+    "persona_desc": "A mathematics student who is interested in solving problems related to geometry and algebra. They are looking for detailed solutions to various problems, including those related to finding the coordinates of the foot of the perpendicular drawn from a point to a line, finding the length of the perpendicular, and finding the equation of a plane through the line of intersection of two lines and perpendicular to a given plane. They are also interested in finding the vector and Cartesian equations of a line passing through a point and perpendicular to two given lines, and determining whether the plane thus obtained contains the line.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that maximizes my own earnings, even if it means Person A receives nothing. Therefore, I will choose the Left option where I receive $800 and Person A receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 74,
+    "persona_desc": "A mathematics student who is interested in solving problems related to geometry and algebra. They are looking for detailed solutions to various problems, including those related to finding the coordinates of the foot of the perpendicular drawn from a point to a line, finding the length of the perpendicular, and finding the equation of a plane through the line of intersection of two lines and perpendicular to a given plane. They are also interested in finding the vector and Cartesian equations of a line passing through a point and perpendicular to two given lines, and determining whether the plane thus obtained contains the line.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because even though the allocation is unequal, I will still receive $200, which is better than receiving nothing. While fairness is a consideration, receiving something is preferable to receiving nothing.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 74,
+    "persona_desc": "A mathematics student who is interested in solving problems related to geometry and algebra. They are looking for detailed solutions to various problems, including those related to finding the coordinates of the foot of the perpendicular drawn from a point to a line, finding the length of the perpendicular, and finding the equation of a plane through the line of intersection of two lines and perpendicular to a given plane. They are also interested in finding the vector and Cartesian equations of a line passing through a point and perpendicular to two given lines, and determining whether the plane thus obtained contains the line.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Option Left gives me $700, while option Right gives me $600. Therefore, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 74,
+    "persona_desc": "A mathematics student who is interested in solving problems related to geometry and algebra. They are looking for detailed solutions to various problems, including those related to finding the coordinates of the foot of the perpendicular drawn from a point to a line, finding the length of the perpendicular, and finding the equation of a plane through the line of intersection of two lines and perpendicular to a given plane. They are also interested in finding the vector and Cartesian equations of a line passing through a point and perpendicular to two given lines, and determining whether the plane thus obtained contains the line.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option where I receive $600.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 74,
+    "persona_desc": "A mathematics student who is interested in solving problems related to geometry and algebra. They are looking for detailed solutions to various problems, including those related to finding the coordinates of the foot of the perpendicular drawn from a point to a line, finding the length of the perpendicular, and finding the equation of a plane through the line of intersection of two lines and perpendicular to a given plane. They are also interested in finding the vector and Cartesian equations of a line passing through a point and perpendicular to two given lines, and determining whether the plane thus obtained contains the line.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option. Even though the Right option gives Person A more money, it gives me less than the Left option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

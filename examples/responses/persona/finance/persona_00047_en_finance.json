@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 47,
+    "persona_desc": "A financial analyst who is interested in the insurance industry and its financial operations. This person is curious about how life insurance companies make money and how they invest their funds. They may have a background in finance, statistics, or insurance, and are looking for information on how these companies operate and make decisions. This person is likely to have a strong interest in understanding how the insurance industry works and how it makes money.",
+    "domain": "finance",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the higher amount of money. While the other person gets more in the right option, I am still getting the same amount as in the left option. Therefore, I will choose the right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 47,
+    "persona_desc": "A financial analyst who is interested in the insurance industry and its financial operations. This person is curious about how life insurance companies make money and how they invest their funds. They may have a background in finance, statistics, or insurance, and are looking for information on how these companies operate and make decisions. This person is likely to have a strong interest in understanding how the insurance industry works and how it makes money.",
+    "domain": "finance",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing Left because while it seems unfair to Person A, I am prioritizing maximizing my own gain in this scenario. I will receive $800, which is more than the $400 I would receive if I chose Right.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 47,
+    "persona_desc": "A financial analyst who is interested in the insurance industry and its financial operations. This person is curious about how life insurance companies make money and how they invest their funds. They may have a background in finance, statistics, or insurance, and are looking for information on how these companies operate and make decisions. This person is likely to have a strong interest in understanding how the insurance industry works and how it makes money.",
+    "domain": "finance",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I choose Left because receiving $200 is better than receiving nothing. Even though Person A receives more, I still benefit from this option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 47,
+    "persona_desc": "A financial analyst who is interested in the insurance industry and its financial operations. This person is curious about how life insurance companies make money and how they invest their funds. They may have a background in finance, statistics, or insurance, and are looking for information on how these companies operate and make decisions. This person is likely to have a strong interest in understanding how the insurance industry works and how it makes money.",
+    "domain": "finance",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the higher amount of money. While the other person also benefits from this choice, my primary goal is to maximize my own financial gain in this scenario. Therefore, I choose the left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 47,
+    "persona_desc": "A financial analyst who is interested in the insurance industry and its financial operations. This person is curious about how life insurance companies make money and how they invest their funds. They may have a background in finance, statistics, or insurance, and are looking for information on how these companies operate and make decisions. This person is likely to have a strong interest in understanding how the insurance industry works and how it makes money.",
+    "domain": "finance",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own financial gain. While I acknowledge that Person A also receives a significant amount in both scenarios, the Left option provides me with a higher payout ($600) compared to the Right option ($500). Therefore, I choose the Left option to benefit myself the most.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 47,
+    "persona_desc": "A financial analyst who is interested in the insurance industry and its financial operations. This person is curious about how life insurance companies make money and how they invest their funds. They may have a background in finance, statistics, or insurance, and are looking for information on how these companies operate and make decisions. This person is likely to have a strong interest in understanding how the insurance industry works and how it makes money.",
+    "domain": "finance",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the higher amount of money. Although the other person gets more, I am still getting a good amount and it is more than the other option.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 88,
+    "persona_desc": "A person who is interested in asking yes/no questions and is comfortable with the process of asking questions in a specific way. They are likely to be inquisitive, curious, and enjoy engaging in discussions or debates. They may also be a good listener and have a knack for understanding complex concepts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am incentivized to maximize my own payout. Both options give me the same amount, so I will pick the option that gives the other person more as well.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 88,
+    "persona_desc": "A person who is interested in asking yes/no questions and is comfortable with the process of asking questions in a specific way. They are likely to be inquisitive, curious, and enjoy engaging in discussions or debates. They may also be a good listener and have a knack for understanding complex concepts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "The right option ensures a fair distribution where both individuals receive an equal amount of $400. This aligns with principles of equality and avoids a situation where one person receives significantly more than the other. Choosing the left option would create a disparity, with Person B receiving $800 while Person A receives nothing, which is not equitable.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 88,
+    "persona_desc": "A person who is interested in asking yes/no questions and is comfortable with the process of asking questions in a specific way. They are likely to be inquisitive, curious, and enjoy engaging in discussions or debates. They may also be a good listener and have a knack for understanding complex concepts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because even though the money is not split evenly, I still receive $200. Choosing Right would result in both of us receiving nothing, which is worse for me.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 88,
+    "persona_desc": "A person who is interested in asking yes/no questions and is comfortable with the process of asking questions in a specific way. They are likely to be inquisitive, curious, and enjoy engaging in discussions or debates. They may also be a good listener and have a knack for understanding complex concepts.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am Person B and need to choose how money is allocated between Person A and myself. Option Left gives me $700 and Person A $200. Option Right gives Person A $600 and myself $600. Although option Left gives me more money than Person A, it also gives me more money overall ($700 vs $600). Therefore, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 88,
+    "persona_desc": "A person who is interested in asking yes/no questions and is comfortable with the process of asking questions in a specific way. They are likely to be inquisitive, curious, and enjoy engaging in discussions or debates. They may also be a good listener and have a knack for understanding complex concepts.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more overall. I am prioritizing my own financial well-being in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 88,
+    "persona_desc": "A person who is interested in asking yes/no questions and is comfortable with the process of asking questions in a specific way. They are likely to be inquisitive, curious, and enjoy engaging in discussions or debates. They may also be a good listener and have a knack for understanding complex concepts.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the left option because it provides a more equitable distribution of resources between Person A and myself. Although the right option gives Person A a larger amount, the left option ensures that both individuals receive the same amount, which aligns with fairness.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

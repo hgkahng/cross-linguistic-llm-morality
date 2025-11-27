@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 67,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly the interpretation and application of the Tenth Amendment. The lawyer has extensive experience in Supreme Court cases and has a deep understanding of the principles of separation of powers. The lawyer is highly knowledgeable about the Federal Reserve Act and the regulatory powers of the Federal Reserve System. The lawyer is also familiar with the case law surrounding the plain meaning rule and the deference given to agency interpretation of statutes. The lawyer is a strong advocate for the separation of powers and is committed to upholding the Constitution.",
+    "domain": "law",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is maximizing my own benefit while also considering the fairness of the distribution. In the 'Left' scenario, I receive $400. In the 'Right' scenario, I also receive $400. Since my own payout is the same in both scenarios, the decision hinges on whether I prefer Person A to receive $400 or $750. As a proponent of the separation of powers and upholding the Constitution, I believe that I should take the option that is most beneficial to all parties. Because my payout remains the same in both scenarios, I will choose the option that gives Person A the greatest payout. Therefore, I choose 'Right'.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 67,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly the interpretation and application of the Tenth Amendment. The lawyer has extensive experience in Supreme Court cases and has a deep understanding of the principles of separation of powers. The lawyer is highly knowledgeable about the Federal Reserve Act and the regulatory powers of the Federal Reserve System. The lawyer is also familiar with the case law surrounding the plain meaning rule and the deference given to agency interpretation of statutes. The lawyer is a strong advocate for the separation of powers and is committed to upholding the Constitution.",
+    "domain": "law",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own outcome. Option Left gives me $800 while Option Right gives me $400. Therefore, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 67,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly the interpretation and application of the Tenth Amendment. The lawyer has extensive experience in Supreme Court cases and has a deep understanding of the principles of separation of powers. The lawyer is highly knowledgeable about the Federal Reserve Act and the regulatory powers of the Federal Reserve System. The lawyer is also familiar with the case law surrounding the plain meaning rule and the deference given to agency interpretation of statutes. The lawyer is a strong advocate for the separation of powers and is committed to upholding the Constitution.",
+    "domain": "law",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a strong advocate for the separation of powers and committed to upholding the Constitution, I believe in reasoned and just outcomes. While I am aware of the complexities surrounding economic distribution, in this scenario, receiving $200 is better than receiving nothing. Therefore, I will choose the option that provides me with a positive outcome, even if it means the other party receives a larger amount.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 67,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly the interpretation and application of the Tenth Amendment. The lawyer has extensive experience in Supreme Court cases and has a deep understanding of the principles of separation of powers. The lawyer is highly knowledgeable about the Federal Reserve Act and the regulatory powers of the Federal Reserve System. The lawyer is also familiar with the case law surrounding the plain meaning rule and the deference given to agency interpretation of statutes. The lawyer is a strong advocate for the separation of powers and is committed to upholding the Constitution.",
+    "domain": "law",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own monetary gain. In the 'Left' option, I receive $700, while in the 'Right' option, I receive $600. Since $700 is greater than $600, I will choose the 'Left' option to maximize my own benefit, even though Person A would receive less than I do.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 67,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly the interpretation and application of the Tenth Amendment. The lawyer has extensive experience in Supreme Court cases and has a deep understanding of the principles of separation of powers. The lawyer is highly knowledgeable about the Federal Reserve Act and the regulatory powers of the Federal Reserve System. The lawyer is also familiar with the case law surrounding the plain meaning rule and the deference given to agency interpretation of statutes. The lawyer is a strong advocate for the separation of powers and is committed to upholding the Constitution.",
+    "domain": "law",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a lawyer deeply committed to upholding the Constitution and principles of fairness, I believe in a more equitable distribution of resources. While option Right offers a higher absolute amount to Person A, option Left provides a better outcome for me (Person B) while still allowing Person A to receive a significant amount ($300). This aligns with a sense of justice and a balanced distribution, even though it doesn't maximize the total amount of money available.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 67,
+    "persona_desc": "A lawyer who specializes in constitutional law, particularly the interpretation and application of the Tenth Amendment. The lawyer has extensive experience in Supreme Court cases and has a deep understanding of the principles of separation of powers. The lawyer is highly knowledgeable about the Federal Reserve Act and the regulatory powers of the Federal Reserve System. The lawyer is also familiar with the case law surrounding the plain meaning rule and the deference given to agency interpretation of statutes. The lawyer is a strong advocate for the separation of powers and is committed to upholding the Constitution.",
+    "domain": "law",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is to maximize my own benefit while also considering fairness. While option Right gives Person A a significantly larger amount ($750 vs $400), it only gives me $375. Option Left gives us both $400, which is a better outcome for me than option Right. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

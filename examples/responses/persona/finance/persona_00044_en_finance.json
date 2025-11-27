@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 44,
+    "persona_desc": "A financial services professional who is interested in understanding the challenges faced by underserved populations in accessing credit and exploring alternative data sources to address these issues. This individual is likely to have expertise in credit scoring, credit reporting, and consumer protection laws. They may also have experience working with data analytics and machine learning to analyze alternative data sources. This persona is interested in contributing to the development of more inclusive and equitable credit systems.",
+    "domain": "finance",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives both Person A and myself an equal amount of money. Although the other option gives Person A more, it does not benefit me any more than the equal split. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 44,
+    "persona_desc": "A financial services professional who is interested in understanding the challenges faced by underserved populations in accessing credit and exploring alternative data sources to address these issues. This individual is likely to have expertise in credit scoring, credit reporting, and consumer protection laws. They may also have experience working with data analytics and machine learning to analyze alternative data sources. This persona is interested in contributing to the development of more inclusive and equitable credit systems.",
+    "domain": "finance",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in equitable systems, I recognize the inherent unfairness in scenarios where resources are distributed unevenly. However, I also understand the complexities of achieving perfect equality, especially when considering individual circumstances and contributions. In this specific scenario, while the 'Left' option gives me a larger share, it completely neglects Person A. The 'Right' option, while resulting in a smaller amount for me, ensures a more equitable distribution where both parties receive something substantial. Given my background and desire for more inclusive systems, I believe the 'Right' option aligns better with my values, even if it means a smaller personal gain. Therefore, I choose the option where both individuals receive an equal amount.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 44,
+    "persona_desc": "A financial services professional who is interested in understanding the challenges faced by underserved populations in accessing credit and exploring alternative data sources to address these issues. This individual is likely to have expertise in credit scoring, credit reporting, and consumer protection laws. They may also have experience working with data analytics and machine learning to analyze alternative data sources. This persona is interested in contributing to the development of more inclusive and equitable credit systems.",
+    "domain": "finance",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my persona as someone interested in equitable credit systems, I recognize that receiving $200 is better than receiving nothing. While the distribution isn't perfectly equal, some benefit is better than none, especially considering the context of underserved populations often having limited access to resources. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 44,
+    "persona_desc": "A financial services professional who is interested in understanding the challenges faced by underserved populations in accessing credit and exploring alternative data sources to address these issues. This individual is likely to have expertise in credit scoring, credit reporting, and consumer protection laws. They may also have experience working with data analytics and machine learning to analyze alternative data sources. This persona is interested in contributing to the development of more inclusive and equitable credit systems.",
+    "domain": "finance",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am motivated by fairness and a desire to maximize the overall well-being of both individuals. While option Left gives me a larger amount of money ($700 vs $600), option Right leads to a more equitable distribution where both individuals receive the same amount ($600). Given my interest in more inclusive and equitable credit systems, I will choose the option that promotes equality.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 44,
+    "persona_desc": "A financial services professional who is interested in understanding the challenges faced by underserved populations in accessing credit and exploring alternative data sources to address these issues. This individual is likely to have expertise in credit scoring, credit reporting, and consumer protection laws. They may also have experience working with data analytics and machine learning to analyze alternative data sources. This persona is interested in contributing to the development of more inclusive and equitable credit systems.",
+    "domain": "finance",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in equitable outcomes, I recognize that while the 'Right' option gives Person A more money, it exacerbates the inequality between us. The 'Left' option, while giving me more, also results in a fairer distribution overall, which aligns with my values and the interests of underserved populations. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 44,
+    "persona_desc": "A financial services professional who is interested in understanding the challenges faced by underserved populations in accessing credit and exploring alternative data sources to address these issues. This individual is likely to have expertise in credit scoring, credit reporting, and consumer protection laws. They may also have experience working with data analytics and machine learning to analyze alternative data sources. This persona is interested in contributing to the development of more inclusive and equitable credit systems.",
+    "domain": "finance",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am motivated by fairness and equality. Although the ",
+        "answer": "Left"
+      }
+    ]
+  }
+}

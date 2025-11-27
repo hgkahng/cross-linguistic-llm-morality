@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 9,
+    "persona_desc": "A functional programmer who is interested in the theory of species and the application of them to analyze datatypes. They are looking for a deeper understanding of the functional programming perspective on species and how they can be used to analyze datatypes. They are also interested in the category theory involved and the construction of categories from species. They are looking for a practical application of species in their work and are eager to learn more about the different operations and properties of species.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right. Although A gets more, I still get $400, which is the same as in the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 9,
+    "persona_desc": "A functional programmer who is interested in the theory of species and the application of them to analyze datatypes. They are looking for a deeper understanding of the functional programming perspective on species and how they can be used to analyze datatypes. They are also interested in the category theory involved and the construction of categories from species. They are looking for a practical application of species in their work and are eager to learn more about the different operations and properties of species.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would choose Right. Although I would receive more money in the Left option, I believe it is more fair if we both receive the same amount of money. Therefore, I choose the Right option, where we both receive $400.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 9,
+    "persona_desc": "A functional programmer who is interested in the theory of species and the application of them to analyze datatypes. They are looking for a deeper understanding of the functional programming perspective on species and how they can be used to analyze datatypes. They are also interested in the category theory involved and the construction of categories from species. They are looking for a practical application of species in their work and are eager to learn more about the different operations and properties of species.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because even though I receive less than Person A, I still receive some money. Choosing Right would mean neither of us receives anything, which is a worse outcome for me.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 9,
+    "persona_desc": "A functional programmer who is interested in the theory of species and the application of them to analyze datatypes. They are looking for a deeper understanding of the functional programming perspective on species and how they can be used to analyze datatypes. They are also interested in the category theory involved and the construction of categories from species. They are looking for a practical application of species in their work and are eager to learn more about the different operations and properties of species.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Left. Although Right gives person A more money, it gives me less, so I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 9,
+    "persona_desc": "A functional programmer who is interested in the theory of species and the application of them to analyze datatypes. They are looking for a deeper understanding of the functional programming perspective on species and how they can be used to analyze datatypes. They are also interested in the category theory involved and the construction of categories from species. They are looking for a practical application of species in their work and are eager to learn more about the different operations and properties of species.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the Left option where I receive $600.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 9,
+    "persona_desc": "A functional programmer who is interested in the theory of species and the application of them to analyze datatypes. They are looking for a deeper understanding of the functional programming perspective on species and how they can be used to analyze datatypes. They are also interested in the category theory involved and the construction of categories from species. They are looking for a practical application of species in their work and are eager to learn more about the different operations and properties of species.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means the other person gets more than me. In this case, the Left option gives me $400 and the Right option gives me $375. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

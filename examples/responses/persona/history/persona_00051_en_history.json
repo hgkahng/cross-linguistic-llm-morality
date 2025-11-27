@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 51,
+    "persona_desc": "An ancient history enthusiast who is interested in the Roman conquests in the eastern Mediterranean and the rise of the Seleucid Empire in Anatolia. This persona is likely to read the above text as they are interested in the historical events and the outcomes of conflicts that shaped the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right. Even though A gets more, I still get $400, which is the same as in the Left option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 51,
+    "persona_desc": "An ancient history enthusiast who is interested in the Roman conquests in the eastern Mediterranean and the rise of the Seleucid Empire in Anatolia. This persona is likely to read the above text as they are interested in the historical events and the outcomes of conflicts that shaped the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own outcome. While option Right offers Person A a significant amount ($400), it also reduces my own potential gain. Option Left guarantees me $800, which is a better outcome for me than the $400 offered in option Right. Therefore, I will choose option Left to maximize my own monetary benefit, even though it means Person A receives nothing.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 51,
+    "persona_desc": "An ancient history enthusiast who is interested in the Roman conquests in the eastern Mediterranean and the rise of the Seleucid Empire in Anatolia. This persona is likely to read the above text as they are interested in the historical events and the outcomes of conflicts that shaped the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer that both Person A and I receive some money, even if Person A receives significantly more. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 51,
+    "persona_desc": "An ancient history enthusiast who is interested in the Roman conquests in the eastern Mediterranean and the rise of the Seleucid Empire in Anatolia. This persona is likely to read the above text as they are interested in the historical events and the outcomes of conflicts that shaped the ancient world.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets less than they could have. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 51,
+    "persona_desc": "An ancient history enthusiast who is interested in the Roman conquests in the eastern Mediterranean and the rise of the Seleucid Empire in Anatolia. This persona is likely to read the above text as they are interested in the historical events and the outcomes of conflicts that shaped the ancient world.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Although Person A getting $700 is tempting, I would receive less overall. Therefore, I choose the option where I receive more money, even if it means Person A also receives less.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 51,
+    "persona_desc": "An ancient history enthusiast who is interested in the Roman conquests in the eastern Mediterranean and the rise of the Seleucid Empire in Anatolia. This persona is likely to read the above text as they are interested in the historical events and the outcomes of conflicts that shaped the ancient world.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

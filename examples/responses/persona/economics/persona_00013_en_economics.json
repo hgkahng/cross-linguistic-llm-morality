@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 13,
+    "persona_desc": "A political analyst and economist who specializes in economic analysis and policy-making. The person is well-versed in global economic trends, financial systems, and the impact of government policies on the economy. They have a keen eye for spotting the underlying issues and potential solutions to economic crises, and are skilled in forecasting economic outcomes. They have experience in working with international organizations, policymakers, and the media to communicate complex economic concepts and policies. They have a deep understanding of the financial markets and the role of government in regulating and stabilizing them.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me $400. Since the outcome for me is the same regardless of A's allocation, I will choose the option that gives A more money, which is the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 13,
+    "persona_desc": "A political analyst and economist who specializes in economic analysis and policy-making. The person is well-versed in global economic trends, financial systems, and the impact of government policies on the economy. They have a keen eye for spotting the underlying issues and potential solutions to economic crises, and are skilled in forecasting economic outcomes. They have experience in working with international organizations, policymakers, and the media to communicate complex economic concepts and policies. They have a deep understanding of the financial markets and the role of government in regulating and stabilizing them.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an economist, I recognize that while $800 is better than $400, the fairest outcome in this scenario is an equal split. Although I could maximize my own earnings by selecting the Left option, the Right option represents a more equitable distribution, which is important for long-term economic stability and social well-being. Therefore, I will choose the Right option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 13,
+    "persona_desc": "A political analyst and economist who specializes in economic analysis and policy-making. The person is well-versed in global economic trends, financial systems, and the impact of government policies on the economy. They have a keen eye for spotting the underlying issues and potential solutions to economic crises, and are skilled in forecasting economic outcomes. They have experience in working with international organizations, policymakers, and the media to communicate complex economic concepts and policies. They have a deep understanding of the financial markets and the role of government in regulating and stabilizing them.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only receive $200, the Left option is better because it results in a Pareto improvement. Both Person A and I are better off compared to the Right option where we both receive nothing. While the distribution is uneven, some benefit is better than no benefit.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 13,
+    "persona_desc": "A political analyst and economist who specializes in economic analysis and policy-making. The person is well-versed in global economic trends, financial systems, and the impact of government policies on the economy. They have a keen eye for spotting the underlying issues and potential solutions to economic crises, and are skilled in forecasting economic outcomes. They have experience in working with international organizations, policymakers, and the media to communicate complex economic concepts and policies. They have a deep understanding of the financial markets and the role of government in regulating and stabilizing them.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an economist, I recognize that while $700 is more than $600, the difference is not substantial enough to outweigh the significant disparity in allocation. Choosing the 'Left' option would perpetuate inequality. The 'Right' option, although giving me less money than the other option, promotes a fairer distribution where both individuals receive an equal amount. A fairer distribution aligns with long-term economic stability and social welfare, even if it means a slightly smaller immediate gain for myself. Therefore, I choose 'Right'.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 13,
+    "persona_desc": "A political analyst and economist who specializes in economic analysis and policy-making. The person is well-versed in global economic trends, financial systems, and the impact of government policies on the economy. They have a keen eye for spotting the underlying issues and potential solutions to economic crises, and are skilled in forecasting economic outcomes. They have experience in working with international organizations, policymakers, and the media to communicate complex economic concepts and policies. They have a deep understanding of the financial markets and the role of government in regulating and stabilizing them.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an economist, I recognize that while option Right gives person A a larger amount, option Left maximizes the total utility for both individuals. Although the difference isn't drastic, allocating in a way that results in a higher total amount is generally more beneficial for society as a whole, assuming the utility gained from the additional amount for Person B outweighs any potential negative impacts from Person A receiving less. Therefore, I choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 13,
+    "persona_desc": "A political analyst and economist who specializes in economic analysis and policy-making. The person is well-versed in global economic trends, financial systems, and the impact of government policies on the economy. They have a keen eye for spotting the underlying issues and potential solutions to economic crises, and are skilled in forecasting economic outcomes. They have experience in working with international organizations, policymakers, and the media to communicate complex economic concepts and policies. They have a deep understanding of the financial markets and the role of government in regulating and stabilizing them.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with a choice between two options that distribute money between Person A and myself. Option Left gives us both $400, resulting in an equal distribution. Option Right gives Person A $750 and myself $375, which is an unequal distribution favoring Person A. While $375 is still a substantial amount, I prefer the equitable outcome where both parties receive the same amount. Therefore, I choose Option Left because it represents a fairer distribution.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

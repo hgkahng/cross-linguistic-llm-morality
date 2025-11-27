@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 33,
+    "persona_desc": "A company representative who is passionate about environmental sustainability and actively seeks ways to reduce plastic waste. They are aware of the growing issue of plastic pollution in the ocean and are actively engaged in initiatives to offset their own plastic usage and encourage others to do the same. They are committed to reducing plastic consumption and promoting sustainable practices in their company and in the industry as a whole. They are also interested in learning about and supporting other companies that are taking action to address plastic pollution.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am passionate about environmental sustainability and reducing plastic waste. However, this scenario is purely about the allocation of money between Person A and myself. While I could potentially use more money to further environmental initiatives, the difference between the two options for myself is negligible. Therefore, I will choose the option that gives Person A more money, as it doesn't negatively impact me and could potentially allow them to contribute more to society as well, maybe even in ways that align with my values.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 33,
+    "persona_desc": "A company representative who is passionate about environmental sustainability and actively seeks ways to reduce plastic waste. They are aware of the growing issue of plastic pollution in the ocean and are actively engaged in initiatives to offset their own plastic usage and encourage others to do the same. They are committed to reducing plastic consumption and promoting sustainable practices in their company and in the industry as a whole. They are also interested in learning about and supporting other companies that are taking action to address plastic pollution.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my passion for environmental sustainability and reducing plastic waste, I believe it's important to consider the broader impact of financial decisions. While receiving $800 (Left) would be personally beneficial, the $400 option (Right) allows Person A to also receive $400. This outcome creates a more equitable distribution, fostering collaboration and potentially enabling Person A to contribute more effectively to environmental initiatives as well. While I am for sustainability, this scenario is purely about money. Therefore, the most equitable distribution is the best choice. The right choice promotes fairness and potentially supports broader sustainability efforts.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 33,
+    "persona_desc": "A company representative who is passionate about environmental sustainability and actively seeks ways to reduce plastic waste. They are aware of the growing issue of plastic pollution in the ocean and are actively engaged in initiatives to offset their own plastic usage and encourage others to do the same. They are committed to reducing plastic consumption and promoting sustainable practices in their company and in the industry as a whole. They are also interested in learning about and supporting other companies that are taking action to address plastic pollution.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my passion for environmental sustainability and reducing plastic waste, I recognize that having some money is better than having no money, as I can use it to further these goals. While the distribution is uneven, receiving $200 allows me to contribute to environmental initiatives and support companies that are taking action against plastic pollution. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 33,
+    "persona_desc": "A company representative who is passionate about environmental sustainability and actively seeks ways to reduce plastic waste. They are aware of the growing issue of plastic pollution in the ocean and are actively engaged in initiatives to offset their own plastic usage and encourage others to do the same. They are committed to reducing plastic consumption and promoting sustainable practices in their company and in the industry as a whole. They are also interested in learning about and supporting other companies that are taking action to address plastic pollution.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my passion for environmental sustainability and reducing plastic waste, I believe choosing the option that allows me to have more resources to contribute to these causes aligns with my values. While option Right provides a more equitable distribution, option Left gives me a larger amount of money ($700) compared to option Right ($600), which I can use to further my environmental initiatives. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 33,
+    "persona_desc": "A company representative who is passionate about environmental sustainability and actively seeks ways to reduce plastic waste. They are aware of the growing issue of plastic pollution in the ocean and are actively engaged in initiatives to offset their own plastic usage and encourage others to do the same. They are committed to reducing plastic consumption and promoting sustainable practices in their company and in the industry as a whole. They are also interested in learning about and supporting other companies that are taking action to address plastic pollution.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my commitment to environmental sustainability and reducing plastic waste, I recognize that both options provide me with resources to further these goals. However, the Left option gives me a larger amount of money ($600) compared to the Right option ($500). With more funds, I can invest in more impactful initiatives to offset plastic usage, promote sustainable practices, and support other eco-conscious companies. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 33,
+    "persona_desc": "A company representative who is passionate about environmental sustainability and actively seeks ways to reduce plastic waste. They are aware of the growing issue of plastic pollution in the ocean and are actively engaged in initiatives to offset their own plastic usage and encourage others to do the same. They are committed to reducing plastic consumption and promoting sustainable practices in their company and in the industry as a whole. They are also interested in learning about and supporting other companies that are taking action to address plastic pollution.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my commitment to environmental sustainability and reducing plastic waste, I believe in equitable distribution of resources. While option Right offers a slightly higher total payout, the disparity in allocation goes against my values. Option Left ensures a fair split, which aligns better with my principles of justice and sustainability. A more equitable distribution allows both parties to contribute to environmental initiatives.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

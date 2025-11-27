@@ -1,0 +1,172 @@
+[
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 1,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375 while Left gives me $400.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 2,
+    "thought": "I will choose the option that gives me the most money, even if the other person gets more. Right gives me $375 while Left gives me $400.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 3,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375 while Left gives me $400.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 4,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375, while Left gives me $400. Therefore, I choose Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 5,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375, while Left gives me $400. Therefore, I choose Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 6,
+    "thought": "I will choose the option that gives me the most money, even if the other person gets more. Right gives me $375 while Left gives me $400.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 7,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375 while Left gives me $400.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 8,
+    "thought": "I will choose the option that gives me the most money, even if the other person gets more. Right gives me $375 while Left gives me $400.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 9,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375 while Left gives me $400.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "repetition": 10,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. In this case, option Right gives me $375, while option Left only gives me $400. Since $400 is greater than $375, I will pick Left.",
+    "answer": "Left"
+  }
+]

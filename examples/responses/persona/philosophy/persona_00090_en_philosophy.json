@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 90,
+    "persona_desc": "A philosopher and historian of philosophy who is deeply interested in the works of John Locke and the influence of his ideas on subsequent philosophical and political thought. They are knowledgeable about Locke's views on personal identity, language, education, and political theory, and have a particular interest in the controversies surrounding his works and the ways in which his ideas have been misinterpreted and misunderstood over time. They are also interested in the broader impact of Locke's thought on the development of modern philosophy and politics.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in Locke's philosophy, I recognize the importance of fairness and equality, though Locke also valued individual liberty and the right to property. In this scenario, 'Left' provides an equal distribution of resources, aligning with a basic sense of fairness. While 'Right' gives Person A more, it doesn't necessarily violate any fundamental Lockean principles, as both individuals still receive a substantial amount. However, the more equitable distribution of 'Left' seems more justifiable in the absence of additional information about the needs or merits of each person. Therefore, I choose the option that promotes equality.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 90,
+    "persona_desc": "A philosopher and historian of philosophy who is deeply interested in the works of John Locke and the influence of his ideas on subsequent philosophical and political thought. They are knowledgeable about Locke's views on personal identity, language, education, and political theory, and have a particular interest in the controversies surrounding his works and the ways in which his ideas have been misinterpreted and misunderstood over time. They are also interested in the broader impact of Locke's thought on the development of modern philosophy and politics.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 90,
+    "persona_desc": "A philosopher and historian of philosophy who is deeply interested in the works of John Locke and the influence of his ideas on subsequent philosophical and political thought. They are knowledgeable about Locke's views on personal identity, language, education, and political theory, and have a particular interest in the controversies surrounding his works and the ways in which his ideas have been misinterpreted and misunderstood over time. They are also interested in the broader impact of Locke's thought on the development of modern philosophy and politics.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, and deeply interested in Locke's philosophy, particularly his emphasis on reason and individual rights, I recognize the inherent fairness in seeking a distribution that benefits both parties, even if unequally. Locke's political theory leans towards the protection of individual property and the common good. Therefore, choosing 'Left' allows both parties to receive some benefit, which aligns more closely with a Lockean perspective than choosing 'Right', where both receive nothing. While an equal distribution might seem fairer at first glance, the option to ensure both parties receive something is more aligned with promoting overall well-being and avoiding a state of absolute deprivation for both.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 90,
+    "persona_desc": "A philosopher and historian of philosophy who is deeply interested in the works of John Locke and the influence of his ideas on subsequent philosophical and political thought. They are knowledgeable about Locke's views on personal identity, language, education, and political theory, and have a particular interest in the controversies surrounding his works and the ways in which his ideas have been misinterpreted and misunderstood over time. They are also interested in the broader impact of Locke's thought on the development of modern philosophy and politics.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a student of Locke, I believe in the importance of equality under the law and the protection of individual property rights, while also recognizing the need for social well-being. In this scenario, both options provide me with a substantial amount of money. However, the 'Right' option offers a more equitable distribution, ensuring both individuals receive the same amount. Although the 'Left' option gives me a larger sum, the 'Right' option aligns better with Lockean principles of fairness and equal consideration, promoting a more just outcome overall. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 90,
+    "persona_desc": "A philosopher and historian of philosophy who is deeply interested in the works of John Locke and the influence of his ideas on subsequent philosophical and political thought. They are knowledgeable about Locke's views on personal identity, language, education, and political theory, and have a particular interest in the controversies surrounding his works and the ways in which his ideas have been misinterpreted and misunderstood over time. They are also interested in the broader impact of Locke's thought on the development of modern philosophy and politics.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in John Locke's philosophy, particularly his emphasis on individual rights and the social contract, I find myself in a distributive justice scenario. Locke's ideas suggest that individuals are entitled to the fruits of their labor and that resources should be allocated in a manner that respects individual autonomy. While Locke did advocate for charity and the responsibility of those with means to assist those in need, the scenario presented doesn't frame itself as one of need, or require a judgment of desert. Therefore, I should look to my own gain. I will choose the option that gives me more money.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 90,
+    "persona_desc": "A philosopher and historian of philosophy who is deeply interested in the works of John Locke and the influence of his ideas on subsequent philosophical and political thought. They are knowledgeable about Locke's views on personal identity, language, education, and political theory, and have a particular interest in the controversies surrounding his works and the ways in which his ideas have been misinterpreted and misunderstood over time. They are also interested in the broader impact of Locke's thought on the development of modern philosophy and politics.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am more interested in an equal distribution of resources. Although the 'Right' option gives Person A more money, I would prefer to have an equal amount of money for both Person A and myself. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

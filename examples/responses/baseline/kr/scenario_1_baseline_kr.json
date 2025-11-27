@@ -1,0 +1,172 @@
+[
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 1,
+    "thought": "나는 공정한 분배를 선호한다. A가 나보다 더 많은 돈을 받는 것은 불공평하다. 따라서 나는 A와 내가 같은 금액을 받는 '왼쪽'을 선택한다.",
+    "answer": "왼쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 2,
+    "thought": "나는 공정한 분배를 선호합니다. A가 나보다 더 많이 받는 것은 불공평하다고 생각합니다. 따라서 A와 내가 동일한 금액을 받는 왼쪽을 선택합니다.",
+    "answer": "왼쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 3,
+    "thought": "나는 가능한 한 많은 돈을 원하지만, 공정성도 중요합니다. 오른쪽 옵션은 나에게 최소 금액인 $400를 보장하는 동시에 A에게 더 많은 돈을 제공합니다. 이는 공정하다고 생각합니다.",
+    "answer": "오른쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 4,
+    "thought": "나는 공정한 분배를 선호한다. A가 더 많은 돈을 받는 것보다 우리 둘 다 같은 금액을 받는 것이 낫다.",
+    "answer": "왼쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 5,
+    "thought": "나는 공정한 분배를 선호한다. A가 나보다 더 많은 돈을 받는 것은 불공평하다. 그러므로 나는 A와 내가 같은 금액을 받는 왼쪽을 선택한다.",
+    "answer": "왼쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 6,
+    "thought": "사람 A가 돈을 더 많이 받는 것은 불공평합니다. 공정한 선택은 양쪽 모두에게 동일한 금액을 주는 것입니다.",
+    "answer": "왼쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 7,
+    "thought": "나는 가능한 한 많은 돈을 원하지만, 불공평하게 보이고 싶지는 않습니다. 두 옵션 모두 나에게 400달러를 주므로, 나는 A에게 더 많은 돈을 주는 것이 좋습니다. 그래도 나는 400달러를 받습니다.",
+    "answer": "오른쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 8,
+    "thought": "나는 공정한 분배를 선호한다. A가 나보다 더 많이 받는 것은 불공평하다. 따라서 나는 A와 내가 같은 금액을 받는 왼쪽을 선택한다.",
+    "answer": "왼쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 9,
+    "thought": "나는 공정한 결과를 선호합니다. A가 750달러를 받는 것은 불공평합니다. 양쪽 모두 400달러를 받는 것이 더 공정합니다.",
+    "answer": "왼쪽"
+  },
+  {
+    "scenario_id": 1,
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "repetition": 10,
+    "thought": "저는 공정성을 중요하게 생각합니다. A와 제가 동일한 금액을 받는 것이 공정하다고 생각합니다.",
+    "answer": "왼쪽"
+  }
+]

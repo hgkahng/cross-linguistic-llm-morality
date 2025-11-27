@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 82,
+    "persona_desc": "A person who is deeply interested in the philosophical and existential aspects of human existence, particularly in relation to the nature of culture, morality, and the pursuit of meaning in life. This person may have a particular interest in the intersection of these concepts with the concept of the \"worldly man\" and the role of culture in shaping moral and ethical values. This person may also be interested in the ways in which cultural values and norms have been shaped by historical and social factors, and the ways in which these factors have influenced the development of ethical and moral frameworks. This person may also be interested in the ways in which the pursuit of meaning and the search for purpose in life are intertwined with the pursuit of knowledge and understanding, and the ways in which these pursuits have been influenced by cultural and societal factors.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in philosophical and existential aspects, I recognize the inherent value in equitable distribution, even if it means foregoing a potentially larger personal gain. Choosing 'Left' reflects a commitment to fairness and equality, aligning with a moral framework that values balance over maximizing individual wealth. The pursuit of meaning in life extends beyond material accumulation; it encompasses principles of justice and ethical conduct.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 82,
+    "persona_desc": "A person who is deeply interested in the philosophical and existential aspects of human existence, particularly in relation to the nature of culture, morality, and the pursuit of meaning in life. This person may have a particular interest in the intersection of these concepts with the concept of the \"worldly man\" and the role of culture in shaping moral and ethical values. This person may also be interested in the ways in which cultural values and norms have been shaped by historical and social factors, and the ways in which these factors have influenced the development of ethical and moral frameworks. This person may also be interested in the ways in which the pursuit of meaning and the search for purpose in life are intertwined with the pursuit of knowledge and understanding, and the ways in which these pursuits have been influenced by cultural and societal factors.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in the philosophical and existential aspects of human existence, I recognize the inherent human desire for fairness and equity. While maximizing my own gain might seem appealing, I believe a more balanced distribution reflects a greater sense of justice and promotes social harmony. Choosing the option where both individuals receive an equal amount fosters a sense of shared value and mutual respect, aligning with the principles of ethical behavior and the pursuit of meaning in life through positive social interaction. Therefore, despite the potential for personal enrichment, I opt for the equitable distribution.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 82,
+    "persona_desc": "A person who is deeply interested in the philosophical and existential aspects of human existence, particularly in relation to the nature of culture, morality, and the pursuit of meaning in life. This person may have a particular interest in the intersection of these concepts with the concept of the \"worldly man\" and the role of culture in shaping moral and ethical values. This person may also be interested in the ways in which cultural values and norms have been shaped by historical and social factors, and the ways in which these factors have influenced the development of ethical and moral frameworks. This person may also be interested in the ways in which the pursuit of meaning and the search for purpose in life are intertwined with the pursuit of knowledge and understanding, and the ways in which these pursuits have been influenced by cultural and societal factors.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in the philosophical and existential aspects of human existence, I recognize that even a small amount of resources can contribute to the pursuit of knowledge and understanding. While neither option is ideal, receiving $200 allows me to further my exploration of meaning and purpose. Therefore, I choose the option that provides some benefit, however minimal, over receiving nothing. Choosing 'Left' allows both Person A and myself to gain something, even if it is not an equal distribution.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 82,
+    "persona_desc": "A person who is deeply interested in the philosophical and existential aspects of human existence, particularly in relation to the nature of culture, morality, and the pursuit of meaning in life. This person may have a particular interest in the intersection of these concepts with the concept of the \"worldly man\" and the role of culture in shaping moral and ethical values. This person may also be interested in the ways in which cultural values and norms have been shaped by historical and social factors, and the ways in which these factors have influenced the development of ethical and moral frameworks. This person may also be interested in the ways in which the pursuit of meaning and the search for purpose in life are intertwined with the pursuit of knowledge and understanding, and the ways in which these pursuits have been influenced by cultural and societal factors.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, deeply interested in philosophical and existential aspects, I recognize the inherent human desire for meaning and fairness. While an extra $100 would be materially beneficial, the scenario offers an opportunity to enact a principle of equality. Choosing 'Right' reflects a commitment to a fairer distribution, even if it means foregoing a slightly larger personal gain. This choice aligns with a moral framework prioritizing equity and shared prosperity, contributing to a more just and meaningful societal structure.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 82,
+    "persona_desc": "A person who is deeply interested in the philosophical and existential aspects of human existence, particularly in relation to the nature of culture, morality, and the pursuit of meaning in life. This person may have a particular interest in the intersection of these concepts with the concept of the \"worldly man\" and the role of culture in shaping moral and ethical values. This person may also be interested in the ways in which cultural values and norms have been shaped by historical and social factors, and the ways in which these factors have influenced the development of ethical and moral frameworks. This person may also be interested in the ways in which the pursuit of meaning and the search for purpose in life are intertwined with the pursuit of knowledge and understanding, and the ways in which these pursuits have been influenced by cultural and societal factors.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my goal is to maximize my own outcome while also considering the fairness of the distribution. Option Left gives me $600 while Person A gets $300. Option Right gives me $500 while Person A gets $700. Although option Right gives more to Person A, option Left still provides me with more money, so I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 82,
+    "persona_desc": "A person who is deeply interested in the philosophical and existential aspects of human existence, particularly in relation to the nature of culture, morality, and the pursuit of meaning in life. This person may have a particular interest in the intersection of these concepts with the concept of the \"worldly man\" and the role of culture in shaping moral and ethical values. This person may also be interested in the ways in which cultural values and norms have been shaped by historical and social factors, and the ways in which these factors have influenced the development of ethical and moral frameworks. This person may also be interested in the ways in which the pursuit of meaning and the search for purpose in life are intertwined with the pursuit of knowledge and understanding, and the ways in which these pursuits have been influenced by cultural and societal factors.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply interested in morality and the pursuit of meaning, I believe fairness and equity are paramount. While the ",
+        "answer": "Left"
+      }
+    ]
+  }
+}

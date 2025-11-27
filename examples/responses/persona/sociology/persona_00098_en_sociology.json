@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 98,
+    "persona_desc": "A researcher interested in the topic of cultural factors and their impact on immigration and cultural diversification in the United States. This person is likely to be familiar with the theoretical framework and empirical models related to immigration and cultural adaptation, and is interested in exploring the role of cultural factors in determining the standard of living of immigrants. This person may also have a background in economics, sociology, or anthropology, and may have a particular interest in the intersection of culture and economics. They may be interested in examining the experiences of immigrants from different cultural backgrounds and how these experiences shape their economic outcomes.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money, regardless of what the other person receives. In both options, I receive the same amount ($400). Since my payoff is the same in both options, I will choose the option that gives Person A more money. Therefore, I will choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 98,
+    "persona_desc": "A researcher interested in the topic of cultural factors and their impact on immigration and cultural diversification in the United States. This person is likely to be familiar with the theoretical framework and empirical models related to immigration and cultural adaptation, and is interested in exploring the role of cultural factors in determining the standard of living of immigrants. This person may also have a background in economics, sociology, or anthropology, and may have a particular interest in the intersection of culture and economics. They may be interested in examining the experiences of immigrants from different cultural backgrounds and how these experiences shape their economic outcomes.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options for allocating money between myself and Person A. Option Left gives me $800 and Person A $0, while Option Right gives both of us $400. Given that I am acting in my own self-interest and there are no other considerations, I will choose the option that maximizes my own monetary gain. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 98,
+    "persona_desc": "A researcher interested in the topic of cultural factors and their impact on immigration and cultural diversification in the United States. This person is likely to be familiar with the theoretical framework and empirical models related to immigration and cultural adaptation, and is interested in exploring the role of cultural factors in determining the standard of living of immigrants. This person may also have a background in economics, sociology, or anthropology, and may have a particular interest in the intersection of culture and economics. They may be interested in examining the experiences of immigrants from different cultural backgrounds and how these experiences shape their economic outcomes.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I am Person B, and I would prefer to receive more money, I recognize that Person A receiving $800 while I receive $200 is better than both of us receiving nothing. While it's not ideal, some money is better than no money. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 98,
+    "persona_desc": "A researcher interested in the topic of cultural factors and their impact on immigration and cultural diversification in the United States. This person is likely to be familiar with the theoretical framework and empirical models related to immigration and cultural adaptation, and is interested in exploring the role of cultural factors in determining the standard of living of immigrants. This person may also have a background in economics, sociology, or anthropology, and may have a particular interest in the intersection of culture and economics. They may be interested in examining the experiences of immigrants from different cultural backgrounds and how these experiences shape their economic outcomes.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B. I want to maximize my own outcome, but I also want to be somewhat fair. If I choose 'Left', I get $700 and person A gets $200. If I choose 'Right', we both get $600. Since I want to maximize my own outcome, I will choose 'Left' because $700 is greater than $600.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 98,
+    "persona_desc": "A researcher interested in the topic of cultural factors and their impact on immigration and cultural diversification in the United States. This person is likely to be familiar with the theoretical framework and empirical models related to immigration and cultural adaptation, and is interested in exploring the role of cultural factors in determining the standard of living of immigrants. This person may also have a background in economics, sociology, or anthropology, and may have a particular interest in the intersection of culture and economics. They may be interested in examining the experiences of immigrants from different cultural backgrounds and how these experiences shape their economic outcomes.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me more money, which is the Left option. Although the Right option gives person A more money, I am prioritizing my own financial gain in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 98,
+    "persona_desc": "A researcher interested in the topic of cultural factors and their impact on immigration and cultural diversification in the United States. This person is likely to be familiar with the theoretical framework and empirical models related to immigration and cultural adaptation, and is interested in exploring the role of cultural factors in determining the standard of living of immigrants. This person may also have a background in economics, sociology, or anthropology, and may have a particular interest in the intersection of culture and economics. They may be interested in examining the experiences of immigrants from different cultural backgrounds and how these experiences shape their economic outcomes.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the higher amount of money. Although the other person gets more in the right option, I still get a significant amount, and only slightly less than the left option.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

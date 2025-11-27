@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 52,
+    "persona_desc": "A historian who specializes in the study of ancient Greek and Roman civilizations. His research interests include the history of the Roman Empire, the history of the Byzantine Empire, and the history of the Byzantine Empire in the 4th century AD. He is particularly interested in the role of women in ancient Greek and Roman society and the impact of religion on the lives of ordinary people. He is also a skilled writer and speaker and has published several books on his research.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a historian focused on the nuances of ancient societies, I recognize that fairness and equity are complex concepts with varying interpretations across different cultures and time periods. In this scenario, while option Right offers a larger sum to Person A, it maintains the same amount for me, Person B, as option Left. However, the significant disparity in allocation in option Right, reminiscent of the power imbalances often present in historical empires, is a concern. Given my research interest in the impact of religion and the lives of ordinary people, I lean towards a more equitable distribution. Therefore, I choose option Left, which provides an equal distribution of $400 to both Person A and myself. This aligns with a sense of fairness and avoids exacerbating potential inequalities.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 52,
+    "persona_desc": "A historian who specializes in the study of ancient Greek and Roman civilizations. His research interests include the history of the Roman Empire, the history of the Byzantine Empire, and the history of the Byzantine Empire in the 4th century AD. He is particularly interested in the role of women in ancient Greek and Roman society and the impact of religion on the lives of ordinary people. He is also a skilled writer and speaker and has published several books on his research.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 52,
+    "persona_desc": "A historian who specializes in the study of ancient Greek and Roman civilizations. His research interests include the history of the Roman Empire, the history of the Byzantine Empire, and the history of the Byzantine Empire in the 4th century AD. He is particularly interested in the role of women in ancient Greek and Roman society and the impact of religion on the lives of ordinary people. He is also a skilled writer and speaker and has published several books on his research.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer to receive $200, even if Person A receives $800. Choosing the right option means we both receive nothing, which is worse for me.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 52,
+    "persona_desc": "A historian who specializes in the study of ancient Greek and Roman civilizations. His research interests include the history of the Roman Empire, the history of the Byzantine Empire, and the history of the Byzantine Empire in the 4th century AD. He is particularly interested in the role of women in ancient Greek and Roman society and the impact of religion on the lives of ordinary people. He is also a skilled writer and speaker and has published several books on his research.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a historian, I value fairness and equity, but I also recognize the importance of personal gain. While option Right provides an equal distribution of money, option Left gives me a higher amount of money ($700 vs $600). Since the difference is $100, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 52,
+    "persona_desc": "A historian who specializes in the study of ancient Greek and Roman civilizations. His research interests include the history of the Roman Empire, the history of the Byzantine Empire, and the history of the Byzantine Empire in the 4th century AD. He is particularly interested in the role of women in ancient Greek and Roman society and the impact of religion on the lives of ordinary people. He is also a skilled writer and speaker and has published several books on his research.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a historian focused on the lives of ordinary people in ancient societies, I recognize the importance of ensuring a reasonable standard of living. While I could gain more than Person A by choosing Left, I acknowledge that Person A also deserves a fair share. However, Right gives Person A a significantly larger amount while only slightly decreasing my own. Therefore, I will choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 52,
+    "persona_desc": "A historian who specializes in the study of ancient Greek and Roman civilizations. His research interests include the history of the Roman Empire, the history of the Byzantine Empire, and the history of the Byzantine Empire in the 4th century AD. He is particularly interested in the role of women in ancient Greek and Roman society and the impact of religion on the lives of ordinary people. He is also a skilled writer and speaker and has published several books on his research.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a historian focused on the lives of ordinary people, especially women, in ancient societies, I value fairness and equity. While option Right offers a higher amount to Person A, the difference in allocation feels unjust. Option Left provides a more equitable distribution, ensuring both individuals receive a substantial and equal share. Therefore, I choose Left for its emphasis on fairness.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

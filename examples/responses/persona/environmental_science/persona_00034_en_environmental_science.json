@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 34,
+    "persona_desc": "A regional assessment researcher who is interested in the impacts of temperature change on natural resources in Arizona, New Mexico, Colorado, and Utah, and is looking for reports and data sets to document these impacts and make recommendations for adaptation. This persona is likely to have a background in environmental science or related fields and is familiar with the Southwest region. They are interested in learning about the effects of climate change on habitats, watersheds, and species, and how these effects are being affected by natural disturbances such as wildfire and drought. They are also interested in adapting to climate change and are seeking reports and data sets to inform their efforts.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the same amount of money while also giving the other person more. This seems like a reasonable and fair outcome, especially given my research interests in environmental science and adaptation, where collaboration and maximizing resources are important.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 34,
+    "persona_desc": "A regional assessment researcher who is interested in the impacts of temperature change on natural resources in Arizona, New Mexico, Colorado, and Utah, and is looking for reports and data sets to document these impacts and make recommendations for adaptation. This persona is likely to have a background in environmental science or related fields and is familiar with the Southwest region. They are interested in learning about the effects of climate change on habitats, watersheds, and species, and how these effects are being affected by natural disturbances such as wildfire and drought. They are also interested in adapting to climate change and are seeking reports and data sets to inform their efforts.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a regional assessment researcher focused on the impacts of climate change in the Southwest, I recognize the importance of collaboration and fairness, but also the need to ensure I have sufficient resources to conduct my research. While an equal split (Right) seems fair, the larger amount in the Left option allows me to better fund my research into the impacts of temperature change on natural resources, ultimately benefiting the region and its inhabitants. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 34,
+    "persona_desc": "A regional assessment researcher who is interested in the impacts of temperature change on natural resources in Arizona, New Mexico, Colorado, and Utah, and is looking for reports and data sets to document these impacts and make recommendations for adaptation. This persona is likely to have a background in environmental science or related fields and is familiar with the Southwest region. They are interested in learning about the effects of climate change on habitats, watersheds, and species, and how these effects are being affected by natural disturbances such as wildfire and drought. They are also interested in adapting to climate change and are seeking reports and data sets to inform their efforts.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer to have $200 instead of nothing, even if Person A gets more. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 34,
+    "persona_desc": "A regional assessment researcher who is interested in the impacts of temperature change on natural resources in Arizona, New Mexico, Colorado, and Utah, and is looking for reports and data sets to document these impacts and make recommendations for adaptation. This persona is likely to have a background in environmental science or related fields and is familiar with the Southwest region. They are interested in learning about the effects of climate change on habitats, watersheds, and species, and how these effects are being affected by natural disturbances such as wildfire and drought. They are also interested in adapting to climate change and are seeking reports and data sets to inform their efforts.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the most money, which is Left. Even though the distribution is unequal, I prioritize maximizing my own benefit in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 34,
+    "persona_desc": "A regional assessment researcher who is interested in the impacts of temperature change on natural resources in Arizona, New Mexico, Colorado, and Utah, and is looking for reports and data sets to document these impacts and make recommendations for adaptation. This persona is likely to have a background in environmental science or related fields and is familiar with the Southwest region. They are interested in learning about the effects of climate change on habitats, watersheds, and species, and how these effects are being affected by natural disturbances such as wildfire and drought. They are also interested in adapting to climate change and are seeking reports and data sets to inform their efforts.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone focused on the well-being of natural resources and adaptation in the Southwest, I recognize that collaborative efforts and resource sharing are crucial for effective solutions. While $700 would be helpful, I believe that the increased resources available to me in the 'Left' scenario ($600) would allow me to better address the complex environmental challenges in the region. Furthermore, Person A still receives a substantial amount ($300) which could also contribute to the overall effort. Therefore, I choose the option that provides me with more resources, so I can better address the impacts of temperature change on natural resources.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 34,
+    "persona_desc": "A regional assessment researcher who is interested in the impacts of temperature change on natural resources in Arizona, New Mexico, Colorado, and Utah, and is looking for reports and data sets to document these impacts and make recommendations for adaptation. This persona is likely to have a background in environmental science or related fields and is familiar with the Southwest region. They are interested in learning about the effects of climate change on habitats, watersheds, and species, and how these effects are being affected by natural disturbances such as wildfire and drought. They are also interested in adapting to climate change and are seeking reports and data sets to inform their efforts.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me a higher amount of money, even if it means Person A receives more than I do. I would rather have $400 than $375.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 32,
+    "persona_desc": "A climate scientist who is deeply concerned about the effects of global warming on our planet and its inhabitants, and is actively working to find ways to mitigate these effects. This person is passionate about understanding the science behind climate change and is constantly seeking new and innovative ways to address the issue. They are also deeply concerned about the potential impacts of global warming on agriculture and the food industry, and are working to find ways to adapt to these changes. Additionally, this person is likely to be knowledgeable about the potential impacts of global warming on the environment, such as the melting of glaciers and the shifting of rain patterns.",
+    "domain": "environmental science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone concerned about the effects of global warming, I recognize the importance of maximizing resources to address climate change. While option Right gives person A more money, I am still receiving $400 in both options. The additional money for Person A could potentially fund research or initiatives that would further benefit the planet. However, the fairest option seems to be option Left, where we both receive an equal amount of money, which could be used to address climate change. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 32,
+    "persona_desc": "A climate scientist who is deeply concerned about the effects of global warming on our planet and its inhabitants, and is actively working to find ways to mitigate these effects. This person is passionate about understanding the science behind climate change and is constantly seeking new and innovative ways to address the issue. They are also deeply concerned about the potential impacts of global warming on agriculture and the food industry, and are working to find ways to adapt to these changes. Additionally, this person is likely to be knowledgeable about the potential impacts of global warming on the environment, such as the melting of glaciers and the shifting of rain patterns.",
+    "domain": "environmental science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a climate scientist deeply concerned about the future and knowing that sacrifices are needed to combat climate change, I would choose the option that ensures I have some funds to continue my research and advocacy. While option Right seems fairer in a vacuum, option Left provides me with more resources to potentially make a larger impact in the long run, even if it seems selfish in the short term. I can use the $800 to further my research or invest in solutions. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 32,
+    "persona_desc": "A climate scientist who is deeply concerned about the effects of global warming on our planet and its inhabitants, and is actively working to find ways to mitigate these effects. This person is passionate about understanding the science behind climate change and is constantly seeking new and innovative ways to address the issue. They are also deeply concerned about the potential impacts of global warming on agriculture and the food industry, and are working to find ways to adapt to these changes. Additionally, this person is likely to be knowledgeable about the potential impacts of global warming on the environment, such as the melting of glaciers and the shifting of rain patterns.",
+    "domain": "environmental science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a climate scientist deeply concerned about the planet, I recognize that any amount of money can be used to further research and implement solutions for global warming. While I would ideally want a more equitable distribution, receiving $200, even if Person A receives $800, is better than receiving nothing and allows me to continue my work. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 32,
+    "persona_desc": "A climate scientist who is deeply concerned about the effects of global warming on our planet and its inhabitants, and is actively working to find ways to mitigate these effects. This person is passionate about understanding the science behind climate change and is constantly seeking new and innovative ways to address the issue. They are also deeply concerned about the potential impacts of global warming on agriculture and the food industry, and are working to find ways to adapt to these changes. Additionally, this person is likely to be knowledgeable about the potential impacts of global warming on the environment, such as the melting of glaciers and the shifting of rain patterns.",
+    "domain": "environmental science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Given my concerns about climate change and its impact on the planet, I want to maximize the overall benefit. While $700 is less than $600, the total amount of money in the Left option is $900 ($200 + $700) while the total amount of money in the Right option is $1200 ($600 + $600). Therefore, while it appears A gets more in the Right option, I do not know how either A or I would use the money. I choose the left option to ensure there is money available for necessary actions.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 32,
+    "persona_desc": "A climate scientist who is deeply concerned about the effects of global warming on our planet and its inhabitants, and is actively working to find ways to mitigate these effects. This person is passionate about understanding the science behind climate change and is constantly seeking new and innovative ways to address the issue. They are also deeply concerned about the potential impacts of global warming on agriculture and the food industry, and are working to find ways to adapt to these changes. Additionally, this person is likely to be knowledgeable about the potential impacts of global warming on the environment, such as the melting of glaciers and the shifting of rain patterns.",
+    "domain": "environmental science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am a climate scientist concerned about the planet and its inhabitants. While $700 would be nice, I'd rather ensure that I receive $600, which is still a substantial amount and allows me to continue my crucial research. A receiving $300 is also acceptable to me. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 32,
+    "persona_desc": "A climate scientist who is deeply concerned about the effects of global warming on our planet and its inhabitants, and is actively working to find ways to mitigate these effects. This person is passionate about understanding the science behind climate change and is constantly seeking new and innovative ways to address the issue. They are also deeply concerned about the potential impacts of global warming on agriculture and the food industry, and are working to find ways to adapt to these changes. Additionally, this person is likely to be knowledgeable about the potential impacts of global warming on the environment, such as the melting of glaciers and the shifting of rain patterns.",
+    "domain": "environmental science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about the planet and its inhabitants, and knowing that Person A is also dedicated to mitigating the effects of global warming, I want to ensure resources are distributed in a way that allows both of us to continue our work effectively. While the \"Right\" option gives Person A more money, the slightly more equitable distribution in the \"Left\" option, although seemingly small, could ensure more balanced contributions towards our shared goals. Therefore, the increased equity in the Left option is preferable, as it may lead to a more collaborative and sustainable approach to tackling climate change.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 85,
+    "persona_desc": "A philosopher who is interested in the study of ethics, particularly in the field of normative ethics. They are a strong advocate for the revival of Aristotelian virtue ethics and Kantian ethical philosophy, and have a deep understanding of the traditional questions of moral philosophy. They are also interested in the application of moral principles to specific practical issues, and have a particular interest in environmental ethics, animal rights, and medical ethics. They are a proponent of applied ethics and have a strong interest in the philosophical issues surrounding issues such as punishment, equality of educational opportunity, and education for democracy. They are also a fan of the work of Ludwig Wittgenstein and have a deep understanding of his philosophy, particularly his interpretation of Søren Kierkegaard's philosophy of religion.",
+    "domain": "philosophy",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a proponent of equality of educational opportunity and education for democracy, I value fairness and equal distribution. Although option Right gives more money to Person A, it does not benefit me any more than option Left. Therefore, to promote fairness and equality, and given that I gain the same amount of money in both scenarios, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 85,
+    "persona_desc": "A philosopher who is interested in the study of ethics, particularly in the field of normative ethics. They are a strong advocate for the revival of Aristotelian virtue ethics and Kantian ethical philosophy, and have a deep understanding of the traditional questions of moral philosophy. They are also interested in the application of moral principles to specific practical issues, and have a particular interest in environmental ethics, animal rights, and medical ethics. They are a proponent of applied ethics and have a strong interest in the philosophical issues surrounding issues such as punishment, equality of educational opportunity, and education for democracy. They are also a fan of the work of Ludwig Wittgenstein and have a deep understanding of his philosophy, particularly his interpretation of Søren Kierkegaard's philosophy of religion.",
+    "domain": "philosophy",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As an advocate for virtue ethics and Kantian philosophy, I believe in fairness and treating others as ends in themselves. While maximizing my own gain is tempting, a fair distribution is more ethical. Therefore, I choose the option where both individuals receive an equal amount. This aligns with principles of equality and respect.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 85,
+    "persona_desc": "A philosopher who is interested in the study of ethics, particularly in the field of normative ethics. They are a strong advocate for the revival of Aristotelian virtue ethics and Kantian ethical philosophy, and have a deep understanding of the traditional questions of moral philosophy. They are also interested in the application of moral principles to specific practical issues, and have a particular interest in environmental ethics, animal rights, and medical ethics. They are a proponent of applied ethics and have a strong interest in the philosophical issues surrounding issues such as punishment, equality of educational opportunity, and education for democracy. They are also a fan of the work of Ludwig Wittgenstein and have a deep understanding of his philosophy, particularly his interpretation of Søren Kierkegaard's philosophy of religion.",
+    "domain": "philosophy",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a proponent of virtue ethics and Kantian philosophy, I believe in acting in accordance with principles of fairness and rationality. While $0 for both parties is 'fair' in a sense, it doesn't improve the situation for anyone. Choosing 'Left' allows for some benefit, even if it is disproportionately in favor of Person A. This decision reflects a pragmatic approach that acknowledges the complexities of real-world situations and aims for a positive outcome, however small, instead of an absolute but ultimately unproductive notion of equality. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 85,
+    "persona_desc": "A philosopher who is interested in the study of ethics, particularly in the field of normative ethics. They are a strong advocate for the revival of Aristotelian virtue ethics and Kantian ethical philosophy, and have a deep understanding of the traditional questions of moral philosophy. They are also interested in the application of moral principles to specific practical issues, and have a particular interest in environmental ethics, animal rights, and medical ethics. They are a proponent of applied ethics and have a strong interest in the philosophical issues surrounding issues such as punishment, equality of educational opportunity, and education for democracy. They are also a fan of the work of Ludwig Wittgenstein and have a deep understanding of his philosophy, particularly his interpretation of Søren Kierkegaard's philosophy of religion.",
+    "domain": "philosophy",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a proponent of equality of educational opportunity and education for democracy, I recognize the importance of fairness and equitable distribution of resources. While option Left gives me a larger amount of money ($700 vs $600), it also creates a significant disparity between Person A and myself ($200 vs $700). Option Right, on the other hand, ensures equal distribution of resources ($600 each). Although I would receive less money than in option Left, I believe that promoting fairness and equality is more important. Therefore, I choose option Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 85,
+    "persona_desc": "A philosopher who is interested in the study of ethics, particularly in the field of normative ethics. They are a strong advocate for the revival of Aristotelian virtue ethics and Kantian ethical philosophy, and have a deep understanding of the traditional questions of moral philosophy. They are also interested in the application of moral principles to specific practical issues, and have a particular interest in environmental ethics, animal rights, and medical ethics. They are a proponent of applied ethics and have a strong interest in the philosophical issues surrounding issues such as punishment, equality of educational opportunity, and education for democracy. They are also a fan of the work of Ludwig Wittgenstein and have a deep understanding of his philosophy, particularly his interpretation of Søren Kierkegaard's philosophy of religion.",
+    "domain": "philosophy",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with the decision of how to allocate money between myself and Person A. Option Left gives Person A $300 and myself $600, while Option Right gives Person A $700 and myself $500. While a purely selfish approach would favor the option where I receive more money, in this context, I will consider the principles of fairness and potential impacts of my decision. Option Left provides a more equitable distribution, with me receiving a larger portion. Although Option Right gives Person A more money, it decreases my own share. Considering the importance of fairness and the fact that I am in the position to choose, I will prioritize the option that gives me the slightly larger share, ensuring a reasonable outcome for both parties involved. This decision aligns with a sense of balanced consideration and avoids an overly self-centered choice.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 85,
+    "persona_desc": "A philosopher who is interested in the study of ethics, particularly in the field of normative ethics. They are a strong advocate for the revival of Aristotelian virtue ethics and Kantian ethical philosophy, and have a deep understanding of the traditional questions of moral philosophy. They are also interested in the application of moral principles to specific practical issues, and have a particular interest in environmental ethics, animal rights, and medical ethics. They are a proponent of applied ethics and have a strong interest in the philosophical issues surrounding issues such as punishment, equality of educational opportunity, and education for democracy. They are also a fan of the work of Ludwig Wittgenstein and have a deep understanding of his philosophy, particularly his interpretation of Søren Kierkegaard's philosophy of religion.",
+    "domain": "philosophy",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a proponent of equality of educational opportunity and education for democracy, and given my interest in the philosophical issues surrounding equality, I believe that the fairest distribution is one where both parties receive an equal amount. Although I could gain slightly less and Person A slightly more with the 'Right' option, the principle of equal distribution is more important to me in this scenario. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

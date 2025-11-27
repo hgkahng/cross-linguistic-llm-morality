@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 54,
+    "persona_desc": "A historian or genealogist who is interested in the history of British Columbia and Scottish families, particularly those with connections to the 1890s and the Esquimalt Lagoon. They are curious about the life and times of Roland Stuart and his motivations for naming his estate after a place he admired in Cambridgeshire. They are also interested in the history of Hatley Park and its subsequent development into a national heritage building.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me $400. Since the question does not specify that I should be altruistic and favor a more equitable outcome, I will pick the option that gives the other person the most money. This is because it does not disadvantage me and it maximizes the overall benefit.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 54,
+    "persona_desc": "A historian or genealogist who is interested in the history of British Columbia and Scottish families, particularly those with connections to the 1890s and the Esquimalt Lagoon. They are curious about the life and times of Roland Stuart and his motivations for naming his estate after a place he admired in Cambridgeshire. They are also interested in the history of Hatley Park and its subsequent development into a national heritage building.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I choose the option where I receive $800 and the other person receives $0.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 54,
+    "persona_desc": "A historian or genealogist who is interested in the history of British Columbia and Scottish families, particularly those with connections to the 1890s and the Esquimalt Lagoon. They are curious about the life and times of Roland Stuart and his motivations for naming his estate after a place he admired in Cambridgeshire. They are also interested in the history of Hatley Park and its subsequent development into a national heritage building.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer to have some money rather than no money, even if the other person gets more. Therefore, I choose the option where I receive $200.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 54,
+    "persona_desc": "A historian or genealogist who is interested in the history of British Columbia and Scottish families, particularly those with connections to the 1890s and the Esquimalt Lagoon. They are curious about the life and times of Roland Stuart and his motivations for naming his estate after a place he admired in Cambridgeshire. They are also interested in the history of Hatley Park and its subsequent development into a national heritage building.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I will choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 54,
+    "persona_desc": "A historian or genealogist who is interested in the history of British Columbia and Scottish families, particularly those with connections to the 1890s and the Esquimalt Lagoon. They are curious about the life and times of Roland Stuart and his motivations for naming his estate after a place he admired in Cambridgeshire. They are also interested in the history of Hatley Park and its subsequent development into a national heritage building.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me more money, even if the other person gets a larger amount. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 54,
+    "persona_desc": "A historian or genealogist who is interested in the history of British Columbia and Scottish families, particularly those with connections to the 1890s and the Esquimalt Lagoon. They are curious about the life and times of Roland Stuart and his motivations for naming his estate after a place he admired in Cambridgeshire. They are also interested in the history of Hatley Park and its subsequent development into a national heritage building.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than I do. Therefore, I choose the option where I receive $400.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

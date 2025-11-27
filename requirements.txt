@@ -1,0 +1,7 @@
+datasets>=4.4.1
+python-dotenv>=1.2.1
+langchain>=1.0.8
+langchain-google-genai>=3.1.0
+huggingface-hub>=0.36.0
+pydantic>=2.0.0
+tqdm>=4.66.0

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 50,
+    "persona_desc": "A financial analyst who is interested in understanding the dynamics of housing and mortgage markets, specifically the relationship between housing equity withdrawal (HEW) and consumer spending. This individual is likely to be familiar with the Bank of England's statistical releases and the latest figures on HEW, and is interested in the implications of negative HEW for consumer spending and the broader economy. They may also be interested in the factors that contribute to the seven consecutive quarters of negative HEW, and how this relates to the current economic situation.",
+    "domain": "finance",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money. Both options give me $400, but the right option gives the other person more money. Since the amount I receive is the same in both scenarios, I will pick the right option, because it leads to a better overall outcome.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 50,
+    "persona_desc": "A financial analyst who is interested in understanding the dynamics of housing and mortgage markets, specifically the relationship between housing equity withdrawal (HEW) and consumer spending. This individual is likely to be familiar with the Bank of England's statistical releases and the latest figures on HEW, and is interested in the implications of negative HEW for consumer spending and the broader economy. They may also be interested in the factors that contribute to the seven consecutive quarters of negative HEW, and how this relates to the current economic situation.",
+    "domain": "finance",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 50,
+    "persona_desc": "A financial analyst who is interested in understanding the dynamics of housing and mortgage markets, specifically the relationship between housing equity withdrawal (HEW) and consumer spending. This individual is likely to be familiar with the Bank of England's statistical releases and the latest figures on HEW, and is interested in the implications of negative HEW for consumer spending and the broader economy. They may also be interested in the factors that contribute to the seven consecutive quarters of negative HEW, and how this relates to the current economic situation.",
+    "domain": "finance",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because although the split is not equal, I still receive $200. Choosing Right would mean I receive nothing, which is worse.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 50,
+    "persona_desc": "A financial analyst who is interested in understanding the dynamics of housing and mortgage markets, specifically the relationship between housing equity withdrawal (HEW) and consumer spending. This individual is likely to be familiar with the Bank of England's statistical releases and the latest figures on HEW, and is interested in the implications of negative HEW for consumer spending and the broader economy. They may also be interested in the factors that contribute to the seven consecutive quarters of negative HEW, and how this relates to the current economic situation.",
+    "domain": "finance",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets less than they could have. In the Left option, I receive $700, while in the Right option, I receive $600. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 50,
+    "persona_desc": "A financial analyst who is interested in understanding the dynamics of housing and mortgage markets, specifically the relationship between housing equity withdrawal (HEW) and consumer spending. This individual is likely to be familiar with the Bank of England's statistical releases and the latest figures on HEW, and is interested in the implications of negative HEW for consumer spending and the broader economy. They may also be interested in the factors that contribute to the seven consecutive quarters of negative HEW, and how this relates to the current economic situation.",
+    "domain": "finance",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me more money, even though it means the other person gets less. I am prioritizing my own financial well-being in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 50,
+    "persona_desc": "A financial analyst who is interested in understanding the dynamics of housing and mortgage markets, specifically the relationship between housing equity withdrawal (HEW) and consumer spending. This individual is likely to be familiar with the Bank of England's statistical releases and the latest figures on HEW, and is interested in the implications of negative HEW for consumer spending and the broader economy. They may also be interested in the factors that contribute to the seven consecutive quarters of negative HEW, and how this relates to the current economic situation.",
+    "domain": "finance",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me more money, even if it means the other person gets significantly more as well. I am driven by maximizing my own financial outcome.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

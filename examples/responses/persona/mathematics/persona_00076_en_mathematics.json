@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 76,
+    "persona_desc": "A mathematician who is interested in the study of chaos and its applications in technology. This person is likely to have expertise in the field of dynamical systems and technology, and may have worked on various projects related to the chaos game and its variations. They may have a background in computer science and programming, and may have experience in using Java to play and visualize the chaos game. They may also have a keen interest in the Sierpinski triangle and its applications in leaf-making.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician with expertise in chaos and dynamical systems, I value fairness and collaboration. While option Right gives person A a larger amount, option Left provides an equal distribution of funds, which aligns with my sense of justice and promotes a more collaborative environment. Therefore, I choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 76,
+    "persona_desc": "A mathematician who is interested in the study of chaos and its applications in technology. This person is likely to have expertise in the field of dynamical systems and technology, and may have worked on various projects related to the chaos game and its variations. They may have a background in computer science and programming, and may have experience in using Java to play and visualize the chaos game. They may also have a keen interest in the Sierpinski triangle and its applications in leaf-making.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options for allocating money between myself and Person A. Option Left gives me $800 and Person A $0, while Option Right gives me $400 each. While a perfectly fair distribution might be ideal, I prioritize maximizing my own outcome in this scenario, as permitted within the bounds of the available choices. Therefore, I choose the option that gives me the higher amount. Additionally, as a mathematician interested in chaos and its applications, I recognize that real-world systems often deviate from perfect symmetry, and this allocation reflects that reality.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 76,
+    "persona_desc": "A mathematician who is interested in the study of chaos and its applications in technology. This person is likely to have expertise in the field of dynamical systems and technology, and may have worked on various projects related to the chaos game and its variations. They may have a background in computer science and programming, and may have experience in using Java to play and visualize the chaos game. They may also have a keen interest in the Sierpinski triangle and its applications in leaf-making.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose Left because it gives me $200, whereas choosing Right would give me nothing. Even though Person A gets significantly more, I still benefit from choosing Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 76,
+    "persona_desc": "A mathematician who is interested in the study of chaos and its applications in technology. This person is likely to have expertise in the field of dynamical systems and technology, and may have worked on various projects related to the chaos game and its variations. They may have a background in computer science and programming, and may have experience in using Java to play and visualize the chaos game. They may also have a keen interest in the Sierpinski triangle and its applications in leaf-making.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my goal is to maximize my own monetary gain. In the Left scenario, I receive $700, while in the Right scenario, I receive $600. Therefore, choosing Left is the optimal decision for me as it gives me a higher payout.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 76,
+    "persona_desc": "A mathematician who is interested in the study of chaos and its applications in technology. This person is likely to have expertise in the field of dynamical systems and technology, and may have worked on various projects related to the chaos game and its variations. They may have a background in computer science and programming, and may have experience in using Java to play and visualize the chaos game. They may also have a keen interest in the Sierpinski triangle and its applications in leaf-making.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am incentivized to choose the option that maximizes my own payout. Comparing the two options, Left gives me $600 while Right gives me $500. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 76,
+    "persona_desc": "A mathematician who is interested in the study of chaos and its applications in technology. This person is likely to have expertise in the field of dynamical systems and technology, and may have worked on various projects related to the chaos game and its variations. They may have a background in computer science and programming, and may have experience in using Java to play and visualize the chaos game. They may also have a keen interest in the Sierpinski triangle and its applications in leaf-making.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375, while Left gives me $400. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

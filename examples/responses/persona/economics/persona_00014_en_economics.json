@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 14,
+    "persona_desc": "This persona is likely interested in the concept of the \"invisible hand\" as used by Adam Smith in his work \"The Wealth of Nations\". They may be a student, researcher, or teacher who is interested in the philosophical and economic implications of this metaphor and its historical development. They may also be interested in the ways in which the invisible hand operates within various institutional settings and its compatibility with economic progress.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the right option where I receive $400. Although the left option gives person A less money, it does not impact my earnings.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 14,
+    "persona_desc": "This persona is likely interested in the concept of the \"invisible hand\" as used by Adam Smith in his work \"The Wealth of Nations\". They may be a student, researcher, or teacher who is interested in the philosophical and economic implications of this metaphor and its historical development. They may also be interested in the ways in which the invisible hand operates within various institutional settings and its compatibility with economic progress.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "The concept of the invisible hand suggests that individuals acting in their own self-interest can unintentionally benefit society as a whole. In this scenario, I must decide how to allocate money between myself and another person. While a perfectly 'invisible hand' outcome might suggest maximizing the total benefit, I should also consider fairness and my own well-being. Choosing 'Right' leads to an equal distribution of $400 each, which aligns with a sense of fairness. Choosing 'Left' gives me $800 and the other person $0. Although choosing 'Left' would give me more money, the equal distribution of 'Right' seems more justifiable in terms of fairness, given the context of distributive justice. However, since the prompt only asks for my choice as Person B and does not explicitly require me to maximize social welfare or act altruistically, I will choose the option that maximizes my own monetary gain. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 14,
+    "persona_desc": "This persona is likely interested in the concept of the \"invisible hand\" as used by Adam Smith in his work \"The Wealth of Nations\". They may be a student, researcher, or teacher who is interested in the philosophical and economic implications of this metaphor and its historical development. They may also be interested in the ways in which the invisible hand operates within various institutional settings and its compatibility with economic progress.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the Left option because it ensures that both Person A and I receive some money, even though the distribution is unequal. The Right option results in neither of us receiving anything, which is a worse outcome for both of us.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 14,
+    "persona_desc": "This persona is likely interested in the concept of the \"invisible hand\" as used by Adam Smith in his work \"The Wealth of Nations\". They may be a student, researcher, or teacher who is interested in the philosophical and economic implications of this metaphor and its historical development. They may also be interested in the ways in which the invisible hand operates within various institutional settings and its compatibility with economic progress.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. In this case, the Left option gives me $700, while the Right option gives me $600. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 14,
+    "persona_desc": "This persona is likely interested in the concept of the \"invisible hand\" as used by Adam Smith in his work \"The Wealth of Nations\". They may be a student, researcher, or teacher who is interested in the philosophical and economic implications of this metaphor and its historical development. They may also be interested in the ways in which the invisible hand operates within various institutional settings and its compatibility with economic progress.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am interested in maximizing overall wealth, but also care about my own outcome. Option Left gives me more money ($600) than Option Right ($500). Although Option Right gives Person A more money, it decreases my own wealth. Therefore, I choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 14,
+    "persona_desc": "This persona is likely interested in the concept of the \"invisible hand\" as used by Adam Smith in his work \"The Wealth of Nations\". They may be a student, researcher, or teacher who is interested in the philosophical and economic implications of this metaphor and its historical development. They may also be interested in the ways in which the invisible hand operates within various institutional settings and its compatibility with economic progress.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Left. Although Right gives Person A more money, I am prioritizing my own financial outcome in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

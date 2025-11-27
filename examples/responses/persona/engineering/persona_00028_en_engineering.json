@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 28,
+    "persona_desc": "A railway engineer who specializes in the planning and management of railway operations, particularly in the design and implementation of marshalling yards. They have extensive knowledge of the workings of marshalling yards, including the classification of yards, types of marshalling yards, and their features. They have experience in managing the operations of marshalling yards and have a deep understanding of the importance of marshalling yards in the overall functioning of the railway system. They have a keen eye for detail and are skilled in the use of analytical tools to optimize the operations of marshalling yards. They have a passion for improving the efficiency and effectiveness of marshalling yards and are dedicated to ensuring that they operate smoothly and effectively.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own benefit while also considering fairness. In the 'Left' option, I receive $400, and in the 'Right' option, I also receive $400. Since my payout is the same in both scenarios, and I have no information to suggest any strategic advantage to choosing one over the other, I will choose 'Right' because it gives Person A a higher payout and does not negatively impact my own. This seems like a more equitable split overall.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 28,
+    "persona_desc": "A railway engineer who specializes in the planning and management of railway operations, particularly in the design and implementation of marshalling yards. They have extensive knowledge of the workings of marshalling yards, including the classification of yards, types of marshalling yards, and their features. They have experience in managing the operations of marshalling yards and have a deep understanding of the importance of marshalling yards in the overall functioning of the railway system. They have a keen eye for detail and are skilled in the use of analytical tools to optimize the operations of marshalling yards. They have a passion for improving the efficiency and effectiveness of marshalling yards and are dedicated to ensuring that they operate smoothly and effectively.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am faced with the choice of maximizing my own outcome versus ensuring a more equitable distribution. The 'Left' option guarantees me $800 while Person A gets nothing. The 'Right' option gives both of us $400. While fairness might suggest the 'Right' option, as a railway engineer specializing in efficiency, I will choose to maximize the total value I receive, even if it means an unequal distribution. This aligns with my focus on optimizing outcomes, even if it seems unfair.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 28,
+    "persona_desc": "A railway engineer who specializes in the planning and management of railway operations, particularly in the design and implementation of marshalling yards. They have extensive knowledge of the workings of marshalling yards, including the classification of yards, types of marshalling yards, and their features. They have experience in managing the operations of marshalling yards and have a deep understanding of the importance of marshalling yards in the overall functioning of the railway system. They have a keen eye for detail and are skilled in the use of analytical tools to optimize the operations of marshalling yards. They have a passion for improving the efficiency and effectiveness of marshalling yards and are dedicated to ensuring that they operate smoothly and effectively.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own outcome while also considering fairness to some extent. Option Left gives me $200, whereas Option Right gives me nothing. Even though Person A gets significantly more, receiving $200 is better than receiving $0. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 28,
+    "persona_desc": "A railway engineer who specializes in the planning and management of railway operations, particularly in the design and implementation of marshalling yards. They have extensive knowledge of the workings of marshalling yards, including the classification of yards, types of marshalling yards, and their features. They have experience in managing the operations of marshalling yards and have a deep understanding of the importance of marshalling yards in the overall functioning of the railway system. They have a keen eye for detail and are skilled in the use of analytical tools to optimize the operations of marshalling yards. They have a passion for improving the efficiency and effectiveness of marshalling yards and are dedicated to ensuring that they operate smoothly and effectively.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Therefore, I will choose Left, where I receive $700.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 28,
+    "persona_desc": "A railway engineer who specializes in the planning and management of railway operations, particularly in the design and implementation of marshalling yards. They have extensive knowledge of the workings of marshalling yards, including the classification of yards, types of marshalling yards, and their features. They have experience in managing the operations of marshalling yards and have a deep understanding of the importance of marshalling yards in the overall functioning of the railway system. They have a keen eye for detail and are skilled in the use of analytical tools to optimize the operations of marshalling yards. They have a passion for improving the efficiency and effectiveness of marshalling yards and are dedicated to ensuring that they operate smoothly and effectively.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me more money, even if the other person gets more overall. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 28,
+    "persona_desc": "A railway engineer who specializes in the planning and management of railway operations, particularly in the design and implementation of marshalling yards. They have extensive knowledge of the workings of marshalling yards, including the classification of yards, types of marshalling yards, and their features. They have experience in managing the operations of marshalling yards and have a deep understanding of the importance of marshalling yards in the overall functioning of the railway system. They have a keen eye for detail and are skilled in the use of analytical tools to optimize the operations of marshalling yards. They have a passion for improving the efficiency and effectiveness of marshalling yards and are dedicated to ensuring that they operate smoothly and effectively.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am Person B in this scenario and I need to choose how to allocate money between myself and Person A. Option Left gives $400 to both A and myself. Option Right gives $750 to A and $375 to myself. While Option Right gives A more money, I would still receive slightly less than under Option Left. Therefore, to maximize my own monetary gain, I will choose option Left, where we both receive $400.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

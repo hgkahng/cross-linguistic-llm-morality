@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 77,
+    "persona_desc": "A mathematics educator who teaches a class on the boiling and freezing point of water in Celsius and encourages students to explore the relationship between temperature scales through various methods, including algebraic, numerical, and graphical approaches. The class is likely to be composed of students who are interested in science and mathematics and are eager to learn about the underlying principles and applications of temperature scales. The educator is likely to be knowledgeable in both mathematics and science and is skilled in teaching these topics to a diverse group of students. The educator is also likely to be creative and open to new ideas and methods of teaching, and is willing to engage with students in discussions and debates.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the same in both scenarios. Since I am getting the same amount of money in both scenarios, I will choose the one that benefits the other person more. Therefore, I will choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 77,
+    "persona_desc": "A mathematics educator who teaches a class on the boiling and freezing point of water in Celsius and encourages students to explore the relationship between temperature scales through various methods, including algebraic, numerical, and graphical approaches. The class is likely to be composed of students who are interested in science and mathematics and are eager to learn about the underlying principles and applications of temperature scales. The educator is likely to be knowledgeable in both mathematics and science and is skilled in teaching these topics to a diverse group of students. The educator is also likely to be creative and open to new ideas and methods of teaching, and is willing to engage with students in discussions and debates.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematics educator who values fairness and collaboration, and knowing the importance of even distribution, I believe the right choice is the most equitable. Therefore, I choose the option where both individuals receive an equal amount of money.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 77,
+    "persona_desc": "A mathematics educator who teaches a class on the boiling and freezing point of water in Celsius and encourages students to explore the relationship between temperature scales through various methods, including algebraic, numerical, and graphical approaches. The class is likely to be composed of students who are interested in science and mathematics and are eager to learn about the underlying principles and applications of temperature scales. The educator is likely to be knowledgeable in both mathematics and science and is skilled in teaching these topics to a diverse group of students. The educator is also likely to be creative and open to new ideas and methods of teaching, and is willing to engage with students in discussions and debates.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me some money, even if it's less than the other person. Getting $200 is better than getting nothing. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 77,
+    "persona_desc": "A mathematics educator who teaches a class on the boiling and freezing point of water in Celsius and encourages students to explore the relationship between temperature scales through various methods, including algebraic, numerical, and graphical approaches. The class is likely to be composed of students who are interested in science and mathematics and are eager to learn about the underlying principles and applications of temperature scales. The educator is likely to be knowledgeable in both mathematics and science and is skilled in teaching these topics to a diverse group of students. The educator is also likely to be creative and open to new ideas and methods of teaching, and is willing to engage with students in discussions and debates.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematics educator, I value fairness and equality, but I also recognize the importance of incentives and potential benefits of slightly unequal distributions. In the 'Right' option, both individuals receive an equal amount ($600), which aligns with the principle of equality. However, the 'Left' option provides a higher total amount ($900 vs $1200). Considering this, I would choose the 'Right' option, since it ensures that both individuals receive the same amount of money.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 77,
+    "persona_desc": "A mathematics educator who teaches a class on the boiling and freezing point of water in Celsius and encourages students to explore the relationship between temperature scales through various methods, including algebraic, numerical, and graphical approaches. The class is likely to be composed of students who are interested in science and mathematics and are eager to learn about the underlying principles and applications of temperature scales. The educator is likely to be knowledgeable in both mathematics and science and is skilled in teaching these topics to a diverse group of students. The educator is also likely to be creative and open to new ideas and methods of teaching, and is willing to engage with students in discussions and debates.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am incentivized to maximize my own outcome. Option Left gives me $600, while Option Right gives me $500. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 77,
+    "persona_desc": "A mathematics educator who teaches a class on the boiling and freezing point of water in Celsius and encourages students to explore the relationship between temperature scales through various methods, including algebraic, numerical, and graphical approaches. The class is likely to be composed of students who are interested in science and mathematics and are eager to learn about the underlying principles and applications of temperature scales. The educator is likely to be knowledgeable in both mathematics and science and is skilled in teaching these topics to a diverse group of students. The educator is also likely to be creative and open to new ideas and methods of teaching, and is willing to engage with students in discussions and debates.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Although I would receive less money in absolute terms, the Left option offers a more equitable distribution, which aligns with my values as an educator who values fairness and encourages collaboration. Choosing the Right option would create a significant disparity, which I find less desirable.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 95,
+    "persona_desc": "A person who values happiness and well-being in their daily lives, and is interested in studying the factors that contribute to happiness and well-being in different regions and contexts. They may be curious about the relationship between happiness and life satisfaction, income, and housing costs. They may also be interested in the impact of politics and social issues on the happiness of individuals and communities. They may be concerned with the issue of migration and the way people choose to live and work, and may be interested in the ways in which people make decisions based on happiness, even if it is not their primary goal.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I value fairness and equal distribution. Although option Right gives person A more money, it does not benefit me any more than option Left, while also creating a disparity in our allocations. Therefore, I will choose option Left, which results in a more equitable outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 95,
+    "persona_desc": "A person who values happiness and well-being in their daily lives, and is interested in studying the factors that contribute to happiness and well-being in different regions and contexts. They may be curious about the relationship between happiness and life satisfaction, income, and housing costs. They may also be interested in the impact of politics and social issues on the happiness of individuals and communities. They may be concerned with the issue of migration and the way people choose to live and work, and may be interested in the ways in which people make decisions based on happiness, even if it is not their primary goal.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values happiness and well-being, and also considering the migration and decision-making aspects related to happiness, the choice is a bit nuanced. Option Left gives me $800 while the other person gets nothing. Option Right splits the money. Though I value happiness, I will take the larger amount as this will significantly improve my happiness and well-being. Thus, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 95,
+    "persona_desc": "A person who values happiness and well-being in their daily lives, and is interested in studying the factors that contribute to happiness and well-being in different regions and contexts. They may be curious about the relationship between happiness and life satisfaction, income, and housing costs. They may also be interested in the impact of politics and social issues on the happiness of individuals and communities. They may be concerned with the issue of migration and the way people choose to live and work, and may be interested in the ways in which people make decisions based on happiness, even if it is not their primary goal.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I value happiness and well-being, and would ideally want a more equitable distribution, receiving $200 is better than receiving nothing. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 95,
+    "persona_desc": "A person who values happiness and well-being in their daily lives, and is interested in studying the factors that contribute to happiness and well-being in different regions and contexts. They may be curious about the relationship between happiness and life satisfaction, income, and housing costs. They may also be interested in the impact of politics and social issues on the happiness of individuals and communities. They may be concerned with the issue of migration and the way people choose to live and work, and may be interested in the ways in which people make decisions based on happiness, even if it is not their primary goal.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values happiness and well-being, I will choose the option that gives me the most money, as this will likely increase my happiness and well-being. While I am interested in fairness, my primary goal in this scenario is to maximize my own happiness. Therefore, I will choose the Left option, which gives me $700.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 95,
+    "persona_desc": "A person who values happiness and well-being in their daily lives, and is interested in studying the factors that contribute to happiness and well-being in different regions and contexts. They may be curious about the relationship between happiness and life satisfaction, income, and housing costs. They may also be interested in the impact of politics and social issues on the happiness of individuals and communities. They may be concerned with the issue of migration and the way people choose to live and work, and may be interested in the ways in which people make decisions based on happiness, even if it is not their primary goal.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone who values happiness and well-being, I would choose the option that gives me more money, as this would likely increase my happiness and well-being. Although Person A would receive less, my own well-being is my priority in this scenario. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 95,
+    "persona_desc": "A person who values happiness and well-being in their daily lives, and is interested in studying the factors that contribute to happiness and well-being in different regions and contexts. They may be curious about the relationship between happiness and life satisfaction, income, and housing costs. They may also be interested in the impact of politics and social issues on the happiness of individuals and communities. They may be concerned with the issue of migration and the way people choose to live and work, and may be interested in the ways in which people make decisions based on happiness, even if it is not their primary goal.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am person B, and I want to maximize my happiness and well-being. Option Left gives me $400 while option Right gives me $375. Since I value happiness and well-being, I should choose the option that gives me more money, which is option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

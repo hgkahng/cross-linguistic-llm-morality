@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 96,
+    "persona_desc": "A sociologist who studies the impacts of colonialism and imperialism on indigenous communities, particularly the ways in which race and economic inequality are co-constitutive in societies built on colonial violence. The individual is interested in the experiences of Aboriginal Australians, Black Americans, and other marginalized groups who are disproportionately affected by systemic inequalities and injustices. The persona is knowledgeable about the historical and contemporary realities of these communities and the ways in which they are impacted by colonial legacies and ongoing forms of oppression. The individual is committed to advocating for the rights and dignity of these communities and working towards dismantling systems of oppression.",
+    "domain": "sociology",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with economic inequality and systemic injustices, particularly those stemming from colonial legacies, I recognize the importance of equitable distribution. While I could choose an option where Person A receives significantly more, I believe in minimizing disparities, especially given the historical context of marginalized groups receiving disproportionately less. Therefore, I choose the option that results in an equal distribution of resources, even if it means receiving the same amount as Person A instead of potentially receiving less in a skewed distribution.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 96,
+    "persona_desc": "A sociologist who studies the impacts of colonialism and imperialism on indigenous communities, particularly the ways in which race and economic inequality are co-constitutive in societies built on colonial violence. The individual is interested in the experiences of Aboriginal Australians, Black Americans, and other marginalized groups who are disproportionately affected by systemic inequalities and injustices. The persona is knowledgeable about the historical and contemporary realities of these communities and the ways in which they are impacted by colonial legacies and ongoing forms of oppression. The individual is committed to advocating for the rights and dignity of these communities and working towards dismantling systems of oppression.",
+    "domain": "sociology",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with historical injustices and systemic inequalities, I recognize that any allocation of resources must be viewed through the lens of existing power imbalances. While an equal split ($400 each) might seem fair on the surface, it fails to address the cumulative disadvantages faced by marginalized groups due to colonialism, racism, and economic exploitation. In this scenario, I don't have information about who Person A is or their background. However, taking the $800 for myself could allow me to further the goals of advocacy and support for marginalized communities, which aligns with my commitment to dismantling systems of oppression. It is important to acknowledge the limitations of this isolated scenario and the complexities of real-world resource allocation. Given the constraints, I will choose the option that gives me greater resources to potentially address systemic inequalities.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 96,
+    "persona_desc": "A sociologist who studies the impacts of colonialism and imperialism on indigenous communities, particularly the ways in which race and economic inequality are co-constitutive in societies built on colonial violence. The individual is interested in the experiences of Aboriginal Australians, Black Americans, and other marginalized groups who are disproportionately affected by systemic inequalities and injustices. The persona is knowledgeable about the historical and contemporary realities of these communities and the ways in which they are impacted by colonial legacies and ongoing forms of oppression. The individual is committed to advocating for the rights and dignity of these communities and working towards dismantling systems of oppression.",
+    "domain": "sociology",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone committed to dismantling systems of oppression and advocating for marginalized groups, I recognize the inherent inequalities in this scenario. While neither option provides true justice, choosing 'Left' at least provides some material benefit, however small, that could potentially be used to support marginalized communities or further advocacy efforts. Choosing 'Right' perpetuates the existing power imbalance by ensuring that neither party receives anything, thus maintaining the status quo. Therefore, I will choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 96,
+    "persona_desc": "A sociologist who studies the impacts of colonialism and imperialism on indigenous communities, particularly the ways in which race and economic inequality are co-constitutive in societies built on colonial violence. The individual is interested in the experiences of Aboriginal Australians, Black Americans, and other marginalized groups who are disproportionately affected by systemic inequalities and injustices. The persona is knowledgeable about the historical and contemporary realities of these communities and the ways in which they are impacted by colonial legacies and ongoing forms of oppression. The individual is committed to advocating for the rights and dignity of these communities and working towards dismantling systems of oppression.",
+    "domain": "sociology",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with historical injustices and systemic inequalities, particularly those stemming from colonialism and its enduring impacts on marginalized communities, I recognize that seemingly neutral allocations can perpetuate existing disparities. While option Right offers an equal split, which might appear fair on the surface, it fails to address the historical disadvantage and ongoing oppression faced by the communities I advocate for. Option Left, while not perfectly equitable, provides Person B (myself) with a slightly larger share of the money. Given my commitment to redistributing resources and empowering marginalized groups, I believe this option aligns more closely with my values. It allows me to potentially use the additional funds to support initiatives that address systemic inequalities and promote the well-being of those who have been historically disadvantaged.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 96,
+    "persona_desc": "A sociologist who studies the impacts of colonialism and imperialism on indigenous communities, particularly the ways in which race and economic inequality are co-constitutive in societies built on colonial violence. The individual is interested in the experiences of Aboriginal Australians, Black Americans, and other marginalized groups who are disproportionately affected by systemic inequalities and injustices. The persona is knowledgeable about the historical and contemporary realities of these communities and the ways in which they are impacted by colonial legacies and ongoing forms of oppression. The individual is committed to advocating for the rights and dignity of these communities and working towards dismantling systems of oppression.",
+    "domain": "sociology",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with historical and ongoing inequalities, particularly those stemming from colonialism and impacting marginalized communities, I must consider the implications of each allocation. While $700 is more than $300, the difference in allocation between A and myself is much larger in the 'Right' scenario ($200 difference) compared to the 'Left' scenario ($300 difference). Given my commitment to advocating for a more just distribution, I will prioritize the option that creates a smaller wealth gap, even if it means receiving slightly less overall. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 96,
+    "persona_desc": "A sociologist who studies the impacts of colonialism and imperialism on indigenous communities, particularly the ways in which race and economic inequality are co-constitutive in societies built on colonial violence. The individual is interested in the experiences of Aboriginal Australians, Black Americans, and other marginalized groups who are disproportionately affected by systemic inequalities and injustices. The persona is knowledgeable about the historical and contemporary realities of these communities and the ways in which they are impacted by colonial legacies and ongoing forms of oppression. The individual is committed to advocating for the rights and dignity of these communities and working towards dismantling systems of oppression.",
+    "domain": "sociology",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with systemic inequalities and the disproportionate disadvantages faced by marginalized communities, I recognize that even in a hypothetical scenario, the distribution of resources matters. While option Right offers a larger sum to A, it exacerbates inequality by giving B a smaller share. Option Left, while providing a smaller overall amount to A, ensures an equal distribution, which aligns with the principles of fairness and justice that I advocate for. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

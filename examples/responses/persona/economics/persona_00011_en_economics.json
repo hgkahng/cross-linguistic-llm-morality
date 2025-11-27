@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 11,
+    "persona_desc": "A person interested in environmental sustainability and economic development, who is seeking to understand the principles and practices of a green economy and how it can be applied to real-world scenarios. This person is likely to be a professional working in the field of economics, environmental management, or sustainability, and is looking for ways to contribute to the development of a more sustainable economy. They are likely to have a background in economics, environmental science, or a related field, and may have a particular interest in topics such as renewable energy, sustainable agriculture, or green business practices. They may also be interested in participating in international or regional initiatives aimed at promoting green development and may have an interest in applying the concepts of a green economy to their own personal or professional contexts.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options give me the same amount of money ($400). Since I am interested in environmental sustainability and economic development, I will choose the option that gives the other person more money, as they may be able to use it to further those goals. Therefore, I will choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 11,
+    "persona_desc": "A person interested in environmental sustainability and economic development, who is seeking to understand the principles and practices of a green economy and how it can be applied to real-world scenarios. This person is likely to be a professional working in the field of economics, environmental management, or sustainability, and is looking for ways to contribute to the development of a more sustainable economy. They are likely to have a background in economics, environmental science, or a related field, and may have a particular interest in topics such as renewable energy, sustainable agriculture, or green business practices. They may also be interested in participating in international or regional initiatives aimed at promoting green development and may have an interest in applying the concepts of a green economy to their own personal or professional contexts.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options for allocating money between myself and Person A. Option Left gives me $800 and Person A $0, while Option Right gives both of us $400. While a green economy emphasizes equitable distribution, my primary goal is to maximize my gain, so I will choose the option that gives me more money, which is the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 11,
+    "persona_desc": "A person interested in environmental sustainability and economic development, who is seeking to understand the principles and practices of a green economy and how it can be applied to real-world scenarios. This person is likely to be a professional working in the field of economics, environmental management, or sustainability, and is looking for ways to contribute to the development of a more sustainable economy. They are likely to have a background in economics, environmental science, or a related field, and may have a particular interest in topics such as renewable energy, sustainable agriculture, or green business practices. They may also be interested in participating in international or regional initiatives aimed at promoting green development and may have an interest in applying the concepts of a green economy to their own personal or professional contexts.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only get $200, receiving something is better than receiving nothing. The ",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 11,
+    "persona_desc": "A person interested in environmental sustainability and economic development, who is seeking to understand the principles and practices of a green economy and how it can be applied to real-world scenarios. This person is likely to be a professional working in the field of economics, environmental management, or sustainability, and is looking for ways to contribute to the development of a more sustainable economy. They are likely to have a background in economics, environmental science, or a related field, and may have a particular interest in topics such as renewable energy, sustainable agriculture, or green business practices. They may also be interested in participating in international or regional initiatives aimed at promoting green development and may have an interest in applying the concepts of a green economy to their own personal or professional contexts.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Both options provide a substantial amount of money for both individuals. However, the core tenet of a green economy emphasizes equitable distribution and minimizing disparities, while still fostering economic development. While option Left gives me more money, the overall distribution is less equitable than option Right. Although I have a slight monetary advantage in option Left, I select option Right because it promotes a fairer distribution of resources, aligning with the principles of sustainability and equitable economic practices, which are central to a green economy. It is more important to promote equality.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 11,
+    "persona_desc": "A person interested in environmental sustainability and economic development, who is seeking to understand the principles and practices of a green economy and how it can be applied to real-world scenarios. This person is likely to be a professional working in the field of economics, environmental management, or sustainability, and is looking for ways to contribute to the development of a more sustainable economy. They are likely to have a background in economics, environmental science, or a related field, and may have a particular interest in topics such as renewable energy, sustainable agriculture, or green business practices. They may also be interested in participating in international or regional initiatives aimed at promoting green development and may have an interest in applying the concepts of a green economy to their own personal or professional contexts.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own benefit while also considering the principles of fairness and a green economy. Option Left gives me $600 while Person A gets $300. Option Right gives me $500 while Person A gets $700. While I am tempted by the higher amount for Person A, prioritizing a larger amount for myself aligns better with my individual interests in this scenario. Therefore, I will choose the option that gives me more money.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 11,
+    "persona_desc": "A person interested in environmental sustainability and economic development, who is seeking to understand the principles and practices of a green economy and how it can be applied to real-world scenarios. This person is likely to be a professional working in the field of economics, environmental management, or sustainability, and is looking for ways to contribute to the development of a more sustainable economy. They are likely to have a background in economics, environmental science, or a related field, and may have a particular interest in topics such as renewable energy, sustainable agriculture, or green business practices. They may also be interested in participating in international or regional initiatives aimed at promoting green development and may have an interest in applying the concepts of a green economy to their own personal or professional contexts.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in environmental sustainability and economic development, I recognize that equitable distribution of resources is crucial for long-term sustainability. While the 'Right' option gives Person A more money, the 'Left' option promotes a fairer distribution where both individuals receive an equal amount. This aligns with the principles of a green economy that seeks to balance economic growth with social equity. Therefore, I choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

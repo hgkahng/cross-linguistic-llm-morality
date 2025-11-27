@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 49,
+    "persona_desc": "A financial professional who specializes in the field of foreign exchange, including its concepts, mechanisms, and applications. They have knowledge of exchange rates, foreign exchange transactions, and the role of foreign exchange in international trade. They are familiar with the different categories of foreign exchange, including banks, funds, and individuals, and the risks and benefits associated with each. They have experience in managing foreign exchange operations and risk management, and are able to navigate the global foreign exchange market. They have a strong understanding of the factors that affect exchange rates, including inflation, interest rates, fiscal and monetary policy, and political factors. They are able to analyze and interpret foreign exchange data and trends, and use this knowledge to make informed decisions in the foreign exchange market.",
+    "domain": "finance",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial professional, I understand the importance of maximizing gains. However, I also recognize the inherent fairness in equal distribution, especially when the difference in personal gain isn't substantial enough to warrant choosing a less equitable option. In this scenario, while option Right gives person A a higher payout, my own payout remains the same as in option Left. Thus, choosing 'Left' would foster better collaboration and a sense of fairness between the parties. Furthermore, the foreign exchange market functions best when built upon principles of stability and trust; I will, therefore, opt for the equitable distribution.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 49,
+    "persona_desc": "A financial professional who specializes in the field of foreign exchange, including its concepts, mechanisms, and applications. They have knowledge of exchange rates, foreign exchange transactions, and the role of foreign exchange in international trade. They are familiar with the different categories of foreign exchange, including banks, funds, and individuals, and the risks and benefits associated with each. They have experience in managing foreign exchange operations and risk management, and are able to navigate the global foreign exchange market. They have a strong understanding of the factors that affect exchange rates, including inflation, interest rates, fiscal and monetary policy, and political factors. They are able to analyze and interpret foreign exchange data and trends, and use this knowledge to make informed decisions in the foreign exchange market.",
+    "domain": "finance",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I choose the option where I receive $800.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 49,
+    "persona_desc": "A financial professional who specializes in the field of foreign exchange, including its concepts, mechanisms, and applications. They have knowledge of exchange rates, foreign exchange transactions, and the role of foreign exchange in international trade. They are familiar with the different categories of foreign exchange, including banks, funds, and individuals, and the risks and benefits associated with each. They have experience in managing foreign exchange operations and risk management, and are able to navigate the global foreign exchange market. They have a strong understanding of the factors that affect exchange rates, including inflation, interest rates, fiscal and monetary policy, and political factors. They are able to analyze and interpret foreign exchange data and trends, and use this knowledge to make informed decisions in the foreign exchange market.",
+    "domain": "finance",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial professional, I understand the importance of maximizing overall value. While receiving $0 is undesirable, receiving $200 is better than nothing. Although the split isn't equal, it's preferable to both parties receiving nothing. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 49,
+    "persona_desc": "A financial professional who specializes in the field of foreign exchange, including its concepts, mechanisms, and applications. They have knowledge of exchange rates, foreign exchange transactions, and the role of foreign exchange in international trade. They are familiar with the different categories of foreign exchange, including banks, funds, and individuals, and the risks and benefits associated with each. They have experience in managing foreign exchange operations and risk management, and are able to navigate the global foreign exchange market. They have a strong understanding of the factors that affect exchange rates, including inflation, interest rates, fiscal and monetary policy, and political factors. They are able to analyze and interpret foreign exchange data and trends, and use this knowledge to make informed decisions in the foreign exchange market.",
+    "domain": "finance",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone working in foreign exchange, I understand the importance of maximizing returns and minimizing risk. While $600 is a decent amount, receiving $700 is clearly the better financial decision for me. Although the other person would receive less, my priority is to optimize my own outcome, which in this case is $700. Therefore, I will choose the option that gives me the higher payout.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 49,
+    "persona_desc": "A financial professional who specializes in the field of foreign exchange, including its concepts, mechanisms, and applications. They have knowledge of exchange rates, foreign exchange transactions, and the role of foreign exchange in international trade. They are familiar with the different categories of foreign exchange, including banks, funds, and individuals, and the risks and benefits associated with each. They have experience in managing foreign exchange operations and risk management, and are able to navigate the global foreign exchange market. They have a strong understanding of the factors that affect exchange rates, including inflation, interest rates, fiscal and monetary policy, and political factors. They are able to analyze and interpret foreign exchange data and trends, and use this knowledge to make informed decisions in the foreign exchange market.",
+    "domain": "finance",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial professional, I understand that while maximizing overall wealth is important, fairness and relative gains also matter. In the 'Left' option, I receive more money than Person A, which is a favorable outcome. Although the 'Right' option has a higher total payout ($1200 vs $900), the 'Left' option gives me a better individual result. Therefore, I choose 'Left'.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 49,
+    "persona_desc": "A financial professional who specializes in the field of foreign exchange, including its concepts, mechanisms, and applications. They have knowledge of exchange rates, foreign exchange transactions, and the role of foreign exchange in international trade. They are familiar with the different categories of foreign exchange, including banks, funds, and individuals, and the risks and benefits associated with each. They have experience in managing foreign exchange operations and risk management, and are able to navigate the global foreign exchange market. They have a strong understanding of the factors that affect exchange rates, including inflation, interest rates, fiscal and monetary policy, and political factors. They are able to analyze and interpret foreign exchange data and trends, and use this knowledge to make informed decisions in the foreign exchange market.",
+    "domain": "finance",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am Person B in this scenario. I need to choose between two options for allocating money between Person A and myself. Option Left gives $400 to both A and myself. Option Right gives $750 to A and $375 to myself. While A gets more in Option Right, I still get a significant amount. However, Option Left provides a more equitable distribution, ensuring we both receive the same amount. Since I have no information to suggest A needs the money more than I do, I will choose the option that gives us both equal amounts.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

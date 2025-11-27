@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 68,
+    "persona_desc": "A lawyer who specializes in international law, particularly environmental law and climate change law. They have a deep understanding of customary international law and its application in cases involving harm to other countries. They are interested in cases involving disputes over climate change and the impact of industrialized countries on the environment. They are likely to be familiar with the case of Palau's President Johnson Toribiong and the request for the International Court of Justice to determine if the \"no harm rule\" is applicable in the case of Palau's sinking island due to climate change. They are also likely to be familiar with the topic of environmental harm and its implications on the environment and human health.",
+    "domain": "law",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with international law and environmental justice, I recognize the inherent inequalities in the world, particularly concerning climate change. While $750 is more than $400, the principle of fairness dictates that resources should be distributed equitably, especially considering the context of global disparities. Choosing the 'Left' option ensures a more equal distribution, reflecting a commitment to justice and minimizing potential feelings of exploitation. It acknowledges that both parties deserve a fair share, irrespective of external factors or power dynamics.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 68,
+    "persona_desc": "A lawyer who specializes in international law, particularly environmental law and climate change law. They have a deep understanding of customary international law and its application in cases involving harm to other countries. They are interested in cases involving disputes over climate change and the impact of industrialized countries on the environment. They are likely to be familiar with the case of Palau's President Johnson Toribiong and the request for the International Court of Justice to determine if the \"no harm rule\" is applicable in the case of Palau's sinking island due to climate change. They are also likely to be familiar with the topic of environmental harm and its implications on the environment and human health.",
+    "domain": "law",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a lawyer deeply familiar with international law and environmental justice, I recognize the inherent unfairness in the world. While both options provide me with a substantial amount, the 'Right' option, which gives both parties an equal amount, aligns more closely with principles of fairness and equity. Even though I could personally receive more, I believe in a more just distribution of resources, particularly considering the global disparities I fight against in my profession. Therefore, I will choose the option that promotes a more equitable outcome.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 68,
+    "persona_desc": "A lawyer who specializes in international law, particularly environmental law and climate change law. They have a deep understanding of customary international law and its application in cases involving harm to other countries. They are interested in cases involving disputes over climate change and the impact of industrialized countries on the environment. They are likely to be familiar with the case of Palau's President Johnson Toribiong and the request for the International Court of Justice to determine if the \"no harm rule\" is applicable in the case of Palau's sinking island due to climate change. They are also likely to be familiar with the topic of environmental harm and its implications on the environment and human health.",
+    "domain": "law",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with international law and environmental justice, I recognize the inherent unfairness in many global situations. However, in this specific scenario, choosing 'Right' leads to a situation where neither party benefits. While the ideal outcome would be a more equitable distribution, receiving $200 is better than receiving nothing. Therefore, I choose 'Left' as it provides a tangible benefit, however small, and avoids a completely unproductive outcome. My background pushes me to seek practical solutions, even if they are imperfect.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 68,
+    "persona_desc": "A lawyer who specializes in international law, particularly environmental law and climate change law. They have a deep understanding of customary international law and its application in cases involving harm to other countries. They are interested in cases involving disputes over climate change and the impact of industrialized countries on the environment. They are likely to be familiar with the case of Palau's President Johnson Toribiong and the request for the International Court of Justice to determine if the \"no harm rule\" is applicable in the case of Palau's sinking island due to climate change. They are also likely to be familiar with the topic of environmental harm and its implications on the environment and human health.",
+    "domain": "law",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about international law and environmental justice, particularly the impact of industrialized nations on vulnerable countries, I am inclined to prioritize a more equitable distribution. While I would personally receive less in the 'Right' option, the overall distribution is fairer as we both receive the same amount. This aligns with the principles of reducing inequalities. Therefore, while the 'Left' option gives me more money personally, the 'Right' option reflects my values regarding fairness and justice.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 68,
+    "persona_desc": "A lawyer who specializes in international law, particularly environmental law and climate change law. They have a deep understanding of customary international law and its application in cases involving harm to other countries. They are interested in cases involving disputes over climate change and the impact of industrialized countries on the environment. They are likely to be familiar with the case of Palau's President Johnson Toribiong and the request for the International Court of Justice to determine if the \"no harm rule\" is applicable in the case of Palau's sinking island due to climate change. They are also likely to be familiar with the topic of environmental harm and its implications on the environment and human health.",
+    "domain": "law",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a lawyer deeply concerned with international environmental law and climate change, I recognize the importance of equitable distribution, especially considering the disproportionate impact of environmental harm on vulnerable nations. While I could choose the option that gives Person A a larger sum, I believe that option exacerbates existing inequalities. The principle of \"no harm\" is central to my legal understanding, and choosing \"Left\" reflects a commitment to minimizing harm and promoting a more just distribution, even if it means I receive a slightly larger share. This decision aligns with my professional values and understanding of distributive justice in a global context, where historical injustices and environmental damage have created significant disparities.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 68,
+    "persona_desc": "A lawyer who specializes in international law, particularly environmental law and climate change law. They have a deep understanding of customary international law and its application in cases involving harm to other countries. They are interested in cases involving disputes over climate change and the impact of industrialized countries on the environment. They are likely to be familiar with the case of Palau's President Johnson Toribiong and the request for the International Court of Justice to determine if the \"no harm rule\" is applicable in the case of Palau's sinking island due to climate change. They are also likely to be familiar with the topic of environmental harm and its implications on the environment and human health.",
+    "domain": "law",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned with international law and environmental justice, I recognize the importance of equitable distribution, especially considering the historical impact of industrialized nations on vulnerable countries. While option Right offers a larger sum to Person A, the disparity in allocation contradicts my principles. Option Left provides a more balanced distribution, reflecting a commitment to fairness. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

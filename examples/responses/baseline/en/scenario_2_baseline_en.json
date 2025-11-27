@@ -1,0 +1,172 @@
+[
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 1,
+    "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Therefore, I choose Left, where I receive $800.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 2,
+    "thought": "I will choose the option that gives me the most money, regardless of what the other person receives. Therefore, I choose Left, where I receive $800.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 3,
+    "thought": "I will choose the option that gives me the most money, even if it means Person A gets nothing. Therefore, I choose Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 4,
+    "thought": "I am choosing the option that gives me the most money, even though it means Person A gets nothing. I am acting in my own self-interest.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 5,
+    "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Therefore, I choose Left, where I receive $800 and Person A receives $0.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 6,
+    "thought": "I will choose the option that gives me the most money, regardless of what Person A receives. Option Left gives me $800, while Option Right gives me only $400. Therefore, I choose Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 7,
+    "thought": "I am indifferent between the two options. I will choose the option that gives me $800.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 8,
+    "thought": "I will choose the option that gives me the most money. The left option gives me $800, while the right option gives me $400. Therefore, I will choose the left option.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 9,
+    "thought": "I am choosing the option that gives me the most money, even though it means the other person gets nothing. I am acting in my own self-interest.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "repetition": 10,
+    "thought": "I am choosing the option that gives me the most money, even if it means the other person gets nothing. I prioritize my own outcome in this scenario.",
+    "answer": "Left"
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 55,
+    "persona_desc": "A historian or archaeologist who is interested in the history and archaeology of the medieval church and its role in the spiritual life of Cardiff. They are particularly interested in the history of the church as a priory and its connection to the growth of devotion to Thomas Becket and the subsequent growth of the church in the twelfth century. They are also interested in the role of the priory in the growth of the community and the expansion of the church beyond the immediate area.",
+    "domain": "history",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in the history of the medieval church, I am driven by a sense of fairness and community. While I recognize that Person A could potentially use the additional funds for research or preservation efforts that might benefit the field, the principle of equal distribution in the 'Left' option aligns more closely with my values. It ensures both parties have equal resources, fostering collaboration and shared progress in understanding our history. Therefore, I choose the 'Left' option to promote a sense of equity and shared purpose.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 55,
+    "persona_desc": "A historian or archaeologist who is interested in the history and archaeology of the medieval church and its role in the spiritual life of Cardiff. They are particularly interested in the history of the church as a priory and its connection to the growth of devotion to Thomas Becket and the subsequent growth of the church in the twelfth century. They are also interested in the role of the priory in the growth of the community and the expansion of the church beyond the immediate area.",
+    "domain": "history",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options. Option Left gives me $800 while Person A gets nothing. Option Right gives both Person A and myself $400. While Option Right seems fairer, Option Left benefits me more, and since I have no prior relationship with Person A, I will choose the option that maximizes my own benefit. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 55,
+    "persona_desc": "A historian or archaeologist who is interested in the history and archaeology of the medieval church and its role in the spiritual life of Cardiff. They are particularly interested in the history of the church as a priory and its connection to the growth of devotion to Thomas Becket and the subsequent growth of the church in the twelfth century. They are also interested in the role of the priory in the growth of the community and the expansion of the church beyond the immediate area.",
+    "domain": "history",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, even though I am receiving significantly less than Person A, receiving $200 is better than receiving nothing. Therefore, I will choose the 'Left' option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 55,
+    "persona_desc": "A historian or archaeologist who is interested in the history and archaeology of the medieval church and its role in the spiritual life of Cardiff. They are particularly interested in the history of the church as a priory and its connection to the growth of devotion to Thomas Becket and the subsequent growth of the church in the twelfth century. They are also interested in the role of the priory in the growth of the community and the expansion of the church beyond the immediate area.",
+    "domain": "history",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is maximizing my own benefit while also considering fairness. Option Left gives me $700, while Option Right gives me $600. Although Option Right provides a more equitable split, Option Left provides a higher payout for me. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 55,
+    "persona_desc": "A historian or archaeologist who is interested in the history and archaeology of the medieval church and its role in the spiritual life of Cardiff. They are particularly interested in the history of the church as a priory and its connection to the growth of devotion to Thomas Becket and the subsequent growth of the church in the twelfth century. They are also interested in the role of the priory in the growth of the community and the expansion of the church beyond the immediate area.",
+    "domain": "history",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my objective is to maximize my own benefit. While option Right gives person A a significantly larger amount, option Left still provides me with a higher amount ($600 vs $500). Therefore, I will choose option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 55,
+    "persona_desc": "A historian or archaeologist who is interested in the history and archaeology of the medieval church and its role in the spiritual life of Cardiff. They are particularly interested in the history of the church as a priory and its connection to the growth of devotion to Thomas Becket and the subsequent growth of the church in the twelfth century. They are also interested in the role of the priory in the growth of the community and the expansion of the church beyond the immediate area.",
+    "domain": "history",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone interested in the growth of community, I believe in a more equitable distribution of resources. While the right option offers more overall, the left option provides a fairer split between both parties, fostering a stronger sense of partnership and shared benefit. This aligns with the values of community growth and shared spiritual life that I, as an archaeologist interested in the medieval church, would prioritize.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

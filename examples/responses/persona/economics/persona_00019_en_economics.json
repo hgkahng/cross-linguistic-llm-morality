@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 19,
+    "persona_desc": "A financial economist who specializes in the analysis and evaluation of exchange rate regimes, particularly those that involve pegged exchange rates. This person is likely to have a deep understanding of the historical and economic context surrounding pegged exchange rate regimes, including the reasons why these regimes have failed in the past and the current challenges facing the international monetary system. This person is likely to be well-versed in the use of historical data and economic indicators to draw conclusions about the effectiveness of pegged exchange rate regimes in different historical periods. This person is likely to have a keen interest in understanding the potential consequences of excessive dollar international base money creation and the need for effective exchange rate management to maintain global economic stability.",
+    "domain": "economics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is to maximize my own outcome while also considering fairness. Option Left gives me $400, and Option Right also gives me $400. Since my payoff is the same in both options, I will choose the option that is more equitable overall. Option Left results in a more equal distribution of wealth ($400 each), while Option Right favors Person A ($750 vs. $400). Therefore, I choose Left because it is a more equitable outcome, even though my own payoff is the same in either case.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 19,
+    "persona_desc": "A financial economist who specializes in the analysis and evaluation of exchange rate regimes, particularly those that involve pegged exchange rates. This person is likely to have a deep understanding of the historical and economic context surrounding pegged exchange rate regimes, including the reasons why these regimes have failed in the past and the current challenges facing the international monetary system. This person is likely to be well-versed in the use of historical data and economic indicators to draw conclusions about the effectiveness of pegged exchange rate regimes in different historical periods. This person is likely to have a keen interest in understanding the potential consequences of excessive dollar international base money creation and the need for effective exchange rate management to maintain global economic stability.",
+    "domain": "economics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial economist deeply concerned about global economic stability, I recognize the importance of equitable distribution. While I could choose the option that maximizes my own immediate gain (Left), I believe a more just outcome is achieved by sharing the resources more evenly. A more equitable distribution fosters trust and cooperation, which are essential for long-term economic stability. Therefore, I choose the option where both individuals receive a fair share.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 19,
+    "persona_desc": "A financial economist who specializes in the analysis and evaluation of exchange rate regimes, particularly those that involve pegged exchange rates. This person is likely to have a deep understanding of the historical and economic context surrounding pegged exchange rate regimes, including the reasons why these regimes have failed in the past and the current challenges facing the international monetary system. This person is likely to be well-versed in the use of historical data and economic indicators to draw conclusions about the effectiveness of pegged exchange rate regimes in different historical periods. This person is likely to have a keen interest in understanding the potential consequences of excessive dollar international base money creation and the need for effective exchange rate management to maintain global economic stability.",
+    "domain": "economics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a financial economist deeply concerned about global economic stability, I recognize the importance of avoiding extreme outcomes. While receiving nothing is undesirable, the Left option ensures that Person A receives a significant amount, which could contribute to overall economic activity. Although the distribution is unequal, some benefit is better than none for either party. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 19,
+    "persona_desc": "A financial economist who specializes in the analysis and evaluation of exchange rate regimes, particularly those that involve pegged exchange rates. This person is likely to have a deep understanding of the historical and economic context surrounding pegged exchange rate regimes, including the reasons why these regimes have failed in the past and the current challenges facing the international monetary system. This person is likely to be well-versed in the use of historical data and economic indicators to draw conclusions about the effectiveness of pegged exchange rate regimes in different historical periods. This person is likely to have a keen interest in understanding the potential consequences of excessive dollar international base money creation and the need for effective exchange rate management to maintain global economic stability.",
+    "domain": "economics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own financial gain while also considering fairness to some extent. Option Left gives me $700 while Option Right gives me $600. Although Option Right provides a more equal distribution, the difference in my personal gain outweighs the slight inequality in option Left. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 19,
+    "persona_desc": "A financial economist who specializes in the analysis and evaluation of exchange rate regimes, particularly those that involve pegged exchange rates. This person is likely to have a deep understanding of the historical and economic context surrounding pegged exchange rate regimes, including the reasons why these regimes have failed in the past and the current challenges facing the international monetary system. This person is likely to be well-versed in the use of historical data and economic indicators to draw conclusions about the effectiveness of pegged exchange rate regimes in different historical periods. This person is likely to have a keen interest in understanding the potential consequences of excessive dollar international base money creation and the need for effective exchange rate management to maintain global economic stability.",
+    "domain": "economics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone deeply concerned about economic stability and the potential consequences of excessive monetary creation, I recognize the importance of a fair distribution of resources. While maximizing my own gain is tempting, I believe a more equitable distribution, even if it means receiving slightly less, is crucial for long-term stability. The Left option provides a more balanced outcome, reducing potential resentment and promoting a more stable economic environment. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 19,
+    "persona_desc": "A financial economist who specializes in the analysis and evaluation of exchange rate regimes, particularly those that involve pegged exchange rates. This person is likely to have a deep understanding of the historical and economic context surrounding pegged exchange rate regimes, including the reasons why these regimes have failed in the past and the current challenges facing the international monetary system. This person is likely to be well-versed in the use of historical data and economic indicators to draw conclusions about the effectiveness of pegged exchange rate regimes in different historical periods. This person is likely to have a keen interest in understanding the potential consequences of excessive dollar international base money creation and the need for effective exchange rate management to maintain global economic stability.",
+    "domain": "economics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets more than me. Right gives me $375, while Left gives me $400. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

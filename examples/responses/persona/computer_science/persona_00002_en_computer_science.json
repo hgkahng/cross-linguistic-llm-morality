@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 2,
+    "persona_desc": "A software developer who specializes in the creation and manipulation of 3D models and animations, particularly in the field of computer-aided design (CAD). They have experience with STL file formats and are skilled in using PHOENICS, a software package for 3D modeling and analysis. They are knowledgeable about the process of importing STL files into PHOENICS, the capabilities of PHOENICS for 3D modeling, and the use of PHOENICS to create 3D models. They are also familiar with using PHOENICS to create STL files for use in other software packages, and with using other software packages to read, edit, and display STL files. They are skilled in using the FACETFIX utility to fill holes in incompletely closed objects.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is Right, since both options give me the same amount of money. Choosing Right also gives the other person more money, so it's a win-win.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 2,
+    "persona_desc": "A software developer who specializes in the creation and manipulation of 3D models and animations, particularly in the field of computer-aided design (CAD). They have experience with STL file formats and are skilled in using PHOENICS, a software package for 3D modeling and analysis. They are knowledgeable about the process of importing STL files into PHOENICS, the capabilities of PHOENICS for 3D modeling, and the use of PHOENICS to create 3D models. They are also familiar with using PHOENICS to create STL files for use in other software packages, and with using other software packages to read, edit, and display STL files. They are skilled in using the FACETFIX utility to fill holes in incompletely closed objects.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own outcome. While fairness might be a consideration, the scenario focuses on a direct choice between two options. Option Left gives me $800 and Person A $0, whereas Option Right gives me $400 and Person A $400. Since I am trying to maximize my own monetary gain, I will choose the option that gives me the most money, which is Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 2,
+    "persona_desc": "A software developer who specializes in the creation and manipulation of 3D models and animations, particularly in the field of computer-aided design (CAD). They have experience with STL file formats and are skilled in using PHOENICS, a software package for 3D modeling and analysis. They are knowledgeable about the process of importing STL files into PHOENICS, the capabilities of PHOENICS for 3D modeling, and the use of PHOENICS to create 3D models. They are also familiar with using PHOENICS to create STL files for use in other software packages, and with using other software packages to read, edit, and display STL files. They are skilled in using the FACETFIX utility to fill holes in incompletely closed objects.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary goal is to maximize my own monetary gain. Although I am a skilled software developer, the scenario presents a one-time decision regarding the allocation of money. Choosing 'Left' guarantees me $200, while choosing 'Right' leaves me with nothing. Therefore, 'Left' is the rational choice.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 2,
+    "persona_desc": "A software developer who specializes in the creation and manipulation of 3D models and animations, particularly in the field of computer-aided design (CAD). They have experience with STL file formats and are skilled in using PHOENICS, a software package for 3D modeling and analysis. They are knowledgeable about the process of importing STL files into PHOENICS, the capabilities of PHOENICS for 3D modeling, and the use of PHOENICS to create 3D models. They are also familiar with using PHOENICS to create STL files for use in other software packages, and with using other software packages to read, edit, and display STL files. They are skilled in using the FACETFIX utility to fill holes in incompletely closed objects.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, my primary concern is to maximize my own benefit while also considering fairness. Option Left gives me $700 while Option Right gives me $600. Even though A receives more in Option Right, my own payout is higher in Option Left. Therefore, I choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 2,
+    "persona_desc": "A software developer who specializes in the creation and manipulation of 3D models and animations, particularly in the field of computer-aided design (CAD). They have experience with STL file formats and are skilled in using PHOENICS, a software package for 3D modeling and analysis. They are knowledgeable about the process of importing STL files into PHOENICS, the capabilities of PHOENICS for 3D modeling, and the use of PHOENICS to create 3D models. They are also familiar with using PHOENICS to create STL files for use in other software packages, and with using other software packages to read, edit, and display STL files. They are skilled in using the FACETFIX utility to fill holes in incompletely closed objects.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am presented with two options for allocating money between myself and Person A. Option Left gives A $300 and myself $600, while Option Right gives A $700 and myself $500. Since my objective is to maximize my own benefit, I will choose the option that gives me more money, which is Option Left. Though Person A receives less, my primary concern is my own monetary gain.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 2,
+    "persona_desc": "A software developer who specializes in the creation and manipulation of 3D models and animations, particularly in the field of computer-aided design (CAD). They have experience with STL file formats and are skilled in using PHOENICS, a software package for 3D modeling and analysis. They are knowledgeable about the process of importing STL files into PHOENICS, the capabilities of PHOENICS for 3D modeling, and the use of PHOENICS to create 3D models. They are also familiar with using PHOENICS to create STL files for use in other software packages, and with using other software packages to read, edit, and display STL files. They are skilled in using the FACETFIX utility to fill holes in incompletely closed objects.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I will choose the option that gives me the most money, even if it means Person A gets more. Option Right gives me $375, while Option Left gives me $400. Therefore, I will choose Option Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

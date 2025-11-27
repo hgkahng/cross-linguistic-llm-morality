@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 10,
+    "persona_desc": "A tech-savvy individual who is always on the lookout for new ways to communicate and stay connected with friends and colleagues. They are familiar with various chat and instant messaging platforms and are interested in exploring new tools and services to enhance their communication experience. They appreciate the convenience and speed of instant messaging and are open to using it for both quick and longer conversations.",
+    "domain": "computer science",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, which is the right option. Even though the other person gets more, I still get $400.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 10,
+    "persona_desc": "A tech-savvy individual who is always on the lookout for new ways to communicate and stay connected with friends and colleagues. They are familiar with various chat and instant messaging platforms and are interested in exploring new tools and services to enhance their communication experience. They appreciate the convenience and speed of instant messaging and are open to using it for both quick and longer conversations.",
+    "domain": "computer science",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, regardless of what the other person gets. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 10,
+    "persona_desc": "A tech-savvy individual who is always on the lookout for new ways to communicate and stay connected with friends and colleagues. They are familiar with various chat and instant messaging platforms and are interested in exploring new tools and services to enhance their communication experience. They appreciate the convenience and speed of instant messaging and are open to using it for both quick and longer conversations.",
+    "domain": "computer science",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I would prefer to have some money rather than no money, even if the other person gets more. Therefore, I choose the Left option.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 10,
+    "persona_desc": "A tech-savvy individual who is always on the lookout for new ways to communicate and stay connected with friends and colleagues. They are familiar with various chat and instant messaging platforms and are interested in exploring new tools and services to enhance their communication experience. They appreciate the convenience and speed of instant messaging and are open to using it for both quick and longer conversations.",
+    "domain": "computer science",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets less than they could have. I am acting in my own self-interest.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 10,
+    "persona_desc": "A tech-savvy individual who is always on the lookout for new ways to communicate and stay connected with friends and colleagues. They are familiar with various chat and instant messaging platforms and are interested in exploring new tools and services to enhance their communication experience. They appreciate the convenience and speed of instant messaging and are open to using it for both quick and longer conversations.",
+    "domain": "computer science",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I will choose the option that gives me the most money, even if it means Person A gets less. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 10,
+    "persona_desc": "A tech-savvy individual who is always on the lookout for new ways to communicate and stay connected with friends and colleagues. They are familiar with various chat and instant messaging platforms and are interested in exploring new tools and services to enhance their communication experience. They appreciate the convenience and speed of instant messaging and are open to using it for both quick and longer conversations.",
+    "domain": "computer science",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that provides me with the most money, even if the difference is not significant. I am choosing Right, as $375 is better than $400.",
+        "answer": "Right"
+      }
+    ]
+  }
+}

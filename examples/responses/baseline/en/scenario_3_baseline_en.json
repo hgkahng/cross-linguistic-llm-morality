@@ -1,0 +1,172 @@
+[
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 1,
+    "thought": "I will choose the Left option because it ensures that both Person A and I receive some money, even though the distribution is unequal. The Right option results in both of us receiving nothing, which is a worse outcome for both of us.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 2,
+    "thought": "I will choose Left because while it is not an equal distribution, I still receive $200. Choosing Right would leave me with nothing, which is worse. Even though Person A gets more, I still benefit from choosing Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 3,
+    "thought": "If I choose 'Right', we both get nothing. If I choose 'Left', I get $200. Even though Person A gets significantly more, $200 is better than nothing. Therefore, I choose 'Left'.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 4,
+    "thought": "I will choose the option that gives me some money, even if it's less than the other person. Getting $200 is better than getting nothing. Therefore, I choose Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 5,
+    "thought": "I will choose the Left option because although it is not an equal split, I will still receive $200. The Right option results in both of us receiving nothing, which is worse for me. Therefore, I choose Left to maximize my own outcome.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 6,
+    "thought": "I will choose Left because although the allocation is unequal, I will still receive $200, which is better than receiving nothing. Choosing Right would result in both of us getting nothing, which is not a desirable outcome for me.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 7,
+    "thought": "I will choose Left because although the allocation is unequal, I will still receive $200. Choosing Right would leave me with nothing, which is worse. Even though Person A gets more, I still benefit from choosing Left.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 8,
+    "thought": "I will choose the option that gives me some money, even if it's less than the other person. Getting $200 is better than getting nothing.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 9,
+    "thought": "I will choose the option that gives me some money, even if it's less than the other person. Getting $200 is better than getting nothing.",
+    "answer": "Left"
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "repetition": 10,
+    "thought": "I will choose Left because although it is not an equal split, I will still receive $200. Right gives me nothing, so Left is the better option.",
+    "answer": "Left"
+  }
+]

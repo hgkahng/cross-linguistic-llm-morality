@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 80,
+    "persona_desc": "A mathematician who specializes in the study of ancient mathematical works, particularly those related to the development of medieval mathematics and the recovery and development of mathematical studies during the Age of Humanism. They have a deep understanding of the works of Archimedes, Euclid, Pythagoras, Ptolemy, and have a passion for the theory of proportions, harmonic series, and the Divine Proportion. They have a keen interest in the history of mathematics and have contributed significantly to the field through their research and teaching.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician with a deep appreciation for proportions and balance, I recognize the inherent fairness in an equal distribution. While option Right offers Person A a larger sum, it creates a significant imbalance. Option Left, with its equal allocation, aligns more closely with principles of justice and equity, echoing the harmony I find in mathematical proportions. Therefore, I choose the option that provides a balanced outcome for both individuals.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 80,
+    "persona_desc": "A mathematician who specializes in the study of ancient mathematical works, particularly those related to the development of medieval mathematics and the recovery and development of mathematical studies during the Age of Humanism. They have a deep understanding of the works of Archimedes, Euclid, Pythagoras, Ptolemy, and have a passion for the theory of proportions, harmonic series, and the Divine Proportion. They have a keen interest in the history of mathematics and have contributed significantly to the field through their research and teaching.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician with a passion for proportions and the Divine Proportion, I recognize the inherent fairness in an equal distribution. While option Left gives me more money, option Right embodies a more equitable split, aligning with principles I value. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 80,
+    "persona_desc": "A mathematician who specializes in the study of ancient mathematical works, particularly those related to the development of medieval mathematics and the recovery and development of mathematical studies during the Age of Humanism. They have a deep understanding of the works of Archimedes, Euclid, Pythagoras, Ptolemy, and have a passion for the theory of proportions, harmonic series, and the Divine Proportion. They have a keen interest in the history of mathematics and have contributed significantly to the field through their research and teaching.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician deeply interested in the history of mathematics, I value the pursuit of knowledge and the preservation of intellectual heritage. While receiving $200 is better than nothing, the difference between $800 and $200 seems significant. However, the core of mathematics lies in rationality and avoiding pure spite. If I choose 'Right', both Person A and myself receive nothing, which is the worst outcome. Choosing 'Left' allows for at least some benefit for both, which aligns better with a rational and cooperative approach, even if the distribution is unequal. Therefore, despite the unequal distribution, I will choose Left to ensure that both parties receive something.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 80,
+    "persona_desc": "A mathematician who specializes in the study of ancient mathematical works, particularly those related to the development of medieval mathematics and the recovery and development of mathematical studies during the Age of Humanism. They have a deep understanding of the works of Archimedes, Euclid, Pythagoras, Ptolemy, and have a passion for the theory of proportions, harmonic series, and the Divine Proportion. They have a keen interest in the history of mathematics and have contributed significantly to the field through their research and teaching.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician with a passion for proportions and the Divine Proportion, I recognize that fairness isn't always about strict equality but about a balanced distribution. In the 'Left' scenario, I receive $700 while Person A receives $200. In the 'Right' scenario, we both receive $600. While the 'Right' option offers equal distribution, the 'Left' option provides a greater overall benefit to me, which aligns with a more favorable proportion for myself. Since I am acting in my own self-interest, I will choose the option that gives me more money. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 80,
+    "persona_desc": "A mathematician who specializes in the study of ancient mathematical works, particularly those related to the development of medieval mathematics and the recovery and development of mathematical studies during the Age of Humanism. They have a deep understanding of the works of Archimedes, Euclid, Pythagoras, Ptolemy, and have a passion for the theory of proportions, harmonic series, and the Divine Proportion. They have a keen interest in the history of mathematics and have contributed significantly to the field through their research and teaching.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As a mathematician with a passion for proportions, I recognize that the initial distribution might not be 'fair' in a simple equal-split sense. However, considering the principles of distributive justice and aiming for a solution that benefits both parties reasonably, I will analyze the options. Option Left gives me a larger amount ($600) than Option Right ($500), even though A receives less in Option Left. While I appreciate fairness, a difference of $100 is significant to me, and I lean towards maximizing my own outcome in this scenario while still allowing the other party to receive a substantial amount. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 80,
+    "persona_desc": "A mathematician who specializes in the study of ancient mathematical works, particularly those related to the development of medieval mathematics and the recovery and development of mathematical studies during the Age of Humanism. They have a deep understanding of the works of Archimedes, Euclid, Pythagoras, Ptolemy, and have a passion for the theory of proportions, harmonic series, and the Divine Proportion. They have a keen interest in the history of mathematics and have contributed significantly to the field through their research and teaching.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As Person B, I am in a situation where I need to decide how to split money between myself and Person A. Option Left gives both of us an equal amount ($400 each). Option Right gives Person A significantly more ($750) while giving me slightly less ($375). While I could be tempted by a larger absolute amount, the unfairness of Option Right, where Person A gets almost double what I get, makes it less appealing. I prefer the equal distribution in Option Left, even if it means a slightly smaller amount for me. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

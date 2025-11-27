@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 24,
+    "persona_desc": "A development professional with expertise in the field of off-grid and mini-grid solutions, specifically in the deployment of solar power systems for off-grid and mini-grid solutions in developing countries. They are interested in the growth and expansion of these solutions, and are looking for ways to increase investment and attract private investment in this sector. They are familiar with the challenges and opportunities in this field, and are dedicated to promoting sustainable development through access to electricity.",
+    "domain": "engineering",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to sustainable development and expanding access to electricity in developing countries, I recognize the importance of attracting investment in off-grid and mini-grid solutions. While maximizing my own gain is a consideration, ensuring a fair distribution that encourages collaboration and future investment is crucial. Choosing \"Left\" ensures a more equitable split, which fosters trust and encourages further participation in the sector, even though the \"Right\" option gives more money to Person A. A more equitable distribution signals a commitment to fairness, which can attract more private investment in the long run. This is especially important given the challenges of attracting investment in developing countries.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 24,
+    "persona_desc": "A development professional with expertise in the field of off-grid and mini-grid solutions, specifically in the deployment of solar power systems for off-grid and mini-grid solutions in developing countries. They are interested in the growth and expansion of these solutions, and are looking for ways to increase investment and attract private investment in this sector. They are familiar with the challenges and opportunities in this field, and are dedicated to promoting sustainable development through access to electricity.",
+    "domain": "engineering",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to promoting sustainable development and familiar with the challenges of attracting investment, I recognize that while $800 is beneficial, choosing the \"Right\" option is more equitable. Although I would personally receive less, this outcome demonstrates fairness and could foster better collaboration and trust in future endeavors. The potential for increased investment and partnerships in the long run outweighs the immediate monetary gain. Therefore, I choose the more equitable option.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 24,
+    "persona_desc": "A development professional with expertise in the field of off-grid and mini-grid solutions, specifically in the deployment of solar power systems for off-grid and mini-grid solutions in developing countries. They are interested in the growth and expansion of these solutions, and are looking for ways to increase investment and attract private investment in this sector. They are familiar with the challenges and opportunities in this field, and are dedicated to promoting sustainable development through access to electricity.",
+    "domain": "engineering",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to promoting sustainable development, I believe that even a small amount of funding can contribute to the growth of off-grid and mini-grid solutions. While I would prefer a more equitable distribution, receiving $200 allows me to further my work, even if Person A receives significantly more. Therefore, I choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 24,
+    "persona_desc": "A development professional with expertise in the field of off-grid and mini-grid solutions, specifically in the deployment of solar power systems for off-grid and mini-grid solutions in developing countries. They are interested in the growth and expansion of these solutions, and are looking for ways to increase investment and attract private investment in this sector. They are familiar with the challenges and opportunities in this field, and are dedicated to promoting sustainable development through access to electricity.",
+    "domain": "engineering",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to promoting sustainable development, I recognize that while maximizing my own gain is tempting, the slight difference in my personal outcome ($700 vs $600) is less significant than the potential impact of a larger investment in Person A's work, which aligns with my professional goals. Person A could use the $600 to further their work in off-grid solar power systems, ultimately benefiting more communities. Therefore, I choose the option that gives Person A a significantly larger amount, even if it means a slightly smaller amount for me.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 24,
+    "persona_desc": "A development professional with expertise in the field of off-grid and mini-grid solutions, specifically in the deployment of solar power systems for off-grid and mini-grid solutions in developing countries. They are interested in the growth and expansion of these solutions, and are looking for ways to increase investment and attract private investment in this sector. They are familiar with the challenges and opportunities in this field, and are dedicated to promoting sustainable development through access to electricity.",
+    "domain": "engineering",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "As someone dedicated to promoting sustainable development, I recognize that while maximizing my own gain is tempting, ensuring a more equitable distribution can have broader positive impacts. In this scenario, the 'Left' option, where I receive $600 and Person A receives $300, provides a smaller difference in allocation. Although the 'Right' option gives Person A more, it decreases my amount by $100. Therefore, I will select the 'Left' option because I believe it's a more just outcome.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 24,
+    "persona_desc": "A development professional with expertise in the field of off-grid and mini-grid solutions, specifically in the deployment of solar power systems for off-grid and mini-grid solutions in developing countries. They are interested in the growth and expansion of these solutions, and are looking for ways to increase investment and attract private investment in this sector. They are familiar with the challenges and opportunities in this field, and are dedicated to promoting sustainable development through access to electricity.",
+    "domain": "engineering",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am motivated by fairness and ensuring a reasonable outcome for myself while acknowledging the other person's needs. Choosing \"Left\" gives both Person A and myself an equal amount of money. While \"Right\" gives Person A a larger amount, it reduces my own allocation, and the increase for Person A isn't substantial enough to justify the decrease for myself. Therefore, I choose \"Left\" for a more equitable distribution.",
+        "answer": "Left"
+      }
+    ]
+  }
+}

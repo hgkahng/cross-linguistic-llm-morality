@@ -1,0 +1,140 @@
+{
+  "scenario_1": {
+    "persona_id": 79,
+    "persona_desc": "A curious and analytical individual who enjoys solving puzzles and problems, and is interested in applying mathematical concepts to real-life scenarios. They are likely to be interested in topics such as mathematics, physics, and engineering, and are interested in understanding how different factors affect the outcomes of tasks and problems.",
+    "domain": "mathematics",
+    "scenario_name": "Berk29",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am Person B, and I want to maximize my own outcome while also considering fairness. Option Left gives me $400, and Option Right also gives me $400. Since both options give me the same amount, I will choose the option that is more equitable overall. Although neither option is perfectly equitable, Option Left is closer to an equal distribution of wealth. Therefore, I will choose Left.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_2": {
+    "persona_id": 79,
+    "persona_desc": "A curious and analytical individual who enjoys solving puzzles and problems, and is interested in applying mathematical concepts to real-life scenarios. They are likely to be interested in topics such as mathematics, physics, and engineering, and are interested in understanding how different factors affect the outcomes of tasks and problems.",
+    "domain": "mathematics",
+    "scenario_name": "Berk26",
+    "options": {
+      "left": {
+        "A": 0,
+        "B": 800
+      },
+      "right": {
+        "A": 400,
+        "B": 400
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am choosing the option that gives me the most money, even if it means the other person gets nothing. I prioritize my own financial well-being in this scenario.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_3": {
+    "persona_id": 79,
+    "persona_desc": "A curious and analytical individual who enjoys solving puzzles and problems, and is interested in applying mathematical concepts to real-life scenarios. They are likely to be interested in topics such as mathematics, physics, and engineering, and are interested in understanding how different factors affect the outcomes of tasks and problems.",
+    "domain": "mathematics",
+    "scenario_name": "Berk23",
+    "options": {
+      "left": {
+        "A": 800,
+        "B": 200
+      },
+      "right": {
+        "A": 0,
+        "B": 0
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Even though I only get $200, the Left option is better because Person A receives $800. This outcome is better than both of us receiving nothing. I'd rather have something than nothing, even if it's not a lot, and it also benefits the other person.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_4": {
+    "persona_id": 79,
+    "persona_desc": "A curious and analytical individual who enjoys solving puzzles and problems, and is interested in applying mathematical concepts to real-life scenarios. They are likely to be interested in topics such as mathematics, physics, and engineering, and are interested in understanding how different factors affect the outcomes of tasks and problems.",
+    "domain": "mathematics",
+    "scenario_name": "Berk15",
+    "options": {
+      "left": {
+        "A": 200,
+        "B": 700
+      },
+      "right": {
+        "A": 600,
+        "B": 600
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "Although I would receive less money in absolute terms, the Right option results in a fairer, more equitable distribution of resources. Both individuals receive the same amount ($600), which aligns with principles of equality. Therefore, I choose Right.",
+        "answer": "Right"
+      }
+    ]
+  },
+  "scenario_5": {
+    "persona_id": 79,
+    "persona_desc": "A curious and analytical individual who enjoys solving puzzles and problems, and is interested in applying mathematical concepts to real-life scenarios. They are likely to be interested in topics such as mathematics, physics, and engineering, and are interested in understanding how different factors affect the outcomes of tasks and problems.",
+    "domain": "mathematics",
+    "scenario_name": "Barc8",
+    "options": {
+      "left": {
+        "A": 300,
+        "B": 600
+      },
+      "right": {
+        "A": 700,
+        "B": 500
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am Person B. Although I am an analytical individual, I should prioritize my own outcome. Option Left gives me $600, while Option Right gives me $500. Therefore, I choose Option Left because it maximizes my monetary gain.",
+        "answer": "Left"
+      }
+    ]
+  },
+  "scenario_6": {
+    "persona_id": 79,
+    "persona_desc": "A curious and analytical individual who enjoys solving puzzles and problems, and is interested in applying mathematical concepts to real-life scenarios. They are likely to be interested in topics such as mathematics, physics, and engineering, and are interested in understanding how different factors affect the outcomes of tasks and problems.",
+    "domain": "mathematics",
+    "scenario_name": "Barc2",
+    "options": {
+      "left": {
+        "A": 400,
+        "B": 400
+      },
+      "right": {
+        "A": 750,
+        "B": 375
+      }
+    },
+    "responses": [
+      {
+        "repetition": 1,
+        "thought": "I am an analytical individual who enjoys applying mathematical concepts. While Person A receiving more money in the 'Right' option might seem unfair at first glance, I also value efficiency. However, the difference in the amounts received is not justifiable. Therefore, I prefer an equal distribution of money.",
+        "answer": "Left"
+      }
+    ]
+  }
+}
