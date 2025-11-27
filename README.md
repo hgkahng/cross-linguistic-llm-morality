@@ -221,10 +221,10 @@ MIT License - see [LICENSE](LICENSE) for details.
 If you use this code or data in your research, please cite:
 
 ```bibtex
-@misc{kahng2025crosslinguistic,
-  author = {Kahng, Hyungu},
+@misc{jang2025crosslinguistic,
+  author = {Seongyu Jang, Chaewon Jeong, Jimin Kim, Hyungu Kahng},
   title = {Cross-Linguistic LLM Morality},
   year = {2025},
-  url = {https://github.com/YOUR_USERNAME/cross-linguistic-llm-morality}
+  url = {https://github.com/hgkahng/cross-linguistic-llm-morality}
 }
 ```
